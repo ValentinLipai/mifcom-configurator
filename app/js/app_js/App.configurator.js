@@ -25,7 +25,7 @@ var App_configurator = (function($){
 			});
 		}
 	}
-	
+
 	function initSlickProductGallerySlider()
 	{
 		if ( productGalleryThumbsSlider.length > 0 && !productGalleryThumbsSliderInitialized )

@@ -567,6 +567,11 @@ var App_customizer = (function($) {
 		}
 	}
 
+	function copySummaryToModal()
+	{
+		var cummaryContent = $('.customizer-catalog-summary__options-categories__list').clone(true);
+		$('#modal__configurator-summary__table').append(cummaryContent);
+	}
 
 	window.addEventListener('resize', function(){
 		toggleTabContentOnResize();
@@ -600,6 +605,7 @@ var App_customizer = (function($) {
 		switchVisibilityEmptyComponentsInSummary();
 		addAccordionItemsToSidebar();
 		sidebarProductPreviewLinkHandler();
+		copySummaryToModal();
 	};
     
     return {
