@@ -1,0 +1,404 @@
+
+html
+	font-size: 10px
+
+body
+	margin: 0
+	padding: 0
+	position: relative
+	height: 100%
+	min-width: 320px
+	font-size: 1.5rem
+	font-family: $f_euro
+	overflow-x: hidden
+
+a
+	cursor: pointer
+
+.flex
+	display: flex
+.f-aic
+	align-items: center
+.f-jcc
+	justify-content: center
+.f-jcsb
+	justify-content: space-between
+.f-jcsa
+	justify-content: space-around
+
+.o-hidden
+	overflow: hidden !important
+
+.w45p
+	width: 45%
+.w50p
+	width: 50%
+.w55p
+	width: 55%
+.w100p
+	width: 100%
+
+.price
+	white-space: nowrap !important
+	&-notice
+		display: block
+		border-top: 1px solid $c_border_gray_lighten
+		line-height: 21px
+		margin: 0 7px
+		.cents,
+		.currency
+			white-space: nowrap !important
+
+.zoom-icon
+	position: relative
+	color: #000
+	padding: 1px
+	&:before,
+	&:after
+		content: ''
+		position: absolute
+		display: inline-block
+		width: 5px
+		height: 5px
+	&:before
+		bottom: -1px
+		left: 0
+		border-left: 1px solid #000
+		border-bottom: 1px solid #000
+	&:after
+		top: 0
+		right: 0
+		border-top: 1px solid #000
+		border-right: 1px solid #000
+
+.form-field
+	&-inline
+		display: flex
+		justify-content: space-between
+		.btn
+			position: relative
+			display: inline-block
+			text-align: left
+			white-space: nowrap
+			border: none
+			font-family: $f_euro
+			overflow: hidden
+			padding-left: 10px
+			font-size: 1.5rem
+			line-height: 1
+			background-color: #c60e0a
+			font-weight: $fw_med
+			padding: 11px 35px 11px 17px
+			min-width: 130px
+			color: #ffffff
+			&:before
+				content: ""
+				position: absolute
+				right: 0
+				top: -35px
+				display: block
+				height: 0
+				width: 0
+				border-top: 80px solid transparent
+				border-right: 80px solid #9d0f0d
+				border-bottom: 80px solid transparent
+			&:after
+				content: ""
+				position: absolute
+				right: 0px
+				top: 6px
+				display: inline-block
+				vertical-align: middle
+				font-size: 24px
+				line-height: 24px
+				color: #ffffff
+				font-family: $f_iconfont
+				text-decoration: none
+				padding: 0px 13px
+		.input-box
+			overflow: hidden
+			padding-right: 5px
+			flex-grow: 1
+		.input-text
+			padding: 9px 5px
+			height: 36px
+			width: 100%
+.nav
+	position: fixed
+	top: 0
+	left: 0
+	visibility: hidden
+	height: 100vh
+	width: 100%
+	z-index: -20
+	transition: all 0.25s
+	&:before
+		content: ''
+		position: absolute
+		top: 0
+		left: 0
+		display: none
+		opacity: 0
+		width: 100%
+		height: 100%
+		background-color: rgba(#000, 0.8)
+	*:focus,
+	*:active
+		outline: none
+	&.open
+		visibility: visible
+		opacity: 1
+		z-index: 40
+		&:before
+			display: block
+			opacity: 1
+		.nav-list
+			left: 0
+	&-list
+		position: absolute
+		bottom: 0
+		left: -200%
+		width: 315px
+		height: 679px
+		padding-bottom: 30px
+		background-color: $c_dark_darken
+		box-shadow: 0 0 24px #000
+		border-top: 1px solid $c_dark_gray_darken
+		overflow-y: auto
+		transition: left 0.25s
+	&-item
+		border-bottom: 1px solid $c_dark_gray_darken
+		&:last-of-type
+			border-bottom: none
+		a
+			display: block
+			text-transform: uppercase
+			font-weight: $fw_bold
+			text-decoration: none
+			line-height: 1
+			padding: 19px 20px
+			background-color: $c_dark_darken
+		&--parent
+			> a
+				position: relative
+				&:after
+					content: ''
+					display: block
+					position: absolute
+					width: 16px
+					height: 16px
+					border: 1px solid #fff
+					transform: rotate(-45deg) translate(0, -70%)
+					top: 50%
+					border-left: none
+					border-top: none
+					right: 12px
+		&--back
+			position: relative
+			text-transform: none
+			display: flex
+			align-items: center
+			justify-content: space-between
+			padding-left: 40px
+			cursor: pointer
+			&:before
+				content: ''
+				display: block
+				position: absolute
+				width: 16px
+				height: 16px
+				border: 1px solid #fff
+				transform: rotate(-45deg) translate(0, -70%)
+				top: 50%
+				border-right: none
+				border-bottom: none
+				left: 32px
+			span
+				position: relative
+				z-index: 10
+				color: #ffffff
+				font-weight: $fw_bold
+			a
+				text-decoration: underline
+				text-transform: none
+		&--user-link
+			border-top: 10px solid #323232
+			ul
+				position: static
+			li
+				border-top: 1px solid #414141
+			a
+				position: relative
+				span.f_iconf
+					font-size: 2.3rem
+					line-height: 1px
+					&:before
+						position: absolute
+						top: 50%
+						right: 20px
+						width: 16px
+						transform: translateY(-50%)							
+						line-height: 1
+
+	&-submenu
+		&__menus
+			position: absolute
+			top: 0
+			left: -200%
+			z-index: 1
+			width: 100%
+			height: 679px
+			overflow-y: auto
+			background-color: $c_dark_darken
+			transition: left 0.25s
+			&.show
+				left: 0
+				z-index: 10
+				> ul
+					left: 0
+		ul
+			position: absolute
+			top: 0
+			left: -100%
+			z-index: 1
+			height: 679px
+			width: 100%
+			overflow-y: auto
+			background-color: $c_dark_darken
+			border-bottom: 1px solid $c_dark_gray_darken
+			transition: left 0.25s
+			&.show
+				left: 0
+				z-index: 10
+		li
+			border-bottom: 1px solid $c_dark_gray_darken
+			font-family: $f_arial
+			&.nav-item--parent
+				&.show
+					ul
+						left: 0				
+
+	&-promo
+		display: none
+
+
+
+
+@media screen and (min-width: 992px)
+	body
+		font-size: 1.4rem
+	.nav
+		z-index: unset
+		&-list
+			height: auto
+		&-submenu
+			&.nav-submenu--bottom
+				> li > ul
+					border-top: 1px solid $c_dark_gray_lighten
+			&__menus
+				position: static
+				display: flex
+				flex-direction: column
+				justify-content: space-between	
+				background-color: transparent
+				height: unset
+				padding: 20px 40px 0
+			&__wrapper
+				display: flex
+				justify-content: space-between
+				align-items: unset
+				background-color: $c_dark_darken
+			li
+				border-bottom: none
+				break-inside: avoid
+				page-break-inside: avoid
+				list-style-type: none
+				a
+					padding: 0
+					line-height: 24px
+					transition: color 0.25s
+					&:hover
+						color: $c_text_gray_hover
+			ul
+				position: static
+				height: auto
+				border-bottom: none
+				a
+					color: $c_text_gray
+			> li 
+				padding: 0 0 18px 0
+				> a
+					font-size: 1.4rem
+					line-height: 24px
+					padding: 0
+		&-item	
+			&--back
+				display: none
+			&.nav-item--parent
+				> a
+					text-transform: uppercase
+			a
+				padding: 5px
+				text-transform: none
+
+	.nav-cc-5
+		column-count: 5
+	.nav-cc-4
+		column-count: 4
+	.nav-cc-3
+		column-count: 3
+	.nav-cc-2
+		column-count: 2
+
+
+@media screen and (min-width: 1250px)
+	body
+		font-size: 1.5rem
+	.nav
+		&-item
+			a
+				background-color: transparent
+		&-promo
+			display: inline-block
+			&__link
+				position: absolute
+				top: 0
+				left: 0
+				width: 100%
+				height: 100%
+				padding: 0
+			&__btn
+				position: absolute
+				bottom: 23px
+				right: 27px
+				display: flex
+				align-items: center
+				justify-content: center
+				padding: 7px
+				background-color: $c_red
+				border: none
+				cursor: pointer
+				color: #ffffff
+				line-height: 1
+				font-weight: $fw_med
+				&:hover
+					background-color: $c_red_lighten
+					&:before
+						border-bottom-color: $c_red_lighten
+				&:after
+					content: "\E006"
+					display: inline-block
+					line-height: 1
+					margin-left: 15px
+					font-family: $f_iconfont
+				&:before
+					content: ''
+					position: absolute
+					right: 100%
+					top: 0
+					display: block
+					height: 0
+					width: 0
+					border-bottom: 29px solid #c60e0a
+					border-left: 10px solid transparent
+					border-left: 20px solid transparent

@@ -1,0 +1,53 @@
+@import "_mixins/font-face"
+
++font-face("Eurostile", "../fonts/Eurostile-Reg/Eurostile-Reg", 400)
++font-face("Eurostile", "../fonts/Eurostile-Med/Eurostile-Med", 500)
++font-face("Eurostile", "../fonts/Eurostile-Bol/Eurostile-Bol", 700)
++font-face("Eurostile", "../fonts/Eurostile-Hea/Eurostile-Hea", 800)
++font-face("Eurostile", "../fonts/Eurostile-Bla/Eurostile-Bla", 900)
++font-face("EurostileExt", "../fonts/EurostileExt-Reg/EurostileExt-Reg", 400)
++font-face("EurostileExt", "../fonts/EurostileExt-Bla/EurostileExt-Bla", 900)
++font-face("IcoMoon", "../fonts/icomoon/icomoon")
++font-face("IcoFont", "../fonts/iconfont/iconfont")
+
+
+/*
+ * Fonts
+ */
+$f_euro: "Eurostile", "Arial", "Helvetica", sans-serif
+$f_euro_ext: "EurostileExt", "Arial", "Helvetica", sans-serif
+$f_iconmoon: "IcoMoon", sans-serif
+$f_iconfont: "IcoFont", sans-serif
+$f_arial: "Arial", sans-serif
+
+/*
+ *	Font weight
+ */
+$fw_reg: 400
+$fw_med: 500
+$fw_s_bold: 600
+$fw_bold: 700
+$fw_ex_bold: 800
+$fw_heavy: 900
+
+
+.f_iconf:before,
+.f_iconm:before
+	display: inline-block
+	-webkit-font-smoothing: antialiased
+	-moz-osx-font-smoothing: grayscale
+	font-style: normal 
+	font-variant: normal
+	font-weight: $fw_reg
+	speak: none
+	vertical-align: middle
+	text-decoration: none
+	text-transform: none
+
+.f_iconf:before
+	font-family: $f_iconfont
+.f_iconm:before
+	font-family: $f_iconmoon
+	
+@import "../fonts/iconfont/iconfont.css"
+@import "../fonts/icomoon/icomoon.css"

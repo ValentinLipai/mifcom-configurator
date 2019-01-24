@@ -1,0 +1,142 @@
+.configurator
+	&-product
+		&__mobile
+			&-title
+				font-size: 1.8rem
+				font-weight: $fw_bold
+				&-wrapper
+					padding: 10px 20px
+					background-color: #fff
+					border-bottom: 1px solid $c_border_gray_darken
+		&__cart
+			position: relative
+			background-color: #ffffff
+			margin-bottom: 7px
+		&__main
+			&-image
+				max-width: 100%
+				display: block
+				&__wrapper
+					padding-left: 20%
+					min-height: 404px
+				&__link
+					position: relative
+					display: block
+					&-zoom-icon
+						position: absolute
+						top: 100%
+						right: 20px
+						color: #000000
+			&-info
+				&__wrapper
+					background-color: $c_light_gray_lighten
+		&__gallery
+			position: absolute
+			top: 20px
+			left: 18px
+			width: 60px
+			text-align: center
+			&-fancybox
+				.fancybox-thumbs__list 
+					a
+						width: 50px
+						height: 50px
+						&:before
+							border-width: 3px
+			.more-views__arrow--prev
+				display: none
+			.slick-prev.slick-arrow
+				display: none !important
+
+
+
+@media screen and (min-width: 600px)
+	.configurator
+		&-product
+			&__cart
+				&--left
+					padding-bottom: 25px
+
+@media screen and (min-width: 768px)
+	.configurator
+		&-product
+			&__cart
+				display: flex
+				justify-content: space-between
+				&--right
+					width: 60%
+					padding: 5px 10px
+					> *
+						border-bottom: 1px solid $c_border_gray_lighten
+						&:last-of-type
+							border-bottom: none
+				&--left
+					width: 40%
+					padding-left: 0
+					padding-bottom: 15px
+			&__gallery
+				width: 100%
+				position: static
+				padding-bottom: 5px
+				.more-views
+					&__arrow
+						&--prev
+							display: inline-block
+			&__main
+				&-image
+					&__wrapper
+						min-height: 1px
+					&__link-zoom-icon
+						top: auto
+						bottom: 0
+				&-info
+					&__wrapper
+						background-color: #ffffff
+						border-left: 1px solid $c_border_gray_lighten
+
+						
+@media screen and (min-width: 992px)
+	.configurator
+		&-inner__wrapper
+			display: flex
+			align-items: flex-start
+			justify-content: space-between
+		&-main
+			width: calc(100% - 222px - 6px)
+			margin-right: 6px
+		&-product
+			&__cart
+				&--right
+					width: 70%
+					padding: 5px 10px
+				&--left
+					width: 30%
+			&__gallery
+				.more-views
+					&__arrow
+						&--prev
+							display: none
+			&__mobile-title-wrapper
+				display: none
+					
+@media screen and (min-width: 1250px)
+	.configurator
+		&-product
+			&__cart
+				&--right
+					width: 64.5%
+					padding: 15px 75px 15px 30px
+				&--left
+					width: 35.5%
+			&__gallery
+				padding: 0 0 10px
+				.more-views
+					&__arrow
+						&--prev
+							display: none
+			&__short-description
+				padding: 20px 0
+			&__bundle-description
+				padding: 10px 0
+			&__mobile-title-wrapper
+				display: none
