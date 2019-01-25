@@ -590,6 +590,371 @@ var App_customizer = (function($) {
 		$('#modal__configurator-summary__table').append(cummaryContent);
 	}
 
+
+	// detail modal variables
+
+	var detailPrevArticleBtn = ('#modal__detail-article__nav--prev');
+	var detailNextArticleBtn = ('#modal__detail-article__nav--next');
+	var detailTabBtns = $('.modal__detail-tabs__nav-btn');
+	var detailTabContentTabs = $('.modal__detail-tabs__tab');
+	var detailTopSlider = $('#modal__detail-gallery__slider-top');
+	var detailBottomSlider = $('#modal__detail-gallery__slider-bottom');
+	var detailSliderPrevImgBtn = $('#modal__detail-gallery__slider-top__arrow--prev');
+	var detailSliderNextImgBtn = $('#modal__detail-gallery__slider-top__arrow--next');
+	var detailPrice = $('#modal__detail-price');
+	var detailMainInfoTitle = $('#modal__detail-main-info__title');
+	var detailMainInfoCaption = $('#modal__detail-main-info__table-caption');
+	var detailMainInfoCaptionAttention = $('#modal__detail-main-info__table-caption--attention');
+	var detailMainInfoTable = $('#modal__detail-main-info__table');
+	var detailSlidersInitialized = false;
+	var openDetailModalBtns = $('.js-product-details');
+	
+
+	window.addEventListener('resize', checkSliderLength);
+
+	function checkSliderLength()
+	{
+		var slidesToShow = WINDOW_WIDTH > 768 ? 6 : 3;
+
+		detailBottomSlider.find('img').length < slidesToShow ? detailBottomSlider.addClass('block-slide') : detailBottomSlider.removeClass('block-slide'); 
+	}
+
+
+	function initDetailBtnsHandler()
+	{
+		openDetailModalBtns.on('click', initDetailSliders);
+	}
+
+	function initDetailTabs()
+	{
+		detailTabBtns.on('click',function(){
+			var index = $(this).index();
+
+			if ( detailTabContentTabs.eq(index).hasClass('active') ) return false;
+
+			detailTabBtns.not($(this)).removeClass('active');
+			$(this).addClass('active');
+			detailTabContentTabs.not(detailTabContentTabs.eq(index)).removeClass('active');
+			detailTabContentTabs.eq(index).addClass('active');
+		});
+	}
+
+	function initDetailSliders()
+	{
+		if ( detailSlidersInitialized ) return false;
+		
+		detailSlidersInitialized = !detailSlidersInitialized;
+
+
+
+		detailBottomSlider.slick({
+			slidesToShow: 3,
+			slidesToScroll: 1,
+			infinite: true,
+			arrows: false,
+			asNavFor: detailTopSlider,
+			focusOnSelect: true,
+			mobileFirst: true,
+			responsive: [
+				{
+					breakpoint: 760,
+					settings: {
+						slidesToShow: 6
+					}
+				}
+			]
+		});
+
+		detailTopSlider.slick({
+			slidesToShow: 1,
+			slidesToScroll: 1,
+			fade: true,
+			arrows: true,
+			adaptiveHeight: true,
+			prevArrow: detailSliderPrevImgBtn,
+			nextArrow: detailSliderNextImgBtn,
+			asNavFor: detailBottomSlider
+		});
+
+		checkSliderLength();
+	}
+
+	function initDetalsFancyModal()
+	{
+		var defaults = {
+			// Close existing modals
+			// Set this to false if you do not need to stack multiple instances
+			closeExisting: false,
+		  
+			// Enable infinite gallery navigation
+			loop: false,
+		  
+			// Horizontal space between slides
+			gutter: 50,
+		  
+			// Enable keyboard navigation
+			keyboard: false,
+		  
+			// Should allow caption to overlap the content
+			preventCaptionOverlap: false,
+		  
+			// Should display navigation arrows at the screen edges
+			arrows: false,
+		  
+			// Should display counter at the top left corner
+			infobar: false,
+		  
+			// Should display close button (using `btnTpl.smallBtn` template) over the content
+			// Can be true, false, "auto"
+			// If "auto" - will be automatically enabled for "html", "inline" or "ajax" items
+			smallBtn: "auto",
+		  
+			// Should display toolbar (buttons at the top)
+			// Can be true, false, "auto"
+			// If "auto" - will be automatically hidden if "smallBtn" is enabled
+			toolbar: false,
+		  
+			// What buttons should appear in the top right corner.
+			// Buttons will be created using templates from `btnTpl` option
+			// and they will be placed into toolbar (class="fancybox-toolbar"` element)
+			buttons: [
+			  "close"
+			],
+		  
+			// Detect "idle" time in seconds
+			idleTime: 3,
+		  
+			// Disable right-click and use simple image protection for images
+			protect: false,
+		  
+			// Shortcut to make content "modal" - disable keyboard navigtion, hide buttons, etc
+			modal: true,
+		  
+			image: {
+			  // Wait for images to load before displaying
+			  //   true  - wait for image to load and then display;
+			  //   false - display thumbnail and load the full-sized image over top,
+			  //           requires predefined image dimensions (`data-width` and `data-height` attributes)
+			  preload: false
+			},
+		  
+			// Open/close animation type
+			// Possible values:
+			//   false            - disable
+			//   "zoom"           - zoom images from/to thumbnail
+			//   "fade"
+			//   "zoom-in-out"
+			//
+			animationEffect: "fade",
+		  
+			// Duration in ms for open/close animation
+			animationDuration: 366,
+		  
+			// Loading indicator template
+			spinnerTpl: '<div class="fancybox-loading"></div>',
+		  
+			// Error message template
+			errorTpl: '<div class="fancybox-error"><p>{{ERROR}}</p></div>',
+		  
+			btnTpl: {
+			  close:
+				'<button data-fancybox-close class="fancybox-button fancybox-button--close" title="{{CLOSE}}">' +
+				'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 10.6L6.6 5.2 5.2 6.6l5.4 5.4-5.4 5.4 1.4 1.4 5.4-5.4 5.4 5.4 1.4-1.4-5.4-5.4 5.4-5.4-1.4-1.4-5.4 5.4z"/></svg>' +
+				"</button>",
+		  
+			  // This small close button will be appended to your html/inline/ajax content by default,
+			  // if "smallBtn" option is not set to false
+			  smallBtn:
+				'<button type="button" data-fancybox-close class="fancybox-button fancybox-close-small" title="{{CLOSE}}">' +
+				'<svg xmlns="http://www.w3.org/2000/svg" version="1" viewBox="0 0 24 24"><path d="M13 12l5-5-1-1-5 5-5-5-1 1 5 5-5 5 1 1 5-5 5 5 1-1z"/></svg>' +
+				"</button>"
+			},
+		  
+			// Container is injected into this element
+			parentEl: "body",
+		  
+			// Hide browser vertical scrollbars; use at your own risk
+			hideScrollbar: true,
+		  
+			// Focus handling
+			// ==============
+		  
+			// Try to focus on the first focusable element after opening
+			autoFocus: false,
+		  
+			// Do not let user to focus on element outside modal content
+			trapFocus: false,
+		  
+			// Module specific options
+			// =======================
+		  
+			fullScreen: {
+			  autoStart: false
+			},
+		  
+			// Set `touch: false` to disable panning/swiping
+			touch: false,
+		  
+			// Hash value when initializing manually,
+			// set `false` to disable hash change
+			hash: null,
+		  
+		  
+		  
+			// Use mousewheel to navigate gallery
+			// If 'auto' - enabled for images only
+			wheel: false,
+		  
+		  
+			onInit: $.noop, // When instance has been initialized
+		  
+			beforeLoad: $.noop, // Before the content of a slide is being loaded
+			afterLoad: $.noop, // When the content of a slide is done loading
+		  
+			beforeShow: initDetailSliders, // Before open animation starts
+			afterShow: $.noop, // When content is done loading and animating
+		  
+			beforeClose: $.noop, // Before the instance attempts to close. Return false to cancel the close.
+			afterClose: $.noop, // After instance has been closed
+		  
+			onActivate: $.noop, // When instance is brought to front
+			onDeactivate: $.noop, // When other instance has been activated
+		  
+			// Clicked on the content
+			clickContent: function(current, event) {
+				console.log(current, current.type, event);
+			  return current.type === "image" ? "zoom" : false;
+			},
+		  
+			// Clicked on the slide
+			clickSlide: false,
+		  
+			// Clicked on the background (backdrop) element;
+			// if you have not changed the layout, then most likely you need to use `clickSlide` option
+			clickOutside: "close",
+		  
+			// Same as previous two, but for double click
+			dblclickContent: false,
+			dblclickSlide: false,
+			dblclickOutside: false,
+		  
+			// Custom options when mobile device is detected
+			// =============================================
+		  
+			mobile: {
+			  preventCaptionOverlap: false,
+			  idleTime: false,
+			  clickContent: function(current, event) {
+				return current.type === "image" ? "toggleControls" : false;
+			  },
+			  clickSlide: function(current, event) {
+				return current.type === "image" ? "toggleControls" : "close";
+			  },
+			  dblclickContent: function(current, event) {
+				return current.type === "image" ? "zoom" : false;
+			  },
+			  dblclickSlide: function(current, event) {
+				return current.type === "image" ? "zoom" : false;
+			  }
+			},
+		  
+			// Internationalization
+			// ====================
+		  
+		  };
+		  
+		  openDetailModalBtns.fancybox(defaults);
+	}
+
+	function productDetailInfoRequest(productId)
+	{
+		var response = {
+			"name": "be quiet! Dark Rock Pro 4 | 135mm+120mm PWM-Lüfter",
+			"images": 
+			[
+				{
+					"main_image":"true",
+					"big_img_url":"https://www.mifcom.de/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n0.jpg",
+					"main_img_url":"https://www.mifcom.de/media/catalog/product/cache/1/image/366x/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n0.jpg",
+					"small_img_url":"https://www.mifcom.de/media/catalog/product/cache/1/image/140x/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n0.jpg"
+				},
+				{
+					"main_image":"false",
+					"big_img_url":"https://www.mifcom.de/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n1.jpg",
+					"main_img_url":"https://www.mifcom.de/media/catalog/product/cache/1/image/366x/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n1.jpg",
+					"small_img_url":"https://www.mifcom.de/media/catalog/product/cache/1/image/140x/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n1.jpg"
+				},
+				{
+					"main_image":"false",
+					"big_img_url":"https://www.mifcom.de/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n2.jpg",
+					"main_img_url":"https://www.mifcom.de/media/catalog/product/cache/1/image/366x/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n2.jpg",
+					"small_img_url":"https://www.mifcom.de/media/catalog/product/cache/1/image/140x/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n2.jpg"
+				},
+				{
+					"main_image":"false",
+					"big_img_url":"https://www.mifcom.de/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n3.jpg",
+					"main_img_url":"https://www.mifcom.de/media/catalog/product/cache/1/image/366x/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n3.jpg",
+					"small_img_url":"https://www.mifcom.de/media/catalog/product/cache/1/image/140x/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n3.jpg"
+				}
+			],
+			"details": 
+			{
+				"cpufan_type_compare": 
+				{
+					"group_name":"Bauart",
+					"attributes":"Luftkühler (Turm)"
+				},
+				"cpufan_size_compare": 
+				{
+					"group_name":"Abmessungen",
+					"attributes":"136x163x146mm"
+				},
+				"cpufan_fanspecs_compare": 
+				{
+					"group_name":"Lüfter",
+					"attributes":"135x135x22mm, 1200rpm, 24.3dB(A) + 120x120x25, 1500rpm, 16.4dB(A)"
+				},
+				"cpufan_tdp_compare": 
+				{
+					"group_name":"TDP",
+					"attributes":"<b>250W</b>"
+				},
+				"cpufan_material_compare": 
+				{
+					"group_name":"Material",
+					"attributes":"Kupfer, Aluminum"
+				},
+				"cpufan_weight_compare": 
+				{
+					"group_name":"Gewicht",
+					"attributes":"1.13kg"
+				},
+				"cpufan_compintel_compare": 
+				{
+					"group_name":"Kompatibilität (Intel)",
+					"attributes":"1150, 1151, 1155, 1156, 2011, 2011-3, 2066-"
+				},"cpufan_compamd_compare": 
+				{
+					"group_name":"Kompatibilität (AMD)",
+					"attributes":"AM2, AM2+, AM3, AM3+, AM4, FM1, FM2, FM2+"
+				},
+				"warranty_compare": {
+					"group_name":"Herstellergarantie",
+					"attributes":"3 Jahre"
+				},
+				"cpufan_special_compare": {
+					"group_name":"Besonderheiten",
+					"attributes":"- "
+				}
+			},
+			"text":"",
+			"current_price":84,
+			"old_price":"€ 84,00",
+			"is_in_stock":true
+		};
+	}
+
+
 	window.addEventListener('resize', function(){
 		toggleTabContentOnResize();
 	});
@@ -623,6 +988,9 @@ var App_customizer = (function($) {
 		addAccordionItemsToSidebar();
 		sidebarProductPreviewLinkHandler();
 		copySummaryToModal();
+
+		initDetailTabs();
+		initDetalsFancyModal();
 	};
     
     return {
