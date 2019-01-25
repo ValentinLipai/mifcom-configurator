@@ -48,6 +48,7 @@ gulp.task('scripts', function() {
 		'app/js/app_js/App.configurator.js',
 		'app/js/app_js/App.bundle.description.js',
 		'app/js/app_js/App.customizer.js',
+		'app/js/app_js/App.footer.js',
 		])
 	.pipe(wait(100))
 	.pipe(concat('scripts.min.js'))

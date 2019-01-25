@@ -127,6 +127,34 @@ img
 			padding: 9px 5px
 			height: 36px
 			width: 100%
+
+
+
+.cat-label
+	position: absolute
+	background: #c60e0a
+	padding: 3px 5px
+	margin-left: 10px
+	font-size: 1.5rem
+	&.mobile-right
+		left: calc(100% + 5px)
+		top: 50%
+		transform: translateY(-50%)
+	&:before
+		content: ''
+		position: absolute
+		left: -5px
+		top: 6px
+		display: block
+		width: 0
+		height: 0
+		border-top: 5px solid transparent
+		border-bottom: 5px solid transparent
+		border-right: 5px solid #c60e0a
+		border-left: none
+
+
+
 .nav
 	position: fixed
 	top: 0
@@ -286,6 +314,36 @@ img
 		display: none
 
 
+
+
+@media screen and (min-width: 768px)
+	.cat-label
+		position: absolute
+		background: #c60e0a
+		padding: 0
+		min-width: 29px
+		text-align: center
+		font-size: 1.5rem
+		line-height: 1
+		color: #ffffff
+		margin: 0
+		&.pc-top
+			top: auto
+			bottom: calc(100% + 5px)
+			right: auto
+			left: 50%
+			transform: translateX(-50%)
+		&:before
+			content: ''
+			bottom: -4px
+			left: 50%
+			top: auto
+			border-right: 4px solid transparent
+			border-left: 4px solid transparent
+			border-top: 4px solid #c60e0a
+			border-bottom: none
+			margin-left: -5px
+	
 
 
 @media screen and (min-width: 992px)

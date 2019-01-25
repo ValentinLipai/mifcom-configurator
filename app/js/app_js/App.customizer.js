@@ -10,7 +10,8 @@ var App_customizer = (function($) {
 		stepTabsContentBlocks = stepTabs.find('.step-tabs__tab'),
 		stepTabsAccordionLinks = $('.step-tabs__nav-item__submenu-link'),
 		mobileTabHeadingsWrappers = $('.step-tabs__tab-mobile-heading__wrapper'),
-		stepTabsViewState = '';
+		stepTabsViewState = '',
+		configuratorCustomizer = $('.configurator-customizer');
 
 	function initStepTabs()
 	{
@@ -266,7 +267,11 @@ var App_customizer = (function($) {
 	// fix step tabs nav bar
 	function fixStepTabsNav(userMenuHeight, contentBlockWidth)
 	{
-        if ($(window).scrollTop() >= stepTabsNavWrapper.offset().top && WINDOW_WIDTH >= 768) {
+        if ( 
+			$(window).scrollTop() >= stepTabsNavWrapper.offset().top && 
+			WINDOW_WIDTH >= 768 &&
+			$(window).scrollTop() <= (configuratorCustomizer.offset().top + configuratorCustomizer.height() -50 )
+			) {
             stepTabsNavWrapper.css({ "height" : stepTabsNav.height()});
             stepTabsNav.css({ 
 				"top" : userMenuHeight, 
@@ -526,17 +531,29 @@ var App_customizer = (function($) {
 	{
 		var configuratorSidebar = $('.configurator-sidebar-content');
 		
-		if ($(window).scrollTop() >= configuratorSidebar.parent().offset().top) {
+		if (
+			$(window).scrollTop() >= configuratorSidebar.parent().offset().top && 
+			$(window).scrollTop() <= (configuratorSidebar.parent().offset().top + configuratorSidebar.parent().height() - configuratorSidebar.height() - 50)
+			) {
             configuratorSidebar.css({ 
 				"top" : topOffset, 
+				"bottom": "auto",
 				"width": configuratorSidebar.parent().width(),
 				"position": "fixed", 
 				"z-index": "20"
 			}).addClass('sidebar-fixed');
-        } else {
+        } else if ( $(window).scrollTop() > (configuratorSidebar.parent().offset().top + configuratorSidebar.parent().height() - configuratorSidebar.height() - 50) ) {
+            configuratorSidebar.css({ 
+				"top" : "auto", 
+				"bottom": 5,
+				"width": configuratorSidebar.parent().width(),
+				"position": "absolute", 
+				"z-index": "20"
+			});
+		} else {
             configuratorSidebar.removeAttr("style").removeClass('sidebar-fixed');
-        }
-		
+		}
+
 	}
 
 	function initFixConfiguratorSidebar()

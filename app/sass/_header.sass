@@ -58,6 +58,11 @@
 				vertical-align: text-top
 				font-size: 5.2rem
 				transition: font-size 0.2s
+		&__item
+			&--level-top
+				> .nav-item__link
+					> span
+						position: relative
 	&-cart
 		display: none
 	&-mob
@@ -118,9 +123,18 @@ body.scroll
 	body.scroll
 		.header
 			&-nav
+				&__list
+					overflow-y: visible
 				&__burger
 					&:before
 						font-size: 5.2rem
+	.header
+		&-bottom
+			&__left
+				padding-top: 5px
+		&-nav
+			&__list
+				overflow-y: visible
 						
 @media screen and (min-width: 992px)
 	.header

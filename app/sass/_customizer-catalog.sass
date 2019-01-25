@@ -656,3 +656,62 @@
 								margin-right: 1.25%
 							&:nth-of-type(5n)
 								margin-right: 0
+
+
+
+
+@media screen and (max-width: 767px)
+	.customizer-catalog
+		&__sidebar
+			display: none
+			&-selected
+				&.selected--false
+					display: block
+					background-color: #fff
+					min-height: 55px
+					padding: 5px 10px
+					font-weight: $fw_bold
+					font-size: 1.1rem
+				&.selected--true
+					display: none
+					padding: 10px 20px
+					background-color: #fff
+					box-shadow: 0 3px 5px -3px #737373
+					&:after
+						content: ''
+						display: table
+						clear: both
+					.customizer-catalog__sidebar
+						&-img
+							float: left
+							display: inline-block
+							width: 41px
+							margin: 0 20px 0 0
+						&-title
+							display: inline
+							font-size: 1.2rem
+							font-weight: $fw_bold
+							font-family: $f_arial
+							&--product
+								display: inline
+								font-size: 1.2rem
+								font-family: $f_arial
+
+	.customizer-accordion__title-block
+		&.open
+			+ .customizer-accordion__content-block__wrapper
+				.customizer-catalog__sidebar
+					display: block
+					position: fixed
+					top: -200px
+					transition: top 0.25s
+					left: 0
+					width: 100%
+					z-index: 20	
+	body.scroll
+		.customizer-accordion__title-block
+			&.open
+				+ .customizer-accordion__content-block__wrapper
+					.customizer-catalog__sidebar
+						display: block
+						top: 64px
