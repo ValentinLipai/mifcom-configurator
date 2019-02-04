@@ -3,14 +3,16 @@ html
 	font-size: 10px
 
 body
+	background-color: $c_light_gray_lighten
 	margin: 0
-	padding: 0
+	padding: 56px 0 0 0
 	position: relative
 	height: 100%
 	min-width: 320px
 	font-size: 1.5rem
 	font-family: $f_euro
 	overflow-x: hidden
+	transition: padding-top 0.2s
 
 a
 	cursor: pointer
@@ -212,7 +214,7 @@ img
 			line-height: 1
 			padding: 19px 20px
 			background-color: $c_dark_darken
-		&--parent
+		&__parent
 			> a
 				position: relative
 				&:after
@@ -227,7 +229,7 @@ img
 					border-left: none
 					border-top: none
 					right: 12px
-		&--back
+		&__back
 			position: relative
 			text-transform: none
 			display: flex
@@ -307,7 +309,7 @@ img
 		li
 			border-bottom: 1px solid $c_dark_gray_darken
 			font-family: $f_arial
-			&.nav-item--parent
+			&.nav-item__parent
 				&.show
 					ul
 						left: 0				
@@ -316,9 +318,12 @@ img
 		display: none
 
 
-
+body.scroll
+	padding-top: 38px
+		
 
 @media screen and (min-width: 768px)
+	
 	.cat-label
 		position: absolute
 		background: #c60e0a
@@ -349,7 +354,10 @@ img
 
 
 @media screen and (min-width: 992px)
+	body.scroll
+		padding-top: 0
 	body
+		padding-top: 0
 		font-size: 1.4rem
 	.nav
 		z-index: unset
@@ -396,9 +404,9 @@ img
 					line-height: 24px
 					padding: 0
 		&-item	
-			&--back
+			&__back
 				display: none
-			&.nav-item--parent
+			&.nav-item__parent
 				> a
 					text-transform: uppercase
 			a

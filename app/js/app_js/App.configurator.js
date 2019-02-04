@@ -60,18 +60,27 @@ var App_configurator = (function($){
 		}
 	}
 
-	function headerTopRightLinksTooltip()
+	function dropdownTooltip()
 	{
-		var links = $('.header-top__right-link');
+		var links = $('.dropdown-tooltip__trigger');
 
 		links.on('click', function(e){
 			e.preventDefault();
 
-			var targetTooltip = $(this).siblings('.header-top__link-tooltip');
+			var targetTooltip = $(this).siblings('.dropdown-tooltip');
 
-			links.not($(this)).removeClass('active').siblings('.header-top__link-tooltip').not(targetTooltip).removeClass('active');
-			$(this).toggleClass('active');
-			targetTooltip.toggleClass('active');
+			if ( targetTooltip.hasClass('dropdown-tooltip--active') )
+			{
+				$(this).removeClass('dropdown-tooltip__trigger--active');
+				targetTooltip.removeClass('dropdown-tooltip--active');
+			}
+			else
+			{
+				links.not($(this)).removeClass('dropdown-tooltip__trigger--active');
+				$(this).addClass('dropdown-tooltip__trigger--active');
+				$('.dropdown-tooltip').not(targetTooltip).removeClass('dropdown-tooltip--active');
+				targetTooltip.addClass('dropdown-tooltip--active');
+			}
 		});
 	}
 
@@ -80,7 +89,7 @@ var App_configurator = (function($){
 	function _init() {
 		initFancyGallery();
 		initSlickProductGallerySlider();
-		headerTopRightLinksTooltip();
+		dropdownTooltip();
     }
 
 	function resizePcFunctions() {		

@@ -3,8 +3,8 @@ var App_nav = (function($) {
 
 	var header = $('header'),
 		mainNav = $('#header-nav'),
-		mainNavParentLinks = mainNav.find('.nav-item--parent'),
-		mainNavBackLinks = mainNav.find('.nav-item--back'),
+		mainNavParentLinks = mainNav.find('.nav-item__parent'),
+		mainNavBackLinks = mainNav.find('.nav-item__back'),
 		mainNavBurger = $('#header-nav__burger'),
 		mainNavLists = mainNav.find('.nav-list, .nav-submenu__menus, .nav-submenu__menus li ul'),
 		headerHeight,
@@ -48,7 +48,7 @@ var App_nav = (function($) {
 				e.preventDefault();
 				var self = $(this);
 
-				if ( self.hasClass('nav-item--level-top') )
+				if ( self.hasClass('nav-item__level-top') )
 				{
 					self.find('.nav-submenu__menus').addClass('show')
 					self.closest('ul').addClass('o-hidden');
@@ -144,24 +144,5 @@ var App_nav = (function($) {
 }(jQuery));
 
 jQuery(function () {
-
-    var scrollElement;
-
-    if( /iPhone|iPad|iPod/i.test(navigator.userAgent) ) {
-        scrollElement = "html,body"
-    }
-
-    else if ( /Firefox/i.test(navigator.userAgent)) {
-        scrollElement = "body > .main"
-    }
-
-    else {
-        scrollElement = window;
-	}
-	
 	App_nav.init();
-
-    // jQuery(scrollElement).on('scroll', function () {
-    //     App.mobile.nav.fixedNav();
-    // });
 });

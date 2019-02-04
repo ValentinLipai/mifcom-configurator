@@ -112,7 +112,7 @@ var App_customizer = (function($) {
 
 	function mobileScrollToTab(elem)
 	{
-		var userMenuHeight = WINDOW_WIDTH > 768 ? $(".header-top").outerHeight() : $(".header-bottom").outerHeight();
+		var userMenuHeight = WINDOW_WIDTH > 768 ? $(".header-sticky").outerHeight() : $(".header-main").outerHeight();
 		var offset = elem.offset().top - userMenuHeight - stepTabsNav.height() 
 		
 		$('body,html').stop().animate({scrollTop: offset}, 1500);
@@ -197,7 +197,7 @@ var App_customizer = (function($) {
 		var height = WINDOW_HEIGHT - $('.configurator-sidebar__heading').outerHeight() 
 					- $('.configurator-sidebar__product').outerHeight()
 					- $('.configurator-sidebar__config-btn-wrapper').outerHeight()
-					- $('.header-top').outerHeight();
+					- $('.header-sticky').outerHeight();
 		
 		if ( !$('body').hasClass('scroll') )  height -= $('.configurator-sidebar__product-img__wrapper').outerHeight();
 
@@ -257,7 +257,7 @@ var App_customizer = (function($) {
 
 	function scrollToAccordionTargetItem(accordionItemTarget)
 	{
-		var userMenuHeight = WINDOW_WIDTH > 768 ? $(".header-top").outerHeight() : $(".header-bottom").outerHeight();
+		var userMenuHeight = WINDOW_WIDTH > 768 ? $(".header-sticky").outerHeight() : $(".header-main").outerHeight();
 		var offset = accordionItemTarget.offset().top - userMenuHeight - stepTabsNav.height() 
 		
 		$('body,html').stop().animate({scrollTop: offset}, 1500);
@@ -287,15 +287,18 @@ var App_customizer = (function($) {
 
 	function initFixTabsNav()
 	{
-		var userMenuHeight = WINDOW_WIDTH > 992 ? $(".header-top").outerHeight() : $(".header-bottom").outerHeight();
+		var userMenuHeight = WINDOW_WIDTH > 992 ? $(".header-sticky").outerHeight() : $(".header-main").outerHeight();
 		var contentBlockWidth = $('.step-tabs__content').width();
 		
 		window.addEventListener('scroll', function(){
+			console.log('SCROLL');
+			
 			fixStepTabsNav(userMenuHeight, contentBlockWidth);
 		});
-
+		
 		window.addEventListener('resize', function(){
-			userMenuHeight = WINDOW_WIDTH > 992 ? $(".header-top").outerHeight() : $(".header-bottom").outerHeight();
+			console.log('RESIZE');
+			userMenuHeight = WINDOW_WIDTH > 992 ? $(".header-sticky").outerHeight() : $(".header-main").outerHeight();
 			contentBlockWidth = $('.step-tabs__content').width();
 			fixStepTabsNav(userMenuHeight, contentBlockWidth);
 		});
@@ -304,7 +307,7 @@ var App_customizer = (function($) {
 	function rebootStepTabs()
 	{
 		window.addEventListener('resize', function(){
-			userMenuHeight = WINDOW_WIDTH > 992 ? $(".header-top").outerHeight() : $(".header-bottom").outerHeight();
+			userMenuHeight = WINDOW_WIDTH > 992 ? $(".header-sticky").outerHeight() : $(".header-main").outerHeight();
 			contentBlockWidth = $('.step-tabs__content').width();
 			fixStepTabsNav(userMenuHeight, contentBlockWidth);
 		});
@@ -516,14 +519,17 @@ var App_customizer = (function($) {
 
 	function initFixPreviewSidebar()
 	{
-		var topOffset = $(".header-top").outerHeight() + $('.step-tabs__nav').height();
+		var userMenuHeight = WINDOW_WIDTH > 992 ? $(".header-sticky").outerHeight() : $(".header-main").outerHeight();
+		var topOffset = userMenuHeight + $('.step-tabs__nav').height();
 
 		$(window).on('scroll', function(){
+			topOffset = userMenuHeight + $('.step-tabs__nav').height();
+
 			fixPreviewSidebar(topOffset);
 		});
 
 		window.addEventListener('resize', function(){
-			topOffset = $(".header-top").outerHeight() + $('.step-tabs__nav').height()
+			topOffset = userMenuHeight + $('.step-tabs__nav').height();
 		});
 	}
 
@@ -558,14 +564,14 @@ var App_customizer = (function($) {
 
 	function initFixConfiguratorSidebar()
 	{
-		var topOffset = $(".header-top").outerHeight();
+		var topOffset = $(".header-sticky").outerHeight();
 
 		$(window).on('scroll', function(){
 			fixConfiguratorSidebar(topOffset);
 		});
 
 		window.addEventListener('resize', function(){
-			topOffset = $(".header-top").outerHeight();
+			topOffset = $(".header-sticky").outerHeight();
 		});
 	}
 

@@ -1,0 +1,38 @@
+.header-sticky
+	display: none
+	&__link
+		&-tooltip
+			display: none
+
+@media screen and (min-width: 992px)
+	.header-sticky
+		position: fixed
+		top: 0
+		left: 0
+		z-index: 20
+		width: 100%
+		display: block
+		font-family: $f_arial
+		font-size: 1.4rem
+		padding: 7px 0
+		background-color: $c_dark
+		color: $c_text_gray
+		&__left
+			display: flex
+			align-items: center
+			justify-content: flex-start
+			> *:before
+				content: '|'
+				display: inline-block
+				line-height: 1
+				margin: 0 10px
+			> *:first-of-type:before
+				display: none !important
+		&__right
+			display: flex
+			align-items: center
+			justify-content: flex-end
+			> *
+				margin-left: 50px
+			> *:first-of-type
+				margin-left: 0

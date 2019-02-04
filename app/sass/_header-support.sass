@@ -1,0 +1,21 @@
+@media screen and (min-width: 992px)
+	.header-support
+		display: flex
+		align-items: center
+		justify-content: flex-start
+		&__status
+			font-weight: $fw_bold
+			cursor: pointer
+			&:hover
+				text-decoration: underline
+			&--online
+				color: $c_green
+				&:hover
+					text-decoration-color: $c_green
+			&--offline
+				color: $c_red
+				&:hover
+					text-decoration-color: $c_red
+		&__divider
+			color: #ffffff
+			margin: 0 5px

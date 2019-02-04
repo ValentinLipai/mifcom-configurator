@@ -9,34 +9,17 @@
 		display: flex
 		align-items: center
 		justify-content: space-between
-		margin-left: -20px
-		margin-right: -20px
 	&-logo
-		&__wrapper
-			max-width: 100%
-			width: 110px
-			padding-top: 6px
-			text-align: right
-			margin-left: 10px
+		max-width: 100%
+		width: 110px
+		padding-top: 6px
+		text-align: right
+		margin-left: 10px
 		&__link
 			display: block
 		&__img
 			display: block
 			max-width: 100%
-	&-top
-		display: none
-		&__link
-			&-tooltip
-				display: none
-	&-bottom
-		&__left
-			display: flex
-			align-items: center
-			justify-content: flex-start
-			flex-basis: 50%
-		&__right
-			flex-basis: 50%
-			padding-right: 20px
 	&-nav
 		a
 			color: #ffffff
@@ -59,7 +42,7 @@
 				font-size: 5.2rem
 				transition: font-size 0.2s
 		&__item
-			&--level-top
+			&__level-top
 				> .nav-item__link
 					> span
 						position: relative
@@ -72,36 +55,37 @@
 			justify-content: flex-end
 			color: #ffffff
 			padding-top: 8px
+			&__icon
+				position: relative
+				font-size: 1.8rem
+				&.active
+					color: $c_red_lighten
+				&--cart
+					font-size: 2rem
+					.header-mob-icons__count
+						background-color: $c_red
+						color: #ffffff
 			&__item
 				list-style-type: none
 				margin-left: 22px
 				&:first-of-type
 					margin-left: 0
-				&-icon
-					position: relative
-					font-size: 1.8rem
-					&.active
-						color: $c_red_lighten
-					&--cart
-						font-size: 2rem
-						.header-mob-icons__item-count
-							background-color: $c_red
-							color: #ffffff
-				&-count
-					position: absolute
-					top: -8px
-					right: -6px
-					line-height: 1
-					display: flex
-					align-items: center
-					justify-content: center
-					font-size: 1rem
-					font-weight: $fw_bold
-					background-color: #ffffff
-					border-radius: 50%
-					color: #000000
-					width: 16px
-					height: 16px
+				
+			&__count
+				position: absolute
+				top: -8px
+				right: -6px
+				line-height: 1
+				display: flex
+				align-items: center
+				justify-content: center
+				font-size: 1rem
+				font-weight: $fw_bold
+				background-color: #ffffff
+				border-radius: 50%
+				color: #000000
+				width: 16px
+				height: 16px
 		&-tools
 			&__nav
 				position: fixed
@@ -118,7 +102,7 @@ body.scroll
 
 
 
-@media screen and (min-width: 768px)
+@media screen and (min-width: 992px)
 	
 	body.scroll
 		.header
@@ -129,299 +113,24 @@ body.scroll
 					&:before
 						font-size: 5.2rem
 	.header
-		&-bottom
-			&__left
-				padding-top: 5px
 		&-nav
 			&__list
 				overflow-y: visible
 						
-@media screen and (min-width: 992px)
 	.header
 		position: relative
 		width: 100%
-		&-dropdown
-			display: none
-			position: absolute
-			right: -39px
-			top: calc(100% + 22px)
-			z-index: -1
-			background-color: #292929
-			box-shadow: 0 0 10px #414141
-			color: #8a8a8a
-			min-width: 330px
-			max-height: 600px
-			border-radius: 4px
-			font-size: 1.2rem
-			line-height: 1.4
-			font-family: $f_arial
-			&.active
-				display: block
-				z-index: 20
-			&__msg
-				color: #c60e0a
-				text-align: center
-				padding: 10px 15px
-			&__empty
-				padding: 10px 15px
-				color: #8a8a8a
-			&-item
-				display: flex
-				align-items: flex-start
-				justify-content: space-between
-				flex-flow: column nowrap
-				padding: 13px
-				&__config
-					&-title
-						padding: 5px 0
-						font-family: $f_euro
-						font-weight: $fw_bold
-						font-size: 1.5rem
-						color: #c60e0a
-						white-space: nowrap
-						overflow: hidden
-						text-overflow: ellipsis
-					&-data
-						position: relative
-						display: flex
-						flex-flow: row nowrap
-						align-items: center
-						justify-content: space-between
-						width: 100%
-						margin-left: 10px
-						border-left: 1px solid #4a4a4a
-						&:after
-							content: ''
-							position: absolute
-							left: -1px
-							bottom: 0
-							top: 50%
-							width: 10px
-							height: 50%
-							border-top: 1px solid #4a4a4a
-							background-color: #292929
-						> div
-							padding: 10px
-					&-version
-						width: 30px
-						margin-left: 5px
-					&-date
-						width: 69px
-					&-name
-						max-width: 171px
-						font-weight: $fw_bold
-						color: #8a8a8a
-						white-space: nowrap
-						overflow: hidden
-						text-overflow: ellipsis
-					&-price
-						min-width: 60px
-						font-size: 1.3rem
-						font-weight: $fw_bold
-						color: #8a8a8a
-						.price-label
-							display: none
-						.currency
-							display: none
-					&-view
-						font-size: 1.3rem
-						width: 80px
-			&-actions
-				color: #ccc
-				text-align: right
-				background-color: #636363
-				padding: 10px 28px 10px 15px
-				.header
-					&-dropdown
-						&-count
-							margin-bottom: 10px
-				.btn
-					position: relative
-					display: inline-block
-					text-align: left
-					white-space: nowrap
-					border: none
-					font-family: $f_euro
-					overflow: hidden
-					width: 65%
-					padding-left: 10px
-					font-size: 1.5rem
-					line-height: 1
-					color: #ffffff
-					background-color: #c60e0a
-					font-weight: $fw_med
-					padding: 9px 2px 10px 12px
-					&:hover
-						background-color: #d81010
-					&:before
-						content: ''
-						position: absolute
-						top: -25px
-						right: 0
-						height: 0
-						width: 0
-						border-top: 65px solid transparent
-						border-right: 50px solid #9d0f0c
-						border-bottom: 50px solid transparent
-						padding-left: 10px
-					&:after
-						content: ""
-						position: absolute
-						right: 5px
-						top: 50%
-						display: inline-block
-						font-family: $f_iconfont
-						vertical-align: middle
-						font-size: 2.1rem
-						line-height: 21px
-						color: #ffffff
-						margin-top: -11px
-						text-decoration: none
-			&-laden
-				padding: 10px 28px 15px 15px
-				background-color: #636363
-				border-top: 1px solid #292929
-
-
+		
 		&__content
 			position: relative
-		&-top
-			position: fixed
-			top: 0
-			left: 0
-			z-index: 20
-			width: 100%
-			display: block
-			font-family: $f_arial
-			font-size: 1.4rem
-			padding: 7px 0
-			background-color: $c_dark
-			color: $c_text_gray
-			&__link
-				&-tooltip
-					top: calc(100% + 22px)
-					right: -39px
-					max-height: 600px
-					font-size: 1.2rem
-					line-height: 1.4
-				
-			&__left
-				display: flex
-				align-items: center
-				justify-content: flex-start
-				> *:before
-					content: '|'
-					display: inline-block
-					line-height: 1
-					margin: 0 10px
-				> *:first-of-type:before
-					display: none !important
-			&__right
-				display: flex
-				align-items: center
-				justify-content: flex-end
-				> *
-					margin-left: 50px
-				> *:first-of-type
-					margin-left: 0
-				&-links
-					display: flex
-					align-items: center
-					justify-content: flex-end
-				&-link
-					color: #ffffff
-					text-decoration: none
-					font-size: 1.2rem
-					&:hover	
-						text-decoration: none
-						color: $c_text_gray
-					&.active
-						&:after
-							content: ""
-							position: absolute
-							top: calc(100% + 8px)
-							left: 50%
-							width: 0
-							height: 0
-							border: 8px solid transparent
-							border-bottom-color: #292929
-							margin-left: -4px
-							z-index: 1
-					&__wrapper
-						position: relative
-						&:last-of-type
-							.header-dropdown
-								right: 0
-						&:before
-							content: '|'
-							display: inline-block
-							margin: 0 10px
-							line-height: 1
-							color: $c_text_gray
-						&:first-of-type:before
-							display: none
-					.count
-						display: inline-flex
-						align-items: center
-						justify-content: center
-						width: 20px
-						height: 20px
-						text-align: center
-						font-size: 1.3rem
-						line-height: 20px
-						margin-left: 3px
-						background-color: #2d2727
-						border-radius: 50%
-		&-logo__wrapper
-			padding: 14px 0 7px
-			text-align: left
-			margin-left: 0
-		&-hotline
-			&__link
-				color: $c_text_gray
-				text-decoration: none
-				&:hover
-					color: #ffffff
-		&-support
-			display: flex
-			align-items: center
-			justify-content: flex-start
-			&__status
-				font-weight: $fw_bold
-				cursor: pointer
-				&:hover
-					text-decoration: underline
-				&.online
-					color: $c_green
-					&:hover
-						text-decoration-color: $c_green
-				&.offline
-					color: $c_red
-					&:hover
-						text-decoration-color: $c_red
-			&__divider
-				color: #ffffff
-				margin: 0 5px
 		&-logo
-			&__wrapper
-				position: relative
-				z-index: 1
-				width: auto
-				flex-basis: 17%
-		&-bottom
-			padding-top: 30px
-			.header__content
-				align-items: flex-end
-			&__left
-				align-items: flex-end
-				justify-content: space-between
-				flex-basis: 85%
-			&__right
-				position: relative
-				z-index: 10
-				flex-basis: 15%
-				padding-right: 0
-				text-align: right
+			position: relative
+			flex-basis: 17%
+			padding: 14px 0 7px
+			margin-left: 0
+			text-align: left
+			z-index: 1
+			width: auto
 		&-nav
 			position: static
 			left: auto
@@ -431,7 +140,7 @@ body.scroll
 			visibility: visible
 			a
 				font-size: 1.2rem
-			.nav-item--parent a:after
+			.nav-item__parent a:after
 				display: none
 			&__burger
 				display: none
@@ -548,6 +257,4 @@ body.scroll
 				height: auto
 			&:before
 				border-bottom-width: 50px
-		&-bottom
-			padding-top: 31px
 		

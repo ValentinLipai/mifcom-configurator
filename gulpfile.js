@@ -17,9 +17,10 @@ var gulp          = require('gulp'),
 
 gulp.task('browser-sync', function() {
 	browserSync({
-		server: {
-			baseDir: 'app'
-		},
+		proxy: "mifcom.loc",
+		// server: {
+		// 	baseDir: 'app'
+		// },
 		notify: false,
 		// open: false,
 		// online: false, // Work Offline Without Internet Connection
@@ -90,7 +91,7 @@ if (gulpversion == 4) {
 	gulp.task('watch', function() {
 		gulp.watch('app/'+syntax+'/**/*.'+syntax+'', gulp.parallel('styles'));
 		gulp.watch(['app/libs/**/*.js', 'app/js/app_js/*.js', 'app/js/common.js', 'gulpfile.js'], gulp.parallel('scripts'));
-		gulp.watch(['app/*.html', 'app/*.php'], gulp.parallel('code'))
+		gulp.watch(['app/*.html', 'app/*.php', 'app/components/*.php'], gulp.parallel('code'))
 	});
 	gulp.task('default', gulp.parallel('watch', 'browser-sync'));
 }
