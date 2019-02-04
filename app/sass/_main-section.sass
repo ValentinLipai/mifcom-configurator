@@ -1,3 +1,28 @@
 /*
  * MAIN SECTION
  */
+
+.main
+	> .container
+		display: flex
+		justify-content: space-between
+	&__primary
+		margin-right: 6px
+		flex-grow: 1
+	&__sidebar
+		width: 222px
+		max-width: 222px
+		flex-grow: 1
+
+.product-mobile-info
+	padding: 10px 20px
+	background-color: #fff
+	border-bottom: 1px solid $c_border_gray_darken
+	&__title
+		font-size: 1.8rem
+		font-weight: $fw_bold
+
+
+@media screen and (min-width: 992px)
+	.product-mobile-info
+		display: none

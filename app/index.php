@@ -29,29 +29,41 @@
 	<?php require 'components/breadcrumbs.php'; ?>
 
 
+	<main class="main">
+		<div class="container">
+			<div class="main__primary">
+
+				<div class="product-mobile-info">
+					<div class="product-mobile-info__title">KONFIGURATION:</div>
+					<div class="product-mobile-info__config">Gaming PC Konfigurator Intel (9. Gen.) (So. 1151) [ID: 9013]</div>
+				</div>
+
+				<?php require 'components/product-cart.php'; ?>
+				<!-- /.product-cart -->
+
+				
+				<?php require 'components/customizer.php'; ?>
+				<!-- /.customizer -->
+			</div>
+			<div class="main__sidebar">
+
+				<?php require 'components/sidebar.php'; ?>
+					<!-- /.sidebar -->
+			</div>
+		</div>
+	</main>
+
 
 	<div class="configurator" id="configurator"> <!--  !!! заменить .configurator на .main или .content или .main-content !!! -->
 		<div class="container">
 			<div class="configurator-inner__wrapper">
 				<div class="configurator-main">
-					<div class="configurator-product__mobile-title-wrapper">
-						<div class="configurator-product__mobile-title">KONFIGURATION:</div>
-						<div class="configurator-product__mobile-config">Gaming PC Konfigurator Intel (9. Gen.) (So. 1151) [ID: 9013]</div>
-					</div>
 					<!-- /.configurator-product__mobile-title-wrapper -->
 
-					<?php require 'components/product-cart.php'; ?>
-					<!-- /.product-cart -->
-
-					
-					<?php require 'components/customizer.php'; ?>
-					<!-- /.customizer -->
 
 				</div>
 				<!-- /.configurator-main -->
 				
-				<?php require 'components/sidebar.php'; ?>
-				<!-- /.sidebar -->
 
 			</div>
 			<!-- /.configurator-inner__wrapper -->

@@ -9,7 +9,7 @@ var App_configurator = (function($){
 
 	function initFancyGallery()
 	{
-		var slides = $('.configurator-more-views-item');
+		var slides = $('.more-views__fancy-item');
 		
 		if ( slides.length > 0 )
 		{

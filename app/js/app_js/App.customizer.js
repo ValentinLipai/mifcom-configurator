@@ -188,7 +188,7 @@ var App_customizer = (function($) {
 	{
 		$('.configurator-sidebar__product-img__link').on('click', function(e){
 			e.preventDefault();
-			$('.configurator-product__main-image__link.configurator-more-views-item').click();
+			$('.product-image__link.more-views__fancy-item').click();
 		});
 	}
 
