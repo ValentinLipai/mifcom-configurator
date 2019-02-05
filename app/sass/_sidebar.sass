@@ -1,43 +1,36 @@
-.configurator-sidebar
-	position: fixed
-	bottom: 0
-	left: 0
-	z-index: 10
-	width: 100vw
-	&-content
-		background-color: $c_dark
-	&__mob
+.sidebar
+	background-color: $c_dark
+	&-mob
 		&-nav
-			&__wrapper
-				position: relative
+			position: relative
+			&:after
+				content: ''
+				position: absolute
+				top: 9px
+				bottom: 9px
+				right: 0
+				display: inline-block
+				width: 1px
+				background-color: #727272
+			&:before
+				content: ''
+				position: absolute
+				top: -8px
+				width: 0
+				height: 0
+				left: 50%
+				margin-left: -7px
+				border-style: solid
+				border-width: 0 7px 8px 7px
+				border-color: transparent transparent #191919 transparent
+			&.active
+				background-color: #292929
 				&:after
-					content: ''
-					position: absolute
-					top: 9px
-					bottom: 9px
-					right: 0
-					display: inline-block
-					width: 1px
-					background-color: #727272
+					display: none
 				&:before
-					content: ''
-					position: absolute
-					top: -8px
-					width: 0
-					height: 0
-					left: 50%
-					margin-left: -7px
-					border-style: solid
-					border-width: 0 7px 8px 7px
-					border-color: transparent transparent #191919 transparent
-				&.active
-					background-color: #292929
-					&:after
-						display: none
-					&:before
-						border-color: transparent transparent #292929 transparent
-					.configurator-sidebar__mob-nav__btn
-						color: #c60e0a
+					border-color: transparent transparent #292929 transparent
+				.sidebar-mob-nav__btn
+					color: #c60e0a
 			&__btn
 				position: relative
 				background-color: transparent
@@ -65,7 +58,7 @@
 				position: fixed
 				top: 0
 				left: 0
-	&__heading
+	&-heading
 		display: none
 	&__info
 		&-wrapper
@@ -74,15 +67,14 @@
 			justify-content: space-between
 			flex-wrap: wrap
 			width: calc(100% - 100px)
-	&__product
+	&-product
 		display: flex
 		align-items: flex-start
 		justify-content: space-between
-		&-name
+		&-title
 			display: none
 		&-img
-			&__wrapper
-				display: none
+			display: none
 		&-price
 			font-size: 21px
 			padding-left: 30px
@@ -99,29 +91,28 @@
 				font-size: 1.2rem
 			.cents
 				font-size: 1.9rem
-			&__old
+			&-old
 				display: none
 				font-size: 1.2rem
 				letter-spacing: 0
 				line-height: 1
 				padding: 0 0 0 19px
 				color: #ffffff
-				&-pre
-					&__star
-						position: relative
+				&__star
+					position: relative
+					display: inline-block
+					&:after
+						content: '*'
+					&:before
+						content: ""
 						display: inline-block
-						&:after
-							content: '*'
-						&:before
-							content: ""
-							display: inline-block
-							position: absolute
-							left: 0
-							top: 50%
-							right: 0
-							border-top: 2px solid
-							border-color: #c60e0a
-							transform: rotate(-10deg)
+						position: absolute
+						left: 0
+						top: 50%
+						right: 0
+						border-top: 2px solid
+						border-color: #c60e0a
+						transform: rotate(-10deg)
 		&-versand
 			font-size: 0.9rem
 			line-height: 0.8
@@ -131,9 +122,9 @@
 			word-spacing: -3px
 			&__link
 				color: #a8a8a8
-	&__add-to-cart
+	&-add-to-cart
 		width: 130px
-		&__btn
+		&-btn
 			position: relative
 			background: #c60d0a
 			text-transform: uppercase
@@ -159,7 +150,7 @@
 				border-style: solid
 				border-width: 0 0 38px 16px
 				border-color: transparent transparent #c60d0a transparent
-			&-text
+			&__text
 				&--pc
 					display: none
 				&--mobile
@@ -175,24 +166,21 @@
 						line-height: 1px
 						margin-right: 5px
 						vertical-align: middle
-	&__panel
+	&-panel
 		display: none
-	&__accordion
-		&-items
-			&__list
-				&-wrapper
-					display: none
+	&-accordion-links
+		display: none
 	&__config
 		&-btn
 			&-wrapper
 				display: none
-	&__delivery
+	&-delivery
 		position: absolute
 		bottom: 3px
 		right: 4px
 		color: #ffffff	
 		font-size: 1.1rem
-		img
+		&__img
 			vertical-align: top
 		span
 			color: #acacac
@@ -202,8 +190,8 @@
 
 
 @media screen and (min-width: 768px)
-	.configurator-sidebar
-		&__product
+	.sidebar
+		&-product
 			&-price
 				font-size: 3.1rem
 				padding-left: 0
@@ -216,28 +204,19 @@
 			&-versand
 				margin-left: 0
 				font-size: 1.3rem
-		&__delivery
+		&-delivery
 			font-size: 1.5rem
 
 	
 @media screen and (min-width: 992px)
-	.configurator-sidebar
-		position: relative
-		top: auto
-		bottom: auto
-		left: auto
-		right: auto
-		display: inline-block
-		width: 222px
-		&-content
-			background-color: $c_dark_lighten	
-			&.sidebar-fixed
-				.configurator-sidebar
-					&__product
-						&-img
-							&__wrapper
-								display: block
-		&__heading
+	.sidebar
+		background-color: $c_dark_lighten	
+		&.sidebar-fixed
+			.sidebar
+				&-product
+					&-img
+						display: block
+		&-heading
 			position: relative
 			display: block
 			padding: 0 0 0 15px
@@ -247,19 +226,19 @@
 			text-transform: uppercase
 			color: #fff
 			background: #323232
-			&-dots
+			&__dots
 				position: relative
 				left: -3px
-		&__mob-nav__wrapper
+		&-mob-nav
 			display: none
 		&__info
 			&-wrapper
 				display: block
 				width: 100%
-		&__panel
+		&-panel
 			display: block
 			padding: 0px 7px 7px 7px
-			&-list
+			&__list
 				display: flex
 				flex-wrap: wrap
 			&-item
@@ -268,28 +247,28 @@
 				justify-content: center
 				margin-bottom: 1px
 				padding: 0 0.5px
-				&__btn
-					display: flex
-					align-items: center
-					justify-content: center
-					flex-wrap: wrap
-					padding: 3px 3px 4px
-					background-color: #727272
-					color: #d4d4d4
-					border: none
-					width: 100%
-					height: 100%
-					padding: 8px 0
-					&-save
-						padding: 6px 0
-					&-load
-						padding: 0
-					&-load
-						flex-direction: column
-					&-support
-						padding: 10px 0
-					&:hover
-						color: #ffffff
+			&-btn
+				display: flex
+				align-items: center
+				justify-content: center
+				flex-wrap: wrap
+				padding: 3px 3px 4px
+				background-color: #727272
+				color: #d4d4d4
+				border: none
+				width: 100%
+				height: 100%
+				padding: 8px 0
+				&--save
+					padding: 6px 0
+				&--load
+					padding: 0
+				&--load
+					flex-direction: column
+				&--support
+					padding: 10px 0
+				&:hover
+					color: #ffffff
 				&__text
 					font-size: 1.3rem
 				&__icon
@@ -317,38 +296,38 @@
 						&:before
 							content: "\e604"
 							display: inline-block
-		&__product
+		&-product
 			display: block
 			background-color: #4c4c4c
 			padding: 16px 0 0
-			&-name
+			&-title
 				display: block
 				margin: 0
 				font-size: 1.5rem
 				font-weight: $fw_bold
 				color: #fff
 				padding: 0 12px 24px
-			&-id
-				display: inline-block
-				padding-left: 10px
-				font-size: 1.1rem
-				font-family: $f_arial
-				font-weight: $fw_bold
-				color: #929292
+				&__id
+					display: inline-block
+					padding-left: 10px
+					font-size: 1.1rem
+					font-family: $f_arial
+					font-weight: $fw_bold
+					color: #929292
 			&-img
-				display: block
-				width: 100%
-				&__wrapper
-					display: none
-					width: 220px
-					padding: 0px 7px 10px
+				display: none
+				width: 220px
+				padding: 0px 7px 10px
+				&__image
+					display: block
+					width: 100%
 				&__link
 					position: relative
 					display: block
-				&__zoom
-					position: absolute
-					top: 8px
-					left: 20px
+			&-zoom
+				position: absolute
+				top: 8px
+				left: 20px
 			&-versand
 				font-size: 11px
 				word-spacing: unset
@@ -363,7 +342,7 @@
 					position: relative
 					left: -7px
 					letter-spacing: 0
-				&__old
+				&-old
 					display: block
 					position: absolute
 					top: 10px
@@ -376,11 +355,11 @@
 					width: 100%
 					padding: 20px 17px 10px
 					background-color: #323232
-		&__add-to-cart
+		&-add-to-cart
 			width: 100%
 			padding: 0 16px
 			background-color: #323232
-			&__btn
+			&-btn
 				position: relative
 				display: block
 				text-transform: none
@@ -420,12 +399,12 @@
 					right: -10px
 					top: 1px
 					font-size: 19px
-				&-text
+				&__text
 					&--mobile
 						display: none
 					&--pc
 						display: block
-		&__delivery
+		&-delivery
 			position: static
 			top: auto
 			left: auto
@@ -441,66 +420,12 @@
 				line-height: 1
 				&:first-of-type
 					display: inline
-		&__accordion
-			&-items
-				padding-right: 19px
-				&__item
-					position: relative
-					color: #000
-					padding: 8px 14px
-					border-top: 1px solid #e3e3e3
-					&.current
-						background-color: #ececec
-						&:before
-							content: ''
-							position: absolute
-							top: 50%
-							left: -3px
-							display: block
-							width: 0
-							height: 0
-							border-top: 10px solid transparent
-							border-bottom: 10px solid transparent
-							border-left: 10px solid #fff
-							border-right: none
-							margin-top: -10px
-						&:after
-							content: ''
-							position: absolute
-							width: 0
-							height: 0
-							display: block
-							border-top: 8px solid transparent
-							border-bottom: 8px solid transparent
-							border-left: 8px solid #ececec
-							border-right: none
-							top: 50%
-							left: -5px
-							margin-top: -8px
-							display: block
-					&-title
-						display: block
-						width: 100%
-						font-weight: $fw_bold
-						padding: 0px 12px 0px 14px
-						white-space: nowrap
-						text-overflow: ellipsis
-						overflow: hidden
-					&-status
-						display: block
-						width: 100%
-						padding: 0px 12px 0px 14px
-						white-space: nowrap
-						text-overflow: ellipsis
-						overflow: hidden
-					&-link
-						display: flex
-						flex-direction: column
-						align-items: flex-start
-						color: #000
-						text-decoration: none
-						font-family: $f_arial
-						font-size: 1.1rem
+		&-accordion
+			&-links
+				display: block
+				// padding-right: 19px
+				padding-right: 5px
+				background-color: #ffffff
 				&__list
 					position: relative
 					padding: 0 9px 0 5px
@@ -524,11 +449,65 @@
 						background-color: #ececec
 					&::-webkit-resizer 
 						background-color: transparent
-					&-wrapper
+			&-item
+				position: relative
+				color: #000
+				padding: 8px 14px
+				border-top: 1px solid #e3e3e3
+				&.current
+					background-color: #ececec
+					&:before
+						content: ''
+						position: absolute
+						top: 50%
+						left: -3px
 						display: block
-						padding-right: 5px
-						background-color: #ffffff
-		&__config
+						width: 0
+						height: 0
+						border-top: 10px solid transparent
+						border-bottom: 10px solid transparent
+						border-left: 10px solid #fff
+						border-right: none
+						margin-top: -10px
+					&:after
+						content: ''
+						position: absolute
+						width: 0
+						height: 0
+						display: block
+						border-top: 8px solid transparent
+						border-bottom: 8px solid transparent
+						border-left: 8px solid #ececec
+						border-right: none
+						top: 50%
+						left: -5px
+						margin-top: -8px
+						display: block
+				&__title
+					display: block
+					width: 100%
+					font-weight: $fw_bold
+					padding: 0px 12px 0px 14px
+					white-space: nowrap
+					text-overflow: ellipsis
+					overflow: hidden
+				&__status
+					display: block
+					width: 100%
+					padding: 0px 12px 0px 14px
+					white-space: nowrap
+					text-overflow: ellipsis
+					overflow: hidden
+				&__link
+					display: flex
+					flex-direction: column
+					align-items: flex-start
+					color: #000
+					text-decoration: none
+					font-family: $f_arial
+					font-size: 1.1rem
+			
+		&-config
 			&-btn
 				position: relative
 				background-color: transparent

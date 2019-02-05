@@ -38,37 +38,18 @@
 					<div class="product-mobile-info__config">Gaming PC Konfigurator Intel (9. Gen.) (So. 1151) [ID: 9013]</div>
 				</div>
 
-				<?php require 'components/product-cart.php'; ?>
+				<?php require 'components/product-description.php'; ?>
 				<!-- /.product-cart -->
 
 				
-				<?php require 'components/customizer.php'; ?>
-				<!-- /.customizer -->
+				<?php require 'components/configurator.php'; ?>
+				<!-- /.configurator -->
 			</div>
-			<div class="main__sidebar">
 
-				<?php require 'components/sidebar.php'; ?>
-					<!-- /.sidebar -->
-			</div>
+			<?php require 'components/sidebar.php'; ?>
+				<!-- /.sidebar -->
 		</div>
 	</main>
-
-
-	<div class="configurator" id="configurator"> <!--  !!! заменить .configurator на .main или .content или .main-content !!! -->
-		<div class="container">
-			<div class="configurator-inner__wrapper">
-				<div class="configurator-main">
-					<!-- /.configurator-product__mobile-title-wrapper -->
-
-
-				</div>
-				<!-- /.configurator-main -->
-				
-
-			</div>
-			<!-- /.configurator-inner__wrapper -->
-		</div>
-	</div>
 
 	<?php require 'components/footer.php'; ?>
 	<!-- /.footer -->

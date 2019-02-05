@@ -1,50 +1,22 @@
 
-var App_bundle_description = (function($) {
+var bundleDescription = (function($) {
 
-	var toggleInitialized = false;
-	var bundleDescriptionItemsLabel = $('.bundle-description__item-label');
-	var resizeTimeOut;
+	var bundleDescriptionToggleBtn = $('.bundle-description__toggle-btn');
 	
 	function initBundleDescriptionToggle()
 	{
-		if ( bundleDescriptionItemsLabel.length > 0 && !toggleInitialized)
+		if ( bundleDescriptionToggleBtn.length > 0)
 		{
-			toggleInitialized = true;
-			bundleDescriptionItemsLabel.on('click', function(){
+			bundleDescriptionToggleBtn.on('click', function(){
 				$(this).toggleClass('open');
-				$(this).siblings('.bundle-description__item-value').slideToggle('fast');
+				$(this).parent().siblings('.bundle-description__value').slideToggle('fast');
 			});
 		}
 	};
 
-	function removeClickHandler()
-	{
-		bundleDescriptionItemsLabel.off('click');
-		toggleInitialized = false;
-	};
-
-	window.addEventListener('resize', function(e){		
-		if ( WINDOW_WIDTH > 767 )
-		{
-			clearTimeout(resizeTimeOut);
-			resizeTimeOut = setTimeout( function(){
-				removeClickHandler();
-			}, 100);
-		}
-		else
-		{
-			clearTimeout(resizeTimeOut);
-			resizeTimeOut = setTimeout( function(){
-				initBundleDescriptionToggle();
-			}, 100);
-		}
-	});
 
     function _init() {
-		if ( WINDOW_WIDTH < 768 )
-		{
-			initBundleDescriptionToggle();
-		}
+		initBundleDescriptionToggle();
 	};
     
     return {
@@ -55,6 +27,6 @@ var App_bundle_description = (function($) {
 
 jQuery(function () {
 	
-	App_bundle_description.init();
+	bundleDescription.init();
 
 });

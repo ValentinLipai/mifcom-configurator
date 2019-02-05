@@ -12,11 +12,7 @@
 		&:before
 			position: absolute
 			left: 20px
-		&.open
-			.bundle-description__toggle-btn
-				background-color: #292929
-				&:before
-					transform: skew(22deg) rotate(180deg)
+		
 	&__value
 		display: none
 		padding: 23px 20px
@@ -32,14 +28,11 @@
 			width: 44px
 	&__toggle-btn
 		position: absolute
-		right: -12px
+		right: 0
 		top: 0
-		bottom: 0px
-		margin: auto 0
-		width: 76px
-		background: #a8a8a8
-		transform: skew(-22deg)
-		&:before
+		left: 0
+		bottom: 0
+		&:after
 			content: ''
 			position: absolute
 			width: 0
@@ -50,14 +43,29 @@
 			border-top: 7px solid #fff
 			border-bottom: none
 			position: absolute
-			top: 1px
-			right: 0
+			top: 0
 			bottom: 0
-			left: 0px
+			right: 20px
 			margin: auto
 			transform-origin: center
 			transition: transform 0.2s
-			transform: skew(22deg) rotate(0deg)
+			transform: skew(0) rotate(0deg) 
+		&:before
+			content: ''
+			display: inline-block
+			position: absolute
+			right: -12px
+			top: 0
+			bottom: 0px
+			margin: auto 0
+			width: 76px
+			background: #a8a8a8
+			transform: skew(-22deg)
+		&.open
+			&:before
+				background-color: #292929
+			&:after
+				transform: skew(0) rotate(180deg)
 
 @media screen and (min-width: 768px)
 	.bundle-description
