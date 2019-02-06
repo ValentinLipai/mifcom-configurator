@@ -97,7 +97,7 @@
 
 									</ul>
 								</div>
-								<div class="sidebar-config-btn-wrapper">
+								<div class="sidebar-config-btn__wrapper">
 									<button class="sidebar-config-btn" title="Meine konfiguration" data-fancybox="" data-src="#modal__configurator-summary"
 									 data-modal="false">
 										<span class="sidebar-config-btn__text">Meine konfiguration</span>
@@ -105,4 +105,4 @@
 								</div>
 							</div>
 						</div>
-						<!-- /.configurator-sidebar -->
+						<!-- /.sidebar -->

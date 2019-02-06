@@ -26,11 +26,11 @@
 						padding: 3px
 						width: 100% 
 						background-color: #fff
-						border-top: 1px solid $c_border_gray_lighten
+						border-top: 1px solid $light-gray
 						&:last-of-type
-							border-bottom: 1px solid $c_border_gray_lighten
+							border-bottom: 1px solid $light-gray
 						&:hover
-							background-color: $c_border_white
+							background-color: $white
 						&:before
 							display: none
 						&:after
@@ -39,7 +39,7 @@
 							clear: both
 						&--disabled
 							opacity: 0.5
-							background-color: $c_border_white
+							background-color: $white
 						&-name
 							font-size: 1.2rem
 							display: inline
@@ -124,7 +124,7 @@
 						font-size: 1.4rem
 					&-special
 						.price
-							color: $c_red_lighten
+							color: $light-red
 					.old-price
 						font-size: 1rem
 					.overline
@@ -137,7 +137,7 @@
 							width: 100%
 							transform: translateY(-50%)
 							height: 2px
-							background-color: $c_red_lighten
+							background-color: $light-red
 							display: inline-block
 					> span
 						display: block
@@ -191,7 +191,7 @@
 					font-size: 1.4rem
 				&-special
 					.price
-						color: $c_red_lighten
+						color: $light-red
 				.old-price
 					font-size: 1rem
 					margin-right: 5px
@@ -205,7 +205,7 @@
 						width: 100%
 						transform: translateY(-50%)
 						height: 2px
-						background-color: $c_red_lighten
+						background-color: $light-red
 						display: inline-block
 	&__banner
 		margin-bottom: 20px
@@ -220,7 +220,7 @@
 		align-items: flex-start
 		flex-direction: column-reverse
 		align-items: flex-end
-		background-color: $c_bg_light_darken
+		background-color: $dark-white
 		padding: 10px
 	&__filter
 		display: flex
@@ -278,7 +278,7 @@
 			text-transform: uppercase
 			text-align: left
 			padding: 4px 9px 2px 30px
-			color: $c_text_gray_dark
+			color: $light-gray
 			&:before
 				content: ""
 				position: absolute
@@ -312,7 +312,7 @@
 		justify-content: flex-end
 		width: 60%
 		padding-left: 5px
-		border-left: 1px solid $c_border_gray_lighten
+		border-left: 1px solid $light-gray
 		&__label
 			display: none
 		&__list
@@ -331,7 +331,7 @@
 			height: 46px
 			width: 46px
 			border-radius: 4px
-			color: $c_light_gray_lighten
+			color: $dark-white
 			background-color: #fff
 			margin-right: 6px
 			&:last-of-type
@@ -351,7 +351,7 @@
 		&-heading
 			padding: 11px 0 13px 0
 			margin-bottom: 10px
-			border-bottom: 1px solid $c_border_gray_lighten
+			border-bottom: 1px solid $light-gray
 			&__label
 				font-size: 1.8rem
 				font-weight: $fw_bold
@@ -371,7 +371,7 @@
 			vertical-align: top
 			padding: 0
 			background: #ededed
-			border: 3px solid $c_configurator_cart
+			border: 3px solid $dark-white
 			height: 310px
 			margin-bottom: 1.5%
 			&:before
@@ -382,18 +382,18 @@
 				width: 0
 				height: 0
 				border-bottom: 45px solid transparent
-				border-left: 40px solid $c_configurator_cart
+				border-left: 40px solid $dark-white
 			&:nth-of-type(2n)
 				margin-right: 0
 			&--disabled
-				background-color: $c_configurator_cart_disabled_bg
-				.customizer-catalog__options-label
+				background-color: $white
+				.configurator-article__label
 					opacity: 0.5
-			&.customizer-catalog__options-item--selected
-				border-color: $c_configurator_cart_selected
+			&.configurator-article--selected
+				border-color: $light-green
 				&:before
-					border-left-color: $c_configurator_cart_selected
-				.customizer-catalog__options-label
+					border-left-color: $light-green
+				.configurator-article__label
 					&:after
 						display: block
 			&-name
@@ -483,7 +483,7 @@
 				font-weight: $fw_bold
 				color: #000
 				&--product
-					color: $c_dark_gray_lighten
+					color: $dark-gray
 					font-size: 1.1rem
 			&-img
 				display: block
@@ -517,7 +517,7 @@
 								left: 3px
 								width: 12px
 								height: 12px
-								background-color: $c_light_gray_lighten
+								background-color: $dark-white
 							&:after
 								left: 5px
 								width: 8px
@@ -584,14 +584,14 @@
 				&:hover,
 				&.active
 					color: #ffffff
-					background-color: $c_dark_darken
+					background-color: $light-black
 					&:after
 						display: none
 				&--close
-					color: $c_red_lighten
+					color: $light-red
 					&:hover
 						color: #ffffff
-						background-color: $c_red_lighten
+						background-color: $light-red
 			&-clear-mobile-btn
 				display: none
 		&__grid-switcher
@@ -681,7 +681,7 @@
 						content: ''
 						display: table
 						clear: both
-					.customizer-catalog__sidebar
+					.configurator-sidebar
 						&-img
 							float: left
 							display: inline-block
@@ -700,7 +700,7 @@
 	.accordion-title
 		&.open
 			+ .accordion-content
-				.customizer-catalog__sidebar
+				.configurator-sidebar
 					display: block
 					position: fixed
 					top: -200px
@@ -712,6 +712,6 @@
 		.accordion-title
 			&.open
 				+ .accordion-content
-					.customizer-catalog__sidebar
+					.configurator-sidebar
 						display: block
 						top: 64px

@@ -1,12 +1,12 @@
-.customizer-catalog-summary
+.configurator-summary
 	display: flex
 	flex-direction: column
 	background-color: #fff
 	padding: 10px
-	&__sidebar
+	&-sidebar
 		width: 100%
 		display: block
-		&-banner
+		&__banner
 			position: relative
 			background-color: #323232
 			padding-bottom: 80px
@@ -108,7 +108,7 @@
 					color: #fff
 					margin-top: 4px
 					span
-						color: $c_red
+						color: $red
 						font-size: 2.8rem
 						line-height: 18px
 				&__more-info
@@ -182,7 +182,7 @@
 					margin: 0 auto 9px
 					font-size: 3.4rem
 					// color: #50af29
-					color: $c_green_light
+					color: $light-green
 		.csr-invalid-result
 			display: none
 			.bottom-message
@@ -221,95 +221,93 @@
 			background-color: #ffd200
 			.csr-warning-result
 				display: block
-	&__content
+	&-content
 		padding: 10px 0
-		&-heading
+		&__heading
 			padding-top: 10px
 			font-size: 1.8rem
 			text-transform: uppercase
 			> *
 				display: block
 		&.hide-empty
-			.customizer-catalog-summary__options-item:not(.success)
+			.configurator-summary__options-item:not(.success)
 				display: none
-			.customizer-catalog-summary__options-categories__item.empty-list
+			.configurator-summary-categories__item.empty-list
 				display: none
-	&__options
-		&-categories
-			&__list
-				padding-bottom: 23px
-				list-style-type: none
-				margin-top: 30px
-			&__item
-				margin-top: 7px
-				padding-bottom: 23px
-				&-heading
-					font-size: 1.5rem
-					font-weight: $fw_bold
-					text-transform: uppercase
-					margin-bottom: 7px
-		&-list
-			list-style-type: none
-		&-item
-			position: relative
-			display: flex
-			align-items: flex-end
-			justify-content: space-between
-			background-color: $c_bg_light
-			padding: 7px 6px 7px 0
+	&-filter
+		width: 100%
+		&__heading
+			display: inline-block
+			font-size: 1.3rem
 			font-family: $f_arial
-			font-size: 1.2rem
-			&:nth-of-type(even)
-				background-color: #fff
-			&.success
-				.customizer-catalog-summary__options
-					&-group-title
-						&:before
-							content: "\EA67"
-					&-item-title
-						color: #000
-					&-choose-link
-						display: none
-			&__info
-				width: 80%
-				padding-left: 30px
-		&-filter
-			&__wrapper
-				width: 100%
-			&__heading
+		&__buttons
+			display: flex
+			margin-top: 8px
+			justify-content: space-between
+		&__btn
+			width: 49%
+			text-align: center
+			background-color: #fff
+			color: #242424
+			border-radius: 2px
+			border: none
+			font-size: 1.4rem
+			text-transform: uppercase
+			font-weight: $fw_med
+			padding: 16px 5px
+			&.active
+				color: #e6e6e6
+				background: #323232
+			&:before
+				position: relative
+				top: -2px
+				font-size: 2.5rem
+				line-height: 1px
 				display: inline-block
-				font-size: 1.3rem
-				font-family: $f_arial
-			&__btn
-				width: 49%
-				text-align: center
-				background-color: #fff
-				color: #242424
-				border-radius: 2px
-				border: none
-				font-size: 1.4rem
-				text-transform: uppercase
-				font-weight: $fw_med
-				padding: 16px 5px
-				&.active
-					color: #e6e6e6
-					background: #323232
+				vertical-align: middle
+				margin-right: 5px
+			&:last-of-type
 				&:before
-					position: relative
-					top: -2px
-					font-size: 2.5rem
-					line-height: 1px
-					display: inline-block
-					vertical-align: middle
-					margin-right: 5px
-				&:last-of-type
+					font-size: 2.2rem
+	&-categories
+		&__list
+			padding-bottom: 23px
+			list-style-type: none
+			margin-top: 30px
+	&-category
+		margin-top: 7px
+		padding-bottom: 23px
+		&__heading
+			font-size: 1.5rem
+			font-weight: $fw_bold
+			text-transform: uppercase
+			margin-bottom: 7px
+	&-articles
+		list-style-type: none
+	&-article
+		position: relative
+		display: flex
+		align-items: flex-end
+		justify-content: space-between
+		background-color: $white
+		padding: 7px 6px 7px 0
+		font-family: $f_arial
+		font-size: 1.2rem
+		&:nth-of-type(even)
+			background-color: #fff
+		&.success
+			.configurator-summary-article
+				&__group
 					&:before
-						font-size: 2.2rem
-				&-wrapper
-					display: flex
-					margin-top: 8px
-					justify-content: space-between
-		&-group-title
+						content: "\EA67"
+				&__title
+					color: #000
+				&__link
+					display: none
+		&__info
+			width: 80%
+			padding-left: 30px
+		&__group
 			position: relative
 			display: block
 			text-transform: uppercase
@@ -325,12 +323,12 @@
 				font-family: $f_iconfont
 				font-size: 1rem
 				line-height: 1
-				color: $c_green
+				color: $green
 				display: inline-block
-		&-item-title
-			color: $c_red
-		&-choose-link
-			color: $c_green
+		&__title
+			color: $red
+		&__link
+			color: $green
 			text-transform: lowercase
 			text-decoration: underline
 			&:before
@@ -338,19 +336,17 @@
 				display: inline-block
 				margin-right: 5px
 				text-decoration: underline
+		
+		
 				
 
 @media screen and (min-width: 768px)
-	.customizer-catalog-summary
+	.configurator-summary
 		padding: 25px 10px 25px 20px
-		&__sidebar
+		&-sidebar
 			padding-right: 0px
-			.customizer-catalog__sidebar-summary
-				display: flex
-				justify-content: space-between
-				> *
-					width: 49%
-			&-banner
+			text-align: center
+			&__banner
 				background-color: #323232
 				margin-top: 0
 				.cms-windows-block
@@ -407,22 +403,21 @@
 					padding-bottom: 17px
 					font-size: 49px
 					line-height: 1
-		&__content
+		&-content
 			padding: 0
 			width: 100%
 			margin-top: 20px
-			&-heading
+			&__heading
 				padding-top: 0
 				> *
 					display: inline-block
-		&__options
-			&-item
-				align-items: center
-				padding: 7px 30px 7px 0
-				&__info
-					width: 85%
-					padding-left: 0
-			&-group-title
+		&-article
+			align-items: center
+			padding: 7px 30px 7px 0
+			&__info
+				width: 85%
+				padding-left: 0
+			&__group
 				display: inline-block
 				vertical-align: middle
 				width: 37%
@@ -440,48 +435,39 @@
 					position: absolute
 					left: 7px
 					font-size: 1rem
-			&-value
-				display: flex
-				align-items: center
-				justify-content: space-between
-				padding-right: 25px
-				width: 76.5%
+		&-filter
+			display: flex
+			align-items: center
+			justify-content: flex-end
+			padding: 8px 0
+			&__heading
+				display: inline-block
+				font-size: 1.3rem
 				font-family: $f_arial
-				font-size: 1.2rem
-			&-filter
-				&__wrapper
-					display: flex
-					align-items: center
-					justify-content: flex-end
-					padding: 8px 0
-				&__heading
-					display: inline-block
-					font-size: 1.3rem
-					font-family: $f_arial
-				&__btn
-					width: auto
-					padding: 6px 14px
-					font-size: 1.3rem
-					&:before
-						display: none
-					&:first-of-type
-						margin-right: 10px
-					&-wrapper
-						justify-content: flex-end
-						margin-top: 0
-						margin-left: 10px
+			&__btn
+				width: auto
+				padding: 6px 14px
+				font-size: 1.3rem
+				&:before
+					display: none
+				&:first-of-type
+					margin-right: 10px
+			&__buttons
+				justify-content: flex-end
+				margin-top: 0
+				margin-left: 10px
 
 @media screen and (min-width: 992px)
-	.customizer-catalog-summary
+	.configurator-summary
 		flex-direction: row	
-		&__sidebar
+		&-sidebar
 			width: 30%
 			padding-right: 20px
-			.customizer-catalog__sidebar-summary
+			.configurator-sidebar__summary
 				flex-direction: column
 				> *
 					width: 100%
-			&-banner
+			&__banner
 				padding-bottom: 0
 				margin-top: 20px
 				.cms-windows-block
@@ -571,7 +557,7 @@
 						padding: 0 0 11px 14px
 						margin-top: 4px
 						span
-							color: $c_red
+							color: $red
 							font-size: 2.8rem
 							line-height: 18px
 					&__more-info
@@ -596,26 +582,24 @@
 						img
 							display: block
 							width: 100%
-		&__options
-			&-item
-				&-title
-					display: inline-block
-					vertical-align: top
-					width: 62%
+		&-article
+			&__title
+				display: inline-block
+				vertical-align: top
+				width: 62%
 		&__result
 			position: relative
 			display: inline-block
 			padding: 0
-			
-		&__content
+		&-content
 			width: 69.5%
 			margin-top: 0
 
 @media screen and (min-width: 1250px)
-	.customizer-catalog-summary
-		&__sidebar
+	.configurator-summary
+		&-sidebar
 			width: 20%
-			&-banner
+			&__banner
 				padding-bottom: 0
 				margin-top: 20px
 				.cms-windows-block
@@ -705,7 +689,7 @@
 						padding: 0 0 11px 14px
 						margin-top: 4px
 						span
-							color: $c_red
+							color: $red
 							font-size: 2.8rem
 							line-height: 18px
 					&__more-info
@@ -734,7 +718,6 @@
 			position: relative
 			display: inline-block
 			padding: 0
-			
-		&__content
+		&-content
 			width: 79.5%
 		

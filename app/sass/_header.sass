@@ -4,7 +4,7 @@
 	left: 0
 	z-index: 100
 	width: 100vw
-	background-color: $c_dark
+	background-color: $black
 	&__content
 		display: flex
 		align-items: center
@@ -34,8 +34,8 @@
 			&:focus
 				outline: none
 			&.active
-				color: $c_light_gray_darken
-				background-color: $c_dark_darken
+				color: $gray
+				background-color: $light-black
 				z-index: 50
 			&:before
 				vertical-align: text-top
@@ -59,11 +59,11 @@
 				position: relative
 				font-size: 1.8rem
 				&.active
-					color: $c_red_lighten
+					color: $light-red
 				&--cart
 					font-size: 2rem
 					.header-mob-icons__count
-						background-color: $c_red
+						background-color: $red
 						color: #ffffff
 			&__item
 				list-style-type: none
@@ -161,10 +161,10 @@ body.scroll
 					background-color: transparent
 					padding: 11px 7px 17px
 					border-radius: 2px 2px 0 0
-					color: $c_text_gray
+					color: $gray
 					&:hover
 						color: #ffffff
-						background-color: $c_dark_darken
+						background-color: $light-black
 				&:hover
 					> .nav-submenu__wrapper
 						top: 100%
@@ -192,17 +192,17 @@ body.scroll
 			position: relative
 			display: inline-block
 			top: 8px
-			background-color: $c_red
+			background-color: $red
 			&:hover
-				background-color: $c_red_lighten
+				background-color: $light-red
 				&:before
-					border-bottom-color: $c_red_lighten
+					border-bottom-color: $light-red
 			&:before
 				content: ''
 				display: block
 				height: 0
 				width: 0
-				border-bottom: 40px solid $c_red
+				border-bottom: 40px solid $red
 				border-left: 40px solid transparent
 				border-left: 31px solid transparent
 				position: absolute
@@ -234,7 +234,7 @@ body.scroll
 				margin-left: 5px
 				width: 24px
 				height: 24px
-				color: $c_red
+				color: $red
 				background-color: #fff
 				font-size: 1.8rem
 				border-radius: 50%

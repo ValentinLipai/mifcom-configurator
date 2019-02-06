@@ -12,8 +12,8 @@
 			font-weight: $fw_bold
 			margin-top: 10px
 			padding: 22px 23px 19px 54px
-			background: $c_dark_gray
-			color: $c_white_gray
+			background: $dark-gray
+			color: $dark-white
 			line-height: 1
 			overflow: hidden
 			&:before
@@ -23,9 +23,9 @@
 				top: 12px
 				left: 10px
 				display: inline-block
-				color: $c_white_gray
+				color: $dark-white
 				border-radius: 3px
-				background-color: $c_dark
+				background-color: $black
 				font-size: 24px
 				line-height: 36px
 				text-align: center
@@ -33,7 +33,7 @@
 				height: 36px
 			&.active
 				text-transform: uppercase
-				background: $c_red
+				background: $red
 				&:before
 					width: 32px
 					height: 32px
@@ -43,7 +43,7 @@
 					border-radius: 3px
 					box-sizing: content-box
 				.tep-tab-mobile__toggle-icon
-					background-color: $c_red_dark
+					background-color: $dark-red
 					&:before
 						border-right: 7px solid transparent
 						border-left: 7px solid transparent
@@ -58,7 +58,7 @@
 				bottom: 0px
 				margin: auto 0
 				width: 76px
-				background: $c_dark_darken
+				background: $light-black
 				transform: skew(-22deg)
 				&:before
 					content: ''
@@ -99,12 +99,12 @@
 		&.active
 			.step-tabs-nav
 				&__link
-					background-color: $c_red
+					background-color: $red
 			+ li
 				.step-tabs-nav
 					&__link
 						&:after
-							background-color: $c_red
+							background-color: $red
 		&.active
 			.step-tabs-nav
 				&__title
@@ -119,7 +119,7 @@
 		text-decoration: none
 		text-align: center
 		padding: 0 5px 0 0
-		background-color: $c_dark_gray_lighten
+		background-color: $dark-gray
 		&:before
 			content: ''
 			position: absolute
@@ -139,7 +139,7 @@
 			right: -15px
 			display: block
 			font-size: 12px
-			background: #4c4c4c
+			background: $dark-gray
 			width: 17px
 			height: 15px
 			border-top: 2px solid #323232
@@ -220,12 +220,12 @@ body.scroll
 			&:hover
 				.step-tabs-nav
 					&__link
-						background-color: $c_red
+						background-color: $red
 				+ li
 					.step-tabs-nav
 						&__link
 							&:after
-								background-color: $c_red
+								background-color: $red
 				.step-tabs-submenu
 					opacity: 1
 					visibility: visible
@@ -242,7 +242,7 @@ body.scroll
 		width: 100%
 		list-style-type: none
 		padding: 20px 40px
-		background-color: $c_dark_lighten
+		background-color: $light-black
 		color: #ffffff
 		opacity: 0
 		visibility: hidden

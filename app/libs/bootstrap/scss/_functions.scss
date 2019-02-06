@@ -73,7 +73,7 @@
 }
 
 @function gray($key: "100") {
-  @return map-get($grays, $key);
+  @return map-get($dark-grays, $key);
 }
 
 // Request a theme color level

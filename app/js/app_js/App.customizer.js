@@ -206,7 +206,7 @@ var App_customizer = (function($) {
 
 	function summaryAddLinksHandler()
 	{
-		var summaryAddLinks = $('.customizer-catalog-summary__options-choose-link');
+		var summaryAddLinks = $('.configurator-summary-article__link');
 
 		summaryAddLinks.on('click', function(e){
 			e.preventDefault();
@@ -314,13 +314,13 @@ var App_customizer = (function($) {
 	// grid switcher
 	function initGridSwitcherHandler()
 	{
-		$('.customizer-catalog__grid-switcher__btn').on('click', function(e){
+		$('.catalog-grid-switcher__btn').on('click', function(e){
 			e.preventDefault();
-			var catalogBlock = $(this).closest('.customizer-catalog__block');
+			var catalogBlock = $(this).closest('.configurator-catalog');
 			
 			if ( !catalogBlock.hasClass($(this).data('grid-switcher')) )
 			{
-				catalogBlock.attr('class', 'customizer-catalog__block ' + $(this).data('grid-switcher'));
+				catalogBlock.attr('class', 'configurator-catalog ' + $(this).data('grid-switcher'));
 			}
 		});
 	}
@@ -328,10 +328,10 @@ var App_customizer = (function($) {
 	// customizer filter btns
 	function initFilterBtnsHandler()
 	{
-		$('.customizer-catalog__filter-btn').on('click', function(e){
+		$('.catalog-filter__btn').on('click', function(e){
 			e.preventDefault();
 			
-			if ( $(this).hasClass('customizer-catalog__filter-btn--close') )
+			if ( $(this).hasClass('catalog-filter__btn--close') )
 			{
 				$(this).siblings().removeClass('active');
 			}
@@ -341,17 +341,17 @@ var App_customizer = (function($) {
 			}
 		});
 
-		$('.customizer-catalog__filter-clear-mobile-btn').on('click', function(){
-			$(this).closest('.customizer-catalog__tools').find('.customizer-catalog__filter-btn').removeClass('active');
+		$('.catalog-filter__btn--clear-mobile').on('click', function(){
+			$(this).closest('.configurator-catalog__tools').find('.catalog-filter__btn').removeClass('active');
 		});
 	};
 
 	function toggleFiltersList()
 	{
-		var toggleLinks = $('.customizer-catalog__filter-label__mob-arrow');
+		var toggleLinks = $('.catalog-filter-label__mob-arrow');
 
 		toggleLinks.on('click', function(){
-			$(this).parent().siblings('.customizer-catalog__filter-list').slideToggle('fast');
+			$(this).parent().siblings('.catalog-filter-list').slideToggle('fast');
 		});
 	}
 
@@ -382,13 +382,13 @@ var App_customizer = (function($) {
 
 	// product components selecting functions
 
-	var productComponentsRadio = $('.customizer-catalog__options-input--radio');
+	var productComponentsRadio = $('.configurator-article__input--radio');
 
 	function componentClickHandler()
 	{
 		productComponentsRadio.on('change', function(){
 			var self = $(this);
-			if ( !self.closest('.customizer-catalog__options-item').hasClass('customizer-catalog__options-item--selected') )
+			if ( !self.closest('.configurator-article').hasClass('configurator-article--selected') )
 			{
 				changeSelectedComponent(self);
 				changeSelectedComponentPreview(self);
@@ -400,19 +400,19 @@ var App_customizer = (function($) {
 
 	function changeSummaryList(self)
 	{		
-		var target = $('.customizer-catalog-summary__options-item[data-item-input-name="'+ self.attr('name') +'"]');
+		var target = $('.configurator-summary-article[data-item-input-name="'+ self.attr('name') +'"]');
 
-		target.find('.customizer-catalog-summary__options-item-title').html(self.data('productName'));
-		if (!target.hasClass('success')) target.attr('class', 'customizer-catalog-summary__options-item success');
+		target.find('.configurator-summary-article__title').html(self.data('productName'));
+		if (!target.hasClass('success')) target.attr('class', 'configurator-summary-article success');
 		checkEmptySummaryGroups();
 	}
 
 	function checkEmptySummaryGroups()
 	{
-		var summaryLists = $('.customizer-catalog-summary__options-categories__item');
+		var summaryLists = $('.configurator-summary-category');
 
 		summaryLists.each(function(){
-			if ( $(this).find('.customizer-catalog-summary__options-item.success').length == 0 )
+			if ( $(this).find('.configurator-summary-article.success').length == 0 )
 			{
 				$(this).addClass('empty-list');
 			}
@@ -425,8 +425,8 @@ var App_customizer = (function($) {
 
 	function switchVisibilityEmptyComponentsInSummary()
 	{
-		var switchBtns = $('.customizer-catalog-summary__options-filter__btn');
-		var summaryContentWrapper = $('.customizer-catalog-summary__content');
+		var switchBtns = $('.configurator-summary-filter__btn');
+		var summaryContentWrapper = $('.configurator-summary-content');
 
 		switchBtns.on('click', function(){
 			if ( $(this).hasClass('active') ) return false;
@@ -449,28 +449,28 @@ var App_customizer = (function($) {
 	function changeSelectedComponent(self)
 	{
 		self
-			.closest('.customizer-catalog')
-			.find('.customizer-catalog__options-item')
-			.removeClass('customizer-catalog__options-item--selected');
+			.closest('.configurator-articles')
+			.find('.configurator-article')
+			.removeClass('configurator-article--selected');
 		
-		self.closest('.customizer-catalog__options-item').addClass('customizer-catalog__options-item--selected');
+		self.closest('.configurator-article').addClass('configurator-article--selected');
 	};
 
 	function changeSelectedComponentPreview(self)
 	{
 		var currentAccordionItem = self.closest('.accordion__item'),
-			previewWrapper = currentAccordionItem.find('.customizer-catalog__sidebar-selected.selected--true');
+			previewWrapper = currentAccordionItem.find('.configurator-sidebar__selected.selected--true');
 
 		if ( !currentAccordionItem.hasClass('selected') ) currentAccordionItem.addClass('selected');
 
-		previewWrapper.find('.customizer-catalog__sidebar-img').attr('src', self.data('product-image'));
-		previewWrapper.find('.customizer-catalog__sidebar-title--product').html(self.data('product-name'));
+		previewWrapper.find('.configurator-sidebar__img').attr('src', self.data('product-image'));
+		previewWrapper.find('.configurator-sidebar__title--product').html(self.data('product-name'));
 		
 	}
 
 	function prepareSelectedComponents()
 	{
-		var choosenComponents = $('input.customizer-catalog__options-input--radio:checked');
+		var choosenComponents = $('input.configurator-article__input--radio:checked');
 
 		if ( choosenComponents.length > 0 )
 		{
@@ -485,7 +485,7 @@ var App_customizer = (function($) {
 
 	function fixPreviewSidebar(topOffset)
 	{
-		var currentVisiblePreviewBlock = $('.customizer-catalog__sidebar-fix:visible');
+		var currentVisiblePreviewBlock = $('.configurator-sidebar__fix:visible');
 		currentVisiblePreviewBlock.addClass('preview-fixed');
 		
 		if ( currentVisiblePreviewBlock.length == 0 ) return false;
@@ -594,7 +594,7 @@ var App_customizer = (function($) {
 
 	function copySummaryToModal()
 	{
-		var cummaryContent = $('.customizer-catalog-summary__options-categories__list').clone(true);
+		var cummaryContent = $('.configurator-summary-categories__list').clone(true);
 		$('#modal__configurator-summary__table').append(cummaryContent);
 	}
 
@@ -669,7 +669,7 @@ var App_customizer = (function($) {
 
 	function getPrevNextArticlesIds(current, currentProductId)
 	{
-		var currentItem = current.closest('.customizer-catalog__options-item');
+		var currentItem = current.closest('.configurator-article');
 		var prevItemProdId;
 		var nextItemProdId;
 		
@@ -678,11 +678,11 @@ var App_customizer = (function($) {
 			console.log('currentItem.prev()');
 			
 			console.log(currentItem.parent());
-			console.log(currentItem.parent().find('.customizer-catalog__options-item'));
-			console.log(currentItem.parent().find('.customizer-catalog__options-item').last());
+			console.log(currentItem.parent().find('.configurator-article'));
+			console.log(currentItem.parent().find('.configurator-article').last());
 			
 
-			prevItemProdId = currentItem.parent().find('.customizer-catalog__options-item').last().find('input').data('productId');
+			prevItemProdId = currentItem.parent().find('.configurator-article').last().find('input').data('productId');
 		}
 		else
 		{
@@ -691,7 +691,7 @@ var App_customizer = (function($) {
 
 		if ( currentItem.next().length == 0 )
 		{
-			nextItemProdId = currentItem.parent().find('.customizer-catalog__options-item').first().find('input').data('productId');
+			nextItemProdId = currentItem.parent().find('.configurator-article').first().find('input').data('productId');
 		}
 		else
 		{
