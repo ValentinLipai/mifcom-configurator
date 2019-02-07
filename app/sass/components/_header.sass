@@ -1,0 +1,260 @@
+.header
+	position: fixed
+	top: 0
+	left: 0
+	z-index: 100
+	width: 100vw
+	background-color: $black
+	&__content
+		display: flex
+		align-items: center
+		justify-content: space-between
+	&-logo
+		max-width: 100%
+		width: 110px
+		padding-top: 6px
+		text-align: right
+		margin-left: 10px
+		&__link
+			display: block
+		&__img
+			display: block
+			max-width: 100%
+	&-nav
+		a
+			color: $text-white
+		&__burger
+			position: relative
+			display: inline-block
+			color: $text-white
+			width: 73px
+			background-color: transparent
+			border: none
+			margin-right: 0px
+			&:focus
+				outline: none
+			&.active
+				color: $text-gray
+				background-color: $brand-quinary
+				z-index: 50
+			&:before
+				vertical-align: text-top
+				font-size: $fz_5_2
+				transition: font-size 0.2s
+		&__item
+			&__level-top
+				> .nav-item__link
+					> span
+						position: relative
+	&-cart
+		display: none
+	&-mob
+		&-icons
+			display: flex
+			align-items: center
+			justify-content: flex-end
+			color: $text-white
+			padding-top: 8px
+			&__icon
+				position: relative
+				font-size: $fz_1_8
+				&.active
+					color: $text-red
+				&--cart
+					font-size: $fz_2
+					.header-mob-icons__count
+						background-color: $brand-primary
+						color: $text-white
+			&__item
+				list-style-type: none
+				margin-left: 22px
+				&:first-of-type
+					margin-left: 0
+				
+			&__count
+				position: absolute
+				top: -8px
+				right: -6px
+				line-height: 1
+				display: flex
+				align-items: center
+				justify-content: center
+				font-size: $fz_1
+				font-weight: $fw_bold
+				background-color: $text-white
+				border-radius: 50%
+				color: $text-default
+				width: 16px
+				height: 16px
+		&-tools
+			&__nav
+				position: fixed
+				top: 0
+				right: 100%
+
+body.scroll
+	.header
+		&-nav
+			&__burger
+				&:before
+					font-size: $fz_3_5
+
+
+
+
+@media screen and (min-width: 992px)
+	
+	body.scroll
+		.header
+			&-nav
+				&__list
+					overflow-y: visible
+				&__burger
+					&:before
+						font-size: $fz_5_2
+	.header
+		&-nav
+			&__list
+				overflow-y: visible
+						
+	.header
+		position: relative
+		width: 100%
+		
+		&__content
+			position: relative
+		&-logo
+			position: relative
+			flex-basis: 17%
+			padding: 14px 0 7px
+			margin-left: 0
+			text-align: left
+			z-index: 1
+			width: auto
+		&-nav
+			position: static
+			left: auto
+			top: auto
+			height: auto
+			flex-basis: 81%
+			visibility: visible
+			a
+				font-size: $fz_1_2
+			.nav-item__parent a:after
+				display: none
+			&__burger
+				display: none
+			&__list
+				position: static
+				background-color: transparent
+				width: auto
+				padding-bottom: 0
+				display: flex
+				align-items: center
+				justify-content: flex-start
+				box-shadow: none
+				border-top: none
+			&__item
+				display: inline-block
+				border-bottom: none
+				> a
+					background-color: transparent
+					padding: 11px 7px 17px
+					border-radius: 2px 2px 0 0
+					color: $text-gray
+					&:hover
+						color: $text-white
+						background-color: $brand-quinary
+				&:hover
+					> .nav-submenu__wrapper
+						top: 100%
+						z-index: 10
+						opacity: 1
+						visibility: visible
+						transition: opacity 0.25s, top 0.25s, visibility 0.25s
+				&.active
+					> a
+						color: $text-white
+				.nav-submenu__wrapper
+					position: absolute
+					left: 0
+					top: 80%
+					width: 100%
+					opacity: 0
+					z-index: -20
+					transition: none
+					visibility: hidden
+				&.nav-item--user-link
+					display: none
+		&-mob-icons
+			display: none
+		&-cart
+			position: relative
+			display: inline-block
+			top: 8px
+			background-color: $brand-primary
+			&:hover
+				background-color: $brand-secondary
+				&:before
+					border-bottom-color: $brand-secondary
+			&:before
+				content: ''
+				display: block
+				height: 0
+				width: 0
+				border-bottom: 40px solid $brand-primary
+				border-left: 40px solid transparent
+				border-left: 31px solid transparent
+				position: absolute
+				right: 100%
+				top: 0
+			&__link
+				display: flex
+				align-items: center
+				height: 40px
+				width: 100%
+				justify-content: flex-end
+				padding: 6px 9px 6px 4px
+				color: $text-white
+				text-decoration: none
+			&__title
+				display: flex
+				flex-direction: column
+				justify-content: flex-end
+				text-align: right
+				text-transform: uppercase
+				font-size: $fz_1_2
+				&--strong
+					font-weight: $fw_bold
+			&__counter
+				display: flex
+				align-items: center
+				justify-content: center
+				line-height: 1
+				margin-left: 5px
+				width: 24px
+				height: 24px
+				color: $brand-primary
+				background-color: $white
+				font-size: $fz_1_8
+				border-radius: 50%
+				font-weight: $fw_bold
+		
+
+
+@media screen and (min-width: 1250px)
+	.header
+		&-nav__item 
+			> a
+				font-size: $fz_1_5
+				padding: 14px 10px 18px
+		&-cart
+			&__title
+				font-size: $fz_1_6
+				line-height: 0.95
+			&__link
+				padding: 8px 9px 12px 4px
+				height: auto
+			&:before
+				border-bottom-width: 50px
+		

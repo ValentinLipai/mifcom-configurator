@@ -25,7 +25,7 @@
 						height: auto 
 						padding: 3px
 						width: 100% 
-						background-color: #fff
+						background-color: $white
 						border-top: 1px solid $light-gray
 						&:last-of-type
 							border-bottom: 1px solid $light-gray
@@ -41,7 +41,7 @@
 							opacity: 0.5
 							background-color: $white
 						&-name
-							font-size: 1.2rem
+							font-size: $fz_1_2
 							display: inline
 							font-weight: $fw_bold
 							font-family: $f_arial
@@ -86,7 +86,7 @@
 								min-width: 200px
 								font-size: 0
 								li
-									font-size: 1.3rem
+									font-size: $fz_1_3
 									position: static
 									display: inline-block
 									vertical-align: middle
@@ -101,8 +101,8 @@
 								padding-right: 160px
 				&__grid-switcher__btn
 					&.list
-						background-color: #000000
-						color: #ffffff
+						background-color: $black
+						color: $text-white
 
 				.b
 					&-details
@@ -121,12 +121,12 @@
 					padding-top: 1px
 					margin: 2px 0 0 0
 					.price
-						font-size: 1.4rem
+						font-size: $fz_1_4
 					&-special
 						.price
-							color: $light-red
+							color: $text-red
 					.old-price
-						font-size: 1rem
+						font-size: $fz_1
 					.overline
 						position: relative
 						&:before
@@ -137,15 +137,15 @@
 							width: 100%
 							transform: translateY(-50%)
 							height: 2px
-							background-color: $light-red
+							background-color: $brand-secondary
 							display: inline-block
 					> span
 						display: block
 		&.gallery-view
 			.customizer-catalog
 				&__grid-switcher__btn.gallery
-					color: #ffffff
-					background-color: #000
+					color: $text-white
+					background-color: $black
 				&__options
 					&-label
 						line-height: 22px
@@ -165,7 +165,7 @@
 					display: inline-block
 					vertical-align: top
 					text-align: right
-					font-size: 1.1rem
+					font-size: $fz_1_1
 					font-weight: $fw_bold
 					margin: 0
 				&-details
@@ -177,8 +177,8 @@
 			.out-of-stock
 				display: block
 				margin-left: 6px
-				font-size: 11px
-				color: #c60e0a
+				font-size: $fz_1_1
+				color: $brand-primary
 			.price-notice
 				display: inline-block
 				text-align: right
@@ -188,12 +188,12 @@
 				padding-left: 7px
 				margin: 2px 0 0 0
 				.price
-					font-size: 1.4rem
+					font-size: $fz_1_4
 				&-special
 					.price
-						color: $light-red
+						color: $text-red
 				.old-price
-					font-size: 1rem
+					font-size: $fz_1
 					margin-right: 5px
 				.overline
 					position: relative
@@ -205,7 +205,7 @@
 						width: 100%
 						transform: translateY(-50%)
 						height: 2px
-						background-color: $light-red
+						background-color: $brand-secondary
 						display: inline-block
 	&__banner
 		margin-bottom: 20px
@@ -220,7 +220,7 @@
 		align-items: flex-start
 		flex-direction: column-reverse
 		align-items: flex-end
-		background-color: $dark-white
+		background-color: $brand-tertiary
 		padding: 10px
 	&__filter
 		display: flex
@@ -229,19 +229,19 @@
 			display: inline-flex
 			align-items: center
 			justify-content: center
-			color: #ffffff
+			color: $text-white
 			padding: 6px
 			margin-right: 17px
-			background-color: #ffffff
+			background-color: $text-white
 			border-radius: 4px	
 			&:hover
-				color: #ffffff
-				background-color: #000
+				color: $text-white
+				background-color: $black
 			&:before
 				display: inline-block
 				line-height: 1
 				color: #ececec
-				font-size: 3.4rem
+				font-size: $fz_3_4
 		&-label
 			position: absolute
 			left: 15px
@@ -249,15 +249,15 @@
 			display: flex
 			align-items: center
 			justify-content: space-between
-			font-size: 1.5rem
+			font-size: $fz_1_5
 			font-weight: $fw_bold
 			text-align: left
 			line-height: 23px
 			padding: 2px 10px 0 0
-			color: #000000
+			color: $text-default
 			&__mob-arrow
 				display: inline-block
-				font-size: 1.5rem
+				font-size: $fz_1_5
 				font-weight: $fw_reg
 				&:before
 					transform: rotate(90deg)
@@ -271,7 +271,7 @@
 			display: inline-block
 			width: 48%
 			margin: 0
-			font-size: 1.2rem
+			font-size: $fz_1_2
 			font-weight: $fw_med
 			line-height: 17px
 			cursor: pointer
@@ -300,7 +300,7 @@
 				display: none
 				font-family: $f_iconfont
 				color: #101010
-				font-size: 17px
+				font-size: $fz_1_7
 			&.active
 				&:after
 					display: inline-block
@@ -323,7 +323,7 @@
 			display: inline-flex
 			align-items: center
 			justify-content: center
-			font-size: 11px
+			font-size: $fz_1_1
 			line-height: 1
 			cursor: pointer
 			text-transform: uppercase
@@ -331,32 +331,32 @@
 			height: 46px
 			width: 46px
 			border-radius: 4px
-			color: $dark-white
-			background-color: #fff
+			color: $brand-tertiary
+			background-color: $white
 			margin-right: 6px
 			&:last-of-type
 				margin-right: 0
 			&:hover
-				color: #ffffff
-				background-color: #000
+				color: $text-white
+				background-color: $black
 			&.list
 				&:before
 					color: #ececec
-					font-size: 2.2rem
+					font-size: $fz_2_2
 			&.gallery
 				&:before
 					content: "\EA89"
-					font-size: 2rem
+					font-size: $fz_2
 	&__group
 		&-heading
 			padding: 11px 0 13px 0
 			margin-bottom: 10px
 			border-bottom: 1px solid $light-gray
 			&__label
-				font-size: 1.8rem
+				font-size: $fz_1_8
 				font-weight: $fw_bold
 			&__description
-				font-size: 1.5rem
+				font-size: $fz_1_5
 				font-weight: $fw_reg
 	&__options
 		&-list
@@ -371,7 +371,7 @@
 			vertical-align: top
 			padding: 0
 			background: #ededed
-			border: 3px solid $dark-white
+			border: 3px solid $brand-tertiary
 			height: 310px
 			margin-bottom: 1.5%
 			&:before
@@ -382,7 +382,7 @@
 				width: 0
 				height: 0
 				border-bottom: 45px solid transparent
-				border-left: 40px solid $dark-white
+				border-left: 40px solid $brand-tertiary
 			&:nth-of-type(2n)
 				margin-right: 0
 			&--disabled
@@ -397,19 +397,19 @@
 					&:after
 						display: block
 			&-name
-				font-size: 1.1rem
+				font-size: $fz_1_1
 				font-family: $f_arial
 				vertical-align: baseline
 				&-wrapper
 					display: block
 					padding: 8px 6px 3px 6px
 					line-height: 16px
-					font-size: 1.1rem
+					font-size: $fz_1_1
 					max-height: 59px
 					overflow: hidden
 					vertical-align: baseline
 			.price
-				font-size: 1.5rem
+				font-size: $fz_1_5
 				font-weight: $fw_bold
 			.currency
 				padding-left: 3px
@@ -421,7 +421,7 @@
 			display: none
 		&-label
 			display: block
-			font-size: 1.2rem
+			font-size: $fz_1_2
 			padding: 0
 			line-height: 18px
 			cursor: pointer
@@ -433,10 +433,10 @@
 				display: block
 				height: 14px
 				width: 14px
-				border: 1px solid #fff
+				border: 1px solid $white
 				border-radius: 18px
 				border-color: transparent
-				background-color: #fff
+				background-color: $white
 			&:after
 				content: ''
 				display: none
@@ -447,7 +447,7 @@
 				height: 10px
 				border-radius: 50%
 				border-color: transparent
-				background-color: #000
+				background-color: $black
 			.out-of-stock
 				display: none
 		&-img
@@ -458,12 +458,12 @@
 				margin: 0 auto
 				height: 150px
 				padding: 8px 0
-				background: #fff
-				border-bottom: 1px solid #d4d4d4
+				background: $white
+				border-bottom: 1px solid $dark-silver
 		&-bundle
 			&-option
 				&-description
-					font-size: 1.1rem
+					font-size: $fz_1_1
 					line-height: 1.3
 					font-family: $f_arial
 					font-weight: $fw_bold
@@ -479,12 +479,12 @@
 			text-align: center
 			padding-right: 10px
 			&-title
-				font-size: 1.2rem
+				font-size: $fz_1_2
 				font-weight: $fw_bold
-				color: #000
+				color: $text-default
 				&--product
-					color: $dark-gray
-					font-size: 1.1rem
+					color: $brand-quaternary
+					font-size: $fz_1_1
 			&-img
 				display: block
 				max-width: 100%
@@ -517,7 +517,7 @@
 								left: 3px
 								width: 12px
 								height: 12px
-								background-color: $dark-white
+								background-color: $brand-tertiary
 							&:after
 								left: 5px
 								width: 8px
@@ -560,7 +560,7 @@
 			&-label
 				position: static
 				align-items: flex-start
-				font-size: 1.3rem
+				font-size: $fz_1_3
 				font-weight: $fw_bold
 				white-space: nowrap
 				&__mob-arrow
@@ -575,7 +575,7 @@
 				padding: 4px 9px 2px
 				margin: 4px 2px 0 2px
 				border-radius: 4px
-				background-color: #fff
+				background-color: $white
 				white-space: nowrap
 				width: auto
 				&:before,
@@ -583,15 +583,15 @@
 					display: none
 				&:hover,
 				&.active
-					color: #ffffff
-					background-color: $light-black
+					color: $text-white
+					background-color: $brand-quinary
 					&:after
 						display: none
 				&--close
-					color: $light-red
+					color: $text-red
 					&:hover
-						color: #ffffff
-						background-color: $light-red
+						color: $text-white
+						background-color: $brand-secondary
 			&-clear-mobile-btn
 				display: none
 		&__grid-switcher
@@ -599,11 +599,11 @@
 			width: 25%
 			&__label
 				display: inline-block
-				font-size: 1.2rem
+				font-size: $fz_1_2
 				font-weight: $fw_med
 				padding-left: 4px
 				text-transform: uppercase
-				color: #000
+				color: $text-default
 			&__list
 				justify-content: flex-end
 			&__btn
@@ -613,11 +613,11 @@
 				height: 32px
 				&.list
 					&:before
-						font-size: 1.8rem
+						font-size: $fz_1_8
 				&.gallery
 					&:before
 						content: "\E021"
-						font-size: 1.8rem
+						font-size: $fz_1_8
 		&__options
 			&-list
 				justify-content: flex-start
@@ -625,7 +625,7 @@
 				width: 19%
 				margin-right: 1.25%
 				&-name
-					font-size: 1.1rem
+					font-size: $fz_1_1
 					font-family: $f_arial
 					vertical-align: baseline
 			&-label
@@ -667,15 +667,15 @@
 			&-selected
 				&.selected--false
 					display: block
-					background-color: #fff
+					background-color: $white
 					min-height: 55px
 					padding: 5px 10px
 					font-weight: $fw_bold
-					font-size: 1.1rem
+					font-size: $fz_1_1
 				&.selected--true
 					display: none
 					padding: 10px 20px
-					background-color: #fff
+					background-color: $white
 					box-shadow: 0 3px 5px -3px #737373
 					&:after
 						content: ''
@@ -689,12 +689,12 @@
 							margin: 0 20px 0 0
 						&-title
 							display: inline
-							font-size: 1.2rem
+							font-size: $fz_1_2
 							font-weight: $fw_bold
 							font-family: $f_arial
 							&--product
 								display: inline
-								font-size: 1.2rem
+								font-size: $fz_1_2
 								font-family: $f_arial
 
 	.accordion-title

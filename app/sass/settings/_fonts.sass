@@ -1,0 +1,89 @@
+@import "../_mixins/font-face"
+
++font-face("Eurostile", "../fonts/Eurostile-Reg/Eurostile-Reg", 400)
++font-face("Eurostile", "../fonts/Eurostile-Med/Eurostile-Med", 500)
++font-face("Eurostile", "../fonts/Eurostile-Bol/Eurostile-Bol", 700)
++font-face("Eurostile", "../fonts/Eurostile-Hea/Eurostile-Hea", 800)
++font-face("Eurostile", "../fonts/Eurostile-Bla/Eurostile-Bla", 900)
++font-face("EurostileExt", "../fonts/EurostileExt-Reg/EurostileExt-Reg", 400)
++font-face("EurostileExt", "../fonts/EurostileExt-Bla/EurostileExt-Bla", 900)
++font-face("IcoMoon", "../fonts/icomoon/icomoon")
++font-face("IcoFont", "../fonts/iconfont/iconfont")
+
+
+/*
+ * Fonts
+ */
+$f_euro: "Eurostile", "Arial", "Helvetica", sans-serif
+$f_euro_ext: "EurostileExt", "Arial", "Helvetica", sans-serif
+$f_iconmoon: "IcoMoon", sans-serif
+$f_iconfont: "IcoFont", sans-serif
+$f_arial: "Arial", sans-serif
+
+/*
+ *	Font weight
+ */
+$fw_reg: 400
+$fw_med: 500
+$fw_s_bold: 600
+$fw_bold: 700
+$fw_ex_bold: 800
+$fw_heavy: 900
+
+/*
+ *	Font size
+ */
+
+$html_fz: 10px // use for html tag
+
+$fz_1: 1rem
+$fz_1_1: 1.1rem
+$fz_1_2: 1.2rem
+$fz_1_3: 1.3rem
+$fz_1_4: 1.4rem
+$fz_1_5: 1.5rem
+$fz_1_6: 1.6rem
+$fz_1_7: 1.7rem
+$fz_1_8: 1.8rem
+$fz_1_9: 1.9rem
+$fz_2: 2rem
+$fz_2_1: 2.1rem
+$fz_2_2: 2.2rem
+$fz_2_3: 2.3rem
+$fz_2_4: 2.4rem
+$fz_2_5: 2.5rem
+$fz_2_6: 2.6rem
+$fz_2_7: 2.7rem
+$fz_2_8: 2.8rem
+$fz_2_9: 2.9rem
+$fz_3: 3rem
+$fz_3_1: 3.1rem
+$fz_3_4: 3.4rem
+$fz_3_5: 3.5rem
+$fz_4_9: 4.9rem
+$fz_5_2: 5.2rem
+
+$body_fz: $fz_1_5 
+
+
+
+.f_iconf:before,
+.f_iconm:before
+	display: inline-block
+	-webkit-font-smoothing: antialiased
+	-moz-osx-font-smoothing: grayscale
+	font-style: normal 
+	font-variant: normal
+	font-weight: $fw_reg
+	speak: none
+	vertical-align: middle
+	text-decoration: none
+	text-transform: none
+
+.f_iconf:before
+	font-family: $f_iconfont
+.f_iconm:before
+	font-family: $f_iconmoon
+	
+@import "../fonts/iconfont/iconfont.css"
+@import "../fonts/icomoon/icomoon.css"

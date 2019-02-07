@@ -1,0 +1,61 @@
+/*
+ * BREADCRUMBS
+ */
+
+.breadcrumbs
+	padding: 13px 0
+	background-color: $brand-quaternary
+	&-list
+		display: none
+	&-item
+		display: inline-flex
+		align-items: center
+		list-style-type: none
+		&:last-of-type
+			&:after
+				display: none
+		&:after
+			content: "\E006"
+			display: inline-block
+			margin: 0 9px
+			font-family: $f_iconfont
+			font-size: $fz_2
+			line-height: 12px
+	&-link
+		text-decoration: none
+		&:hover
+			text-decoration: underline
+	&-name
+		font-size: $fz_1_2
+		font-family: $f_arial
+		color: $text-default
+	&-back
+		&__link
+			position: relative
+			left: -10px
+			display: flex
+			align-items: center
+			justify-content: flex-start
+			color: $text-white
+			font-size: $fz_1_6
+			line-height: 0.8
+			text-decoration: none
+			padding: 5px 20px
+			&:before
+				content: '\E004'
+				display: inline-block
+				font-size: $fz_3_1
+				line-height: 0.5
+				color: $text-white
+				font-family: $f_iconfont
+
+@media screen and (min-width: 992px)
+	.breadcrumbs
+		background-color: transparent
+		&-back
+			display: none
+			padding: 0
+		&-list	
+			display: flex
+			align-items: center
+			justify-content: flex-start

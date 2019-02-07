@@ -1,0 +1,282 @@
+.configurator-catalog
+	width: 100%
+	&.grid-view
+		.catalog-grid-switcher__btn
+			&.list
+				background-color: $black
+				color: $text-white
+		.configurator-articles
+			&-group
+				&-heading
+					border-bottom: none
+					padding-top: 35px
+					padding-bottom: 23px
+					margin-bottom: 0
+			&__list
+				flex-direction: column
+		.configurator-article
+			position: relative
+			margin: 0 
+			display: block
+			border: none 
+			height: auto 
+			padding: 3px
+			width: 100% 
+			background-color: $white
+			border-top: 1px solid $brand-tertiary
+			&:last-of-type
+				border-bottom: 1px solid $brand-tertiary
+			&:hover
+				background-color: $white
+			&:before
+				display: none
+			&:after
+				content: ''
+				display: table
+				clear: both
+			&--disabled
+				opacity: 0.5
+				background-color: $white
+			&-title
+				margin-right: 5px
+				display: inline-block
+				vertical-align: middle
+				padding: 0
+				&__text
+					font-size: $fz_1_2
+					display: inline
+					font-weight: $fw_bold
+					font-family: $f_arial
+					line-height: 1.4
+				&__labels
+					line-height: 1
+					display: inline-block
+			&__label
+				position: static
+				float: left
+				padding-left: 25px
+				width: 60%
+				&:before
+					top: 50%
+					left: 2px
+					transform: translateY(-50%)
+					width: 18px
+					height: 18px
+					background-color: transparent
+					border: 1px solid #d2d2d2
+				&:after
+					top: 50%
+					left: 5px
+					transform: translateY(-50%)
+					width: 12px
+					height: 12px
+				.out-of-stock
+					display: inline-block
+			&-pic
+				display: none !important // УДАЛИТЬ !!!
+			&__description
+				display: block
+				clear: both
+				padding-left: 25px
+				padding-right: 160px
+			&__attributes
+				padding-left: 25px
+				float: left
+				.b-tags
+					min-width: 200px
+					font-size: 0
+					li
+						font-size: $fz_1_3
+						position: static
+						display: inline-block
+						vertical-align: middle
+					img
+						display: block
+						margin-right: 2px
+			.b
+				&-details
+					float: right
+					padding-top: 2px
+					padding-bottom: 0
+					&:before
+						line-height: 18px
+			.price-notice
+				display: inline-block
+				float: right
+				min-width: 100px
+				text-align: right
+				border-top: none //убрать
+				line-height: 18px
+				padding-top: 1px
+				margin: 2px 0 0 0
+				.price
+					font-size: $fz_1_4
+				&-special
+					.price
+						color: $text-red
+				.old-price
+					font-size: $fz_1
+				.overline
+					position: relative
+					&:before
+						content: ''
+						position: absolute
+						top: 50%
+						left: 0
+						width: 100%
+						transform: translateY(-50%)
+						height: 2px
+						background-color: $brand-secondary
+						display: inline-block
+				> span
+					display: block
+	&.gallery-view
+		.catalog-grid-switcher__btn.gallery
+			color: $text-white
+			background-color: $black
+		.configurator-article
+			&__label
+				line-height: 22px
+				height: 22px
+				min-height: 198px
+			&__description
+				padding: 0 7px 0
+				height: 30px
+				overflow: hidden
+				overflow-wrap: break-word
+				position: relative
+		.b
+			&-tags
+				display: none
+			&-label
+				display: inline-block
+				vertical-align: top
+				text-align: right
+				font-size: $fz_1_1
+				font-weight: $fw_bold
+				margin: 0
+			&-details
+				position: absolute
+				bottom: 0
+				left: 0
+				span
+					display: inline-block
+		.out-of-stock
+			display: block
+			margin-left: 6px
+			font-size: $fz_1_1
+			color: $brand-primary
+		.price-notice
+			display: inline-block
+			text-align: right
+			border-top: none //убрать
+			line-height: 18px
+			padding-top: 1px
+			padding-left: 7px
+			margin: 2px 0 0 0
+			.price
+				font-size: $fz_1_4
+			&-special
+				.price
+					color: $text-red
+			.old-price
+				font-size: $fz_1
+				margin-right: 5px
+			.overline
+				position: relative
+				&:before
+					content: ''
+					position: absolute
+					top: 50%
+					left: 0
+					width: 100%
+					transform: translateY(-50%)
+					height: 2px
+					background-color: $brand-secondary
+					display: inline-block
+	&__tools
+		position: relative
+		display: flex
+		align-items: flex-start
+		flex-direction: column-reverse
+		align-items: flex-end
+		background-color: $brand-tertiary
+		padding: 10px
+	
+
+@media screen and (min-width: 768px)
+	.configurator-catalog
+		width: 87.5%
+		&.grid-view
+			.configurator-article
+				&__titl
+					&__text
+						display: block
+						max-width: 420px
+						margin-right: 5px
+						white-space: nowrap
+						text-overflow: ellipsis
+						overflow: hidden
+						float: left
+				&__label
+					position: relative
+					line-height: 22px
+					min-height: 1px 
+					max-width: 480px
+					width: 100%
+					&:before
+						left: 3px
+						width: 12px
+						height: 12px
+						background-color: $brand-tertiary
+					&:after
+						left: 5px
+						width: 8px
+						height: 8px
+					&__attributes
+						position: static
+						.b-tags
+							min-width: 200px
+							font-size: 0
+					&__description
+						display: block
+						clear: both
+						padding-left: 25px
+						padding-right: 160px
+					.price-notice
+						> span
+							display: inline
+						&-special
+							margin-right: 5px
+							vertical-align: top
+		&.gallery-view
+			.configurator-article
+				width: 24%
+				margin-right: 1%
+				&:nth-of-type(4n)
+					margin-right: 0
+				&__label
+					height: auto
+		&__tools
+			padding: 7px 10px
+			flex-direction: row
+			align-items: flex-start
+
+
+@media screen and (min-width: 1250px)
+	.configurator-catalog
+		&.grid-view
+			.configurator-article
+				&__label
+					width: 480px
+				&__attributes
+					position: static
+		&.gallery-view
+			.configurator-article
+				width: 19%
+				margin-right: 1.25%
+				&:nth-of-type(4n)
+					margin-right: 1.25%
+				&:nth-of-type(5n)
+					margin-right: 0
+

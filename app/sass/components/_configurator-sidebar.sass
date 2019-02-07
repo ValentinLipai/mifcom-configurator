@@ -1,0 +1,62 @@
+.configurator-sidebar
+	display: none
+
+@media screen and (min-width: 768px)
+	.configurator-sidebar
+		display: block
+		width: 12%
+		text-align: center
+		padding-right: 10px
+		&__title
+			font-size: $fz_1_2
+			font-weight: $fw_bold
+			color: $text-default
+			&--product
+				color: $brand-quaternary
+				font-size: $fz_1_1
+		&__img
+			display: block
+			max-width: 100%
+		&__selected
+			&.selected--false
+				display: block
+			&.selected--true
+				display: none
+		
+
+
+@media screen and (max-width: 767px)
+	.configurator-sidebar
+		display: none
+		&__selected
+			&.selected--false
+				display: block
+				background-color: $white
+				min-height: 55px
+				padding: 5px 10px
+				font-weight: $fw_bold
+				font-size: $fz_1_1
+			&.selected--true
+				display: none
+				padding: 10px 20px
+				background-color: $white
+				box-shadow: 0 3px 5px -3px #737373
+				&:after
+					content: ''
+					display: table
+					clear: both
+				.configurator-sidebar
+					&__img
+						float: left
+						display: inline-block
+						width: 41px
+						margin: 0 20px 0 0
+					&__title
+						display: inline
+						font-size: $fz_1_2
+						font-weight: $fw_bold
+						font-family: $f_arial
+						&--product
+							display: inline
+							font-size: $fz_1_2
+							font-family: $f_arial

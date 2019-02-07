@@ -1,0 +1,99 @@
+.accordion
+	&__item
+		position: relative
+		margin-bottom: 5px
+		background: $white
+		border-top: 1px solid $silver
+		border-bottom: 1px solid $dark-silver
+		&.selected
+			.configurator-sidebar__selected
+				&.selected--false
+					display: none
+				&.selected--true
+					display: block
+			.accordion-title__status
+				color: inherit
+				&:after
+					content: "\e610"
+					display: inline-block
+					color: $green
+					font-family: $f_iconmoon
+					vertical-align: text-bottom
+					font-size: $fz_1_6
+					margin-left: 10px
+	&-title
+		&.open
+			.accordion-title__heading
+				background-color: $light-silver
+				&:after
+					transform: translateY(-60%) rotate(180deg)
+		&__status
+			font-size: $fz_1_4
+			font-weight: $fw_reg
+			color: $brand-primary
+			width: 85%
+		&__heading
+			position: relative
+			display: flex
+			flex-direction: column
+			align-items: flex-start
+			padding: 14px 10px 14px 20px
+			cursor: pointer
+			background-color: $white
+			&:after
+				content: ''
+				position: absolute
+				top: 50%
+				right: 20px
+				transform: translateY(-60%)
+				width: 0
+				height: 0
+				border-left: 9px solid transparent
+				border-right: 9px solid transparent
+				border-top: 10px solid $black
+				transition: transform 0.25s
+				transform-origin: center
+		&-info
+			display: flex
+			align-items: center
+			justify-content: flex-start
+			margin-bottom: 5px
+			&__text
+				text-transform: uppercase
+				font-size: $fz_1_7
+			&__img
+				display: block
+				margin-left: -7px
+				&-wrapper
+					max-width: 38px
+					margin-right: 5px
+	&-content
+		display: none
+		border-top: 1px solid $dark-silver
+
+
+
+
+@media screen and (min-width: 768px)
+	.accordion
+		&-title
+			&.open
+				.accordion-title__heading
+					&:after
+						transform: rotate(180deg)
+			&__status
+				font-size: $fz_1_6
+				width: 55%
+			&__heading
+				align-items: center
+				flex-direction: row
+				padding: 7px 20px 7px 28px
+				&:after
+					top: 2px
+					transform: none
+					margin-top: 13px
+			&-info
+				width: 37%
+				margin-bottom: 0px
+
+
