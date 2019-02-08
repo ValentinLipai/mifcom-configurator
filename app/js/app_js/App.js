@@ -15,7 +15,7 @@ function retakeWinWidthHeight(){
 
 function bodyToggleScrollClass()
 {
-	$(window).scrollTop() > 10 ? $('body').addClass('scroll') : $('body').removeClass('scroll');
+	$(window).scrollTop() > 10 ? Body.addClass('scroll') : Body.removeClass('scroll');
 };
 
 function bodyAdaptiveBreakpointsClasses()
