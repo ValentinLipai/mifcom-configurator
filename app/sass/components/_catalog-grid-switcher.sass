@@ -1,0 +1,68 @@
+.catalog-grid-switcher
+	display: flex
+	align-items: center
+	justify-content: flex-end
+	width: 60%
+	padding-left: 5px
+	border-left: 1px solid $brand-quaternary
+	&__label
+		display: none
+	&__list
+		display: flex
+		list-style-type: none
+	&__btn
+		position: relative
+		display: inline-flex
+		align-items: center
+		justify-content: center
+		font-size: $fz_1_1
+		line-height: 1
+		cursor: pointer
+		text-transform: uppercase
+		text-align: center
+		height: 46px
+		width: 46px
+		border-radius: 4px
+		color: $brand-tertiary
+		background-color: $white
+		margin-right: 6px
+		&:last-of-type
+			margin-right: 0
+		&:hover
+			color: $text-white
+			background-color: $black
+		&.list
+			&:before
+				color: #ececec
+				font-size: $fz_2_2
+		&.gallery
+			&:before
+				content: "\EA89"
+				font-size: $fz_2
+
+
+@media screen and (min-width: 768px)
+	.catalog-grid-switcher
+		justify-content: space-between
+		width: 25%
+		&__label
+			display: inline-block
+			font-size: $fz_1_2
+			font-weight: $fw_med
+			padding-left: 4px
+			text-transform: uppercase
+			color: $text-default
+		&__list
+			justify-content: flex-end
+		&__btn
+			white-space: nowrap
+			min-height: 32px
+			width: 37px
+			height: 32px
+			&.list
+				&:before
+					font-size: $fz_1_8
+			&.gallery
+				&:before
+					content: "\E021"
+					font-size: $fz_1_8

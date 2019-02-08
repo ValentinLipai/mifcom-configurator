@@ -2,10 +2,10 @@
 var App_nav = (function($) {
 
 	var header = $('header'),
-		mainNav = $('#header-nav'),
-		mainNavParentLinks = mainNav.find('.nav-item--parent'),
-		mainNavBackLinks = mainNav.find('.nav-item--back'),
-		mainNavBurger = $('#header-nav__burger'),
+		mainNav = $('.header-nav'),
+		mainNavParentLinks = mainNav.find('.nav-item__parent'),
+		mainNavBackLinks = mainNav.find('.nav-item__back'),
+		mainNavBurger = $('.header-nav__burger'),
 		mainNavLists = mainNav.find('.nav-list, .nav-submenu__menus, .nav-submenu__menus li ul'),
 		headerHeight,
 		parentLinkHandlerEnabled = false,
@@ -48,7 +48,7 @@ var App_nav = (function($) {
 				e.preventDefault();
 				var self = $(this);
 
-				if ( self.hasClass('nav-item--level-top') )
+				if ( self.hasClass('nav-item__level-top') )
 				{
 					self.find('.nav-submenu__menus').addClass('show')
 					self.closest('ul').addClass('o-hidden');
@@ -98,7 +98,7 @@ var App_nav = (function($) {
     function _init() {
 		takeHeaderHeight();
 		
-		if ( WINDOW_WIDTH < 992 )
+		if ( Body.hasClass('body-tablet') )
 		{
 			initMobileDefaultHandlers();
 		}
@@ -117,22 +117,22 @@ var App_nav = (function($) {
 	}
 
 	window.addEventListener('scroll', function(){		
-		if ( WINDOW_WIDTH < 768 ) {
+		if ( Body.hasClass('body-mobile') ) {
 			clearTimeout(resizeTimeOut);
 			resizeTimeOut = setTimeout( resizeMobileFunctions, 100);
 		}
 	});
 
 	window.addEventListener('resize', function(e){
-		if ( WINDOW_WIDTH > 991 )
+		if ( Body.hasClass('body-tablet') )
 		{
 			clearTimeout(resizeTimeOut);
-			resizeTimeOut = setTimeout( resizePcFunctions, 100);
+			resizeTimeOut = setTimeout( resizeMobileFunctions, 100);
 		}
 		else
 		{
 			clearTimeout(resizeTimeOut);
-			resizeTimeOut = setTimeout( resizeMobileFunctions, 100);
+			resizeTimeOut = setTimeout( resizePcFunctions, 100);
 		}
 	});
 
@@ -144,24 +144,5 @@ var App_nav = (function($) {
 }(jQuery));
 
 jQuery(function () {
-
-    var scrollElement;
-
-    if( /iPhone|iPad|iPod/i.test(navigator.userAgent) ) {
-        scrollElement = "html,body"
-    }
-
-    else if ( /Firefox/i.test(navigator.userAgent)) {
-        scrollElement = "body > .main"
-    }
-
-    else {
-        scrollElement = window;
-	}
-	
 	App_nav.init();
-
-    // jQuery(scrollElement).on('scroll', function () {
-    //     App.mobile.nav.fixedNav();
-    // });
 });

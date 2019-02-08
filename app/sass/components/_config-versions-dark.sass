@@ -1,0 +1,60 @@
+
+@media screen and (min-width: 992px)
+	.config-versions-dark
+		padding: 13px
+		&__title
+			padding: 5px 0
+			font-family: $f_euro
+			font-weight: $fw_bold
+			font-size: $fz_1_5
+			color: $brand-primary
+			white-space: nowrap
+			overflow: hidden
+			text-overflow: ellipsis
+		&__row
+			position: relative
+			display: flex
+			flex-flow: row nowrap
+			align-items: center
+			justify-content: space-between
+			width: 100%
+			margin-left: 10px
+			border-left: 1px solid #4a4a4a
+			&:after
+				content: ''
+				position: absolute
+				left: -1px
+				bottom: 0
+				top: 50%
+				width: 10px
+				height: 50%
+				border-top: 1px solid #4a4a4a
+			&:last-of-type
+				&:after
+					background-color: $brand-quinary
+			> div
+				padding: 10px
+		&__version
+			width: 30px
+			margin-left: 5px
+		&__date
+			width: 69px
+		&__name
+			max-width: 171px
+			font-weight: $fw_bold
+			color: #8a8a8a
+			white-space: nowrap
+			overflow: hidden
+			text-overflow: ellipsis
+		&__price
+			min-width: 60px
+			font-size: $fz_1_3
+			font-weight: $fw_bold
+			color: #8a8a8a
+			.price-label
+				display: none
+			.currency
+				display: none
+		&__view
+			font-size: $fz_1_3
+			width: 80px

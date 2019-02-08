@@ -1,0 +1,94 @@
+.bundle-description
+	overflow-x: hidden
+	&__item
+		margin-bottom: 7px
+	&__label
+		position: relative
+		background-color: $white
+		padding: 23px 23px 21px 41px
+		text-transform: uppercase
+		font-size: $fz_1_5
+		font-weight: $fw_bold
+		&:before
+			position: absolute
+			left: 20px
+		
+	&__value
+		display: none
+		padding: 23px 20px
+	&__table
+		display: table
+		strong,
+		span
+			display: table-cell
+			font-family: $f_arial
+			font-size: $fz_1_2
+			line-height: $fz_1_8
+		strong
+			width: 44px
+	&__toggle-btn
+		position: absolute
+		right: 0
+		top: 0
+		left: 0
+		bottom: 0
+		&:after
+			content: ''
+			position: absolute
+			width: 0
+			height: 0
+			display: block
+			border-right: 7px solid transparent
+			border-left: 7px solid transparent
+			border-top: 7px solid $white
+			border-bottom: none
+			position: absolute
+			top: 0
+			bottom: 0
+			right: 20px
+			margin: auto
+			transform-origin: center
+			transition: transform 0.2s
+			transform: skew(0) rotate(0deg) 
+		&:before
+			content: ''
+			display: inline-block
+			position: absolute
+			right: -12px
+			top: 0
+			bottom: 0px
+			margin: auto 0
+			width: 76px
+			background: #a8a8a8
+			transform: skew(-22deg)
+		&.open
+			&:before
+				background-color: $brand-quinary
+			&:after
+				transform: skew(0) rotate(180deg)
+
+@media screen and (min-width: 768px)
+	.bundle-description
+		padding: 5px 0
+		&__item
+			margin-bottom: 10px
+		&__label
+			background-color: transparent
+			padding: 0 20px
+			margin-bottom: 5px
+			&:before
+				left: 0
+		&__value
+			display: block
+			padding: 0
+		&__toggle-btn
+			display: none
+
+@media screen and (min-width: 1250px)
+	.bundle-description
+		&__item
+			margin-bottom: 30px
+			&:last-of-type
+				margin-bottom: 0
+		&__label
+			margin-bottom: 10px

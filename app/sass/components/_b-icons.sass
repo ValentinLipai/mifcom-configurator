@@ -1,0 +1,45 @@
+.b-label
+	position: relative
+	font-size: $fz_1_1
+	line-height: 1
+	text-transform: uppercase
+	padding: 2px 2px 1px
+	margin: 0 2px
+	vertical-align: top
+	color: $text-white
+	border-radius: 4px
+	&:before
+		line-height: 1px
+	&-top
+		background-color: #ffa000
+		white-space: nowrap
+		&:before
+			content: "\E03A"
+			font-size: $fz_1
+			font-family: $f_iconfont
+	&-new
+		background: $orange
+.b-details
+	cursor: pointer
+	vertical-align: top
+	color: $text-default
+	padding: 3px 0 3px 7px
+	&:before
+		content: '\e63c'
+		font-size: $fz_1_3
+		margin-right: 2px
+		margin-top: 2px
+		vertical-align: middle
+		font-family: $f_iconmoon
+	span
+		display: none
+		font-size: $fz_1
+		font-family: $f_arial
+		vertical-align: middle
+
+.b-tags 
+	li
+		position: absolute
+		color: $text-white
+		text-align: center
+		text-transform: uppercase

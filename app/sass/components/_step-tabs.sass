@@ -1,0 +1,274 @@
+.step-tabs
+	&-content
+		counter-reset: section
+.step-tab
+	&.active
+		display: block
+	&-mobile
+		&-heading
+			position: relative
+			display: block
+			font-size: $fz_1_8
+			font-weight: $fw_bold
+			margin-top: 10px
+			padding: 22px 23px 19px 54px
+			background: $brand-quaternary
+			color: $brand-tertiary
+			line-height: 1
+			overflow: hidden
+			&:before
+				counter-increment: section
+				content: counter(section)
+				position: absolute
+				top: 12px
+				left: 10px
+				display: inline-block
+				color: $brand-tertiary
+				border-radius: 3px
+				background-color: $black
+				font-size: $fz_2_4
+				line-height: 36px
+				text-align: center
+				width: 36px
+				height: 36px
+			&.active
+				text-transform: uppercase
+				background: $brand-primary
+				&:before
+					width: 32px
+					height: 32px
+					line-height: 32px
+					background-color: transparent
+					border: 2px solid $white
+					border-radius: 3px
+					box-sizing: content-box
+				.tep-tab-mobile__toggle-icon
+					background-color: $dark-red
+					&:before
+						border-right: 7px solid transparent
+						border-left: 7px solid transparent
+						border-bottom: 7px solid $white
+						border-top: none
+			+ div
+				display: none
+			&__toggle-icon
+				position: absolute
+				right: -12px
+				top: 0
+				bottom: 0px
+				margin: auto 0
+				width: 76px
+				background: $brand-quinary
+				transform: skew(-22deg)
+				&:before
+					content: ''
+					position: absolute
+					top: 1px
+					right: 0
+					bottom: 0
+					left: 0px
+					width: 0
+					height: 0
+					display: block
+					border-right: 7px solid transparent
+					border-left: 7px solid transparent
+					border-top: 7px solid $white
+					border-bottom: none
+					margin: auto
+					transform: skew(22deg)
+
+.step-tabs-nav
+	margin-bottom: 9px
+	&__list
+		position: fixed
+		top: -100px
+		width: 100vw
+		display: flex
+		list-style-type: none
+		transition: top 0.2s
+	&__item
+		flex-grow: 1
+		counter-increment: step-count
+		text-align: center
+		&:first-of-type
+			.step-tabs-nav
+				&__link
+					&:before,
+					&:after
+						display: none
+		&.active
+			.step-tabs-nav
+				&__link
+					background-color: $brand-primary
+			+ li
+				.step-tabs-nav
+					&__link
+						&:after
+							background-color: $brand-primary
+		&.active
+			.step-tabs-nav
+				&__title
+					display: inline-block
+	&__link
+		position: relative
+		z-index: 30
+		display: block
+		height: 26px
+		line-height: 24px
+		color: $text-white
+		text-decoration: none
+		text-align: center
+		padding: 0 5px 0 0
+		background-color: $brand-quaternary
+		&:before
+			content: ''
+			position: absolute
+			top: 5px
+			left: -8px
+			display: block
+			width: 17px
+			height: 15px
+			font-size: $fz_1_2
+			background: $dark-black
+			transform: rotate(56deg) skew(20deg)
+		&:after
+			content: ''
+			position: absolute
+			top: 5px
+			left: -9px
+			right: -15px
+			display: block
+			font-size: $fz_1_2
+			background: $brand-quaternary
+			width: 17px
+			height: 15px
+			border-top: 2px solid $dark-black
+			border-right: 2px solid $dark-black
+			transform: rotate(56deg) skew(20deg)
+	&__title
+		display: none
+		max-width: 80%
+		vertical-align: middle
+		font-size: $fz_1_6
+		line-height: 18px
+		font-weight: $fw_bold
+	&__counter
+		display: inline-block
+		vertical-align: middle
+		width: 10%
+		line-height: 18px
+		font-weight: $fw_bold
+		&:before
+			content: counter(step-count)
+
+.step-tabs-submenu
+	display: none
+
+
+
+body.scroll	
+	.step-tabs-nav
+		&__list
+			top: 38px
+			z-index: 10
+	
+@media screen and (min-width: 768px)
+	.step-tab
+		display: none
+		&-mobile
+			&-heading
+				display: none
+				+ div
+					display: block
+
+	.step-tabs-nav
+		&__list
+			position: relative
+			top: 0
+			width: 100%
+			display: flex
+			list-style-type: none
+			transition: none
+		&__link
+			height: 40px
+			line-height: 38px
+			padding: 0 0 0 5px
+			&:before
+				top: 9px
+				left: -12px
+				right: auto
+				width: 25px
+				height: 22px
+				transform: rotate(56deg) skew(20deg)
+			&:after
+				top: 9px
+				left: -13px
+				right: -15px
+				width: 25px
+				height: 22px
+				transform: rotate(56deg) skew(20deg)
+						
+	body.scroll	
+		.step-tabs-nav
+			&__list
+				top: 0
+				z-index: unset
+
+@media screen and (min-width: 992px)
+	.step-tabs-nav
+		&__item
+			&:hover
+				.step-tabs-nav
+					&__link
+						background-color: $brand-primary
+				+ li
+					.step-tabs-nav
+						&__link
+							&:after
+								background-color: $brand-primary
+				.step-tabs-submenu
+					opacity: 1
+					visibility: visible
+					z-index: 10
+					top: 100%
+	.step-tabs-submenu
+		position: absolute
+		top: 90%
+		left: 0
+		z-index: -20
+		display: flex
+		align-items: flex-start
+		justify-content: flex-start
+		width: 100%
+		list-style-type: none
+		padding: 20px 40px
+		background-color: $brand-quinary
+		color: $text-white
+		opacity: 0
+		visibility: hidden
+		transition: top	0.25s, visibility 0.25s, opacity 0.25s
+		&__list
+			list-style-type: none
+			text-align: left
+			break-inside: avoid
+			page-break-inside: avoid
+			margin-right: 5%
+		&__title
+			display: block
+			font-size: $fz_1_6
+			line-height: 1
+			font-weight: $fw_bold
+			margin-bottom: 5px
+		&__link
+			display: block
+			color: #a8a8a8
+			font-size: $fz_1_3
+			padding: 5px 0
+			text-decoration: none
+			font-family: $f_arial
+
+@media screen and (min-width: 1250px)
+	.step-tabs-nav
+		&__title
+			display: inline-block
+				

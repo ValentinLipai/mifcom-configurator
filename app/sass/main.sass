@@ -5,68 +5,114 @@
 
 /**
  * SETTINGS
- * Config...............Project-level config.
- * Global...............Project-specific, globally available settings.
+ * colors..................Colot scheme.
+ * fonts...................Font settings
  *
  * TOOLS
- * Mixins...............Global mixins.
+ * Mixins..................Global mixins.
+ * libs....................additional libraries styles
  *
  * GENERIC
- * Normalize.css........Normalise browser defaults…
- * Reset................…and zero them out.
- * Box-sizing...........More manageable box-model.
- * Shared...............Share certain high-level styles as broadly as possible.
- *
- * ELEMENTS
- * Headings.............H1–H6
- * Forms................Element-level form styling.
+ * Normalize.css...........Normalise browser defaults…
+ * Reset...................and zero them out.
  *
  * OBJECTS
- * Layout...............Simple Layout abstraction tool.
- * List-bare............‘Unstyled’ lists: bullets and indent removed.
- * List-pair............Simple key–value pair list.
- * Pack.................Force elements to pack up into all available space.
+ * Grid....................grid settings.
+ * defaults................Default styles.
  *
  * COMPONENTS
- * Forms................Component-level form styling.
- * Buttons..............Element-agnostic button styles.
- * Comments.............Comment styles.
- * Messaging............User feedback messaging.
- *
- * TRUMPS
- * Typography...........Utilities for manipulating text.
- * Display..............Helper classes for showing or hiding content.
- * Widths...............Width helper classes for use with our Layout system.
- *
+ * b-icons.................B-icons
+ * header..................Header main styles
+ * header-sticky...........Header sticky styles
+ * header-hotline..........Header hotline styles
+ * header-main.............Header main styles
+ * navigation..............navigation styles
+ * header-support..........Header support styles
+ * header-sticky-links.....Header sticky links styles
+ * dropdown-tooltip........Dropdown tooltips styles
+ * config-versions-dark....config fersion table in header dropdow styles
+ * main-section............Main section styles
+ * modals..................Modals styles
+ * breadcrumbs.............Breadcrumbs styles
+ * more-views..............More views styles
+ * short-description.......Short description styles
+ * bundle-description......Bundle description styles
+ * product-description.....Product description styles
+ * sidebar.................Main sidebar styles
+ * step-tabs...............Step tabs styles
+ * content-group...........content groups styles
+ * configurator-group......configurator group styles
+ * accordion...............accordion styles
+ * configurator-sidebar....configurator sidebar styles
+ * configurator-catalog....configurator catalog styles
+ * catalog-grid-switcher...catalog grid switcher styles
+ * catalog-filter..........catalog filter styles
+ * configurator-articles...configurator articles styles
+ * configurator-summary....configurator summary styles
+ * footer..................Footer styles
  */
 
 
+/**
+ * SETTINGS
+ **/
 
-@import "vars"
-@import "grid"
-@import "normalize"
-@import "reset"
-@import "libs"
-@import "colors"
-@import "fonts"
-@import "defaults"	
-@import "b-icons"	
-@import "header"
-@import "main-section"
-@import "modals"
-@import "breadcrumbs"
-@import "configurator"
-@import "footer"
+@import "settings/colors"
+@import "settings/fonts"
 
 
+/**
+ * TOOLS
+ **/
 
-@media screen and (min-width: 320px)
-	/**/
-@media screen and (min-width: 400px)
-	/**/
-@media screen and (min-width: 767px)
-	/**/
-@media screen and (min-width: 991px)
-	/**/
-@media screen and (min-width: 1199px)
-	/**/
+@import "tools/libs"
+
+/**
+ * GENERIC
+ **/
+
+@import "generic/normalize"
+@import "generic/reset"
+
+
+/**
+ * OBJECTS
+ **/
+
+@import "objects/grid"
+@import "objects/defaults"	
+
+/**
+ * COMPONENTS
+ **/
+
+@import "components/b-icons"	
+@import "components/navigation"
+@import "components/header"
+@import "components/header-hotline"
+@import "components/header-sticky"
+@import "components/header-main"
+@import "components/header-support"
+@import "components/header-sticky-links"
+@import "components/dropdown-tooltip"
+@import "components/config-versions-dark"
+@import "components/main-section"
+@import "components/modals"
+@import "components/breadcrumbs"
+@import "components/more-views"
+@import "components/short-description"
+@import "components/bundle-description"
+@import "components/product-description"
+@import "components/sidebar"
+@import "components/step-tabs"
+@import "components/content-group"
+@import "components/configurator-group"
+@import "components/accordion"
+@import "components/configurator-sidebar"
+@import "components/configurator-catalog"
+@import "components/catalog-grid-switcher"
+@import "components/catalog-filter"
+@import "components/configurator-articles"
+@import "components/configurator-summary"
+@import "components/footer"
+

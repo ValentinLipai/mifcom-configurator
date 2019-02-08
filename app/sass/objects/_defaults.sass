@@ -1,0 +1,211 @@
+
+html
+	font-size: $html_fz
+
+body
+	background-color: $brand-tertiary
+	margin: 0
+	padding: 56px 0 0 0
+	position: relative
+	height: 100%
+	min-width: 320px
+	font-size: $body_fz
+	font-family: $f_euro
+	color: $text-default
+	overflow-x: hidden
+	transition: padding-top 0.2s
+
+a
+	cursor: pointer
+
+img
+	max-width: 100%
+
+
+*:focus,
+*:active
+	outline: none
+
+.flex
+	display: flex
+.f-aic
+	align-items: center
+.f-jcc
+	justify-content: center
+.f-jcsb
+	justify-content: space-between
+.f-jcsa
+	justify-content: space-around
+
+.o-hidden
+	overflow: hidden !important
+
+.w45p
+	width: 45%
+.w50p
+	width: 50%
+.w55p
+	width: 55%
+.w100p
+	width: 100%
+
+.price
+	white-space: nowrap !important
+	&-notice
+		display: block
+		border-top: 1px solid $light-gray
+		line-height: 21px
+		margin: 0 7px
+		.cents,
+		.currency
+			white-space: nowrap !important
+
+.zoom-icon
+	position: relative
+	color: $text-default
+	padding: 1px
+	&:before,
+	&:after
+		content: ''
+		position: absolute
+		display: inline-block
+		width: 5px
+		height: 5px
+	&:before
+		bottom: -1px
+		left: 0
+		border-left: 1px solid $black
+		border-bottom: 1px solid $black
+	&:after
+		top: 0
+		right: 0
+		border-top: 1px solid $black
+		border-right: 1px solid $black
+
+.form-field
+	&-inline
+		display: flex
+		justify-content: space-between
+		.btn
+			position: relative
+			display: inline-block
+			text-align: left
+			white-space: nowrap
+			border: none
+			font-family: $f_euro
+			overflow: hidden
+			padding-left: 10px
+			font-size: $fz_1_5
+			line-height: 1
+			background-color: $brand-primary
+			font-weight: $fw_med
+			padding: 11px 35px 11px 17px
+			min-width: 130px
+			color: $text-white
+			&:before
+				content: ""
+				position: absolute
+				right: 0
+				top: -35px
+				display: block
+				height: 0
+				width: 0
+				border-top: 80px solid transparent
+				border-right: 80px solid $dark-red
+				border-bottom: 80px solid transparent
+			&:after
+				content: ""
+				position: absolute
+				right: 0px
+				top: 50%
+				transform: translateY(-50%)
+				display: inline-block
+				vertical-align: middle
+				font-size: $fz_2_4
+				line-height: 24px
+				color: $text-white
+				font-family: $f_iconfont
+				text-decoration: none
+				padding: 0px 13px
+		.input-box
+			overflow: hidden
+			padding-right: 5px
+			flex-grow: 1
+		.input-text
+			padding: 9px 5px
+			height: 36px
+			width: 100%
+
+
+
+.cat-label
+	position: absolute
+	background: $brand-primary
+	padding: 3px 5px
+	margin-left: 10px
+	font-size: $fz_1_5
+	&.mobile-right
+		left: calc(100% + 5px)
+		top: 50%
+		transform: translateY(-50%)
+	&:before
+		content: ''
+		position: absolute
+		left: -5px
+		top: 6px
+		display: block
+		width: 0
+		height: 0
+		border-top: 5px solid transparent
+		border-bottom: 5px solid transparent
+		border-right: 5px solid $brand-primary
+		border-left: none
+
+
+
+body.scroll
+	padding-top: 38px
+		
+
+@media screen and (min-width: 768px)
+	
+	.cat-label
+		position: absolute
+		background: $brand-primary
+		padding: 0
+		min-width: 29px
+		text-align: center
+		font-size: $fz_1_5
+		line-height: 1
+		color: $text-white
+		margin: 0
+		&.pc-top
+			top: auto
+			bottom: calc(100% + 5px)
+			right: auto
+			left: 50%
+			transform: translateX(-50%)
+		&:before
+			content: ''
+			bottom: -4px
+			left: 50%
+			top: auto
+			border-right: 4px solid transparent
+			border-left: 4px solid transparent
+			border-top: 4px solid $brand-primary
+			border-bottom: none
+			margin-left: -5px
+	
+
+
+@media screen and (min-width: 992px)
+	body.scroll
+		padding-top: 0
+	body
+		padding-top: 0
+		font-size: $fz_1_4
+
+
+@media screen and (min-width: 1250px)
+	body
+		font-size: $fz_1_5

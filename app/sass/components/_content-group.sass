@@ -1,0 +1,35 @@
+.content-group
+	&__title
+		position: relative
+		background: $brand-quinary
+		border-bottom: 1px solid $light-gray
+		color: $text-white
+		font-size: $fz_1_8
+		font-weight: $fw_bold
+		padding: 21px 17px 18px
+
+	&:first-of-type
+		.accordion
+			&__item
+				&:first-of-type
+					.accordion-content
+						display: block
+@media screen and (min-width: 768px)
+	.content-group
+		&__title
+			padding: 0 27px
+			height: 41px
+			line-height: 41px	
+		&:first-of-type
+			.accordion
+				&__item
+					&:first-of-type
+						.accordion-content
+							display: block
+
+@media screen and (min-width: 992px)
+	/**/
+
+@media screen and (min-width: 1250px)
+	/**/
+				
