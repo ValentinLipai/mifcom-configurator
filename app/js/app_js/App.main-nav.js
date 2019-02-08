@@ -1,12 +1,12 @@
 
 var App_nav = (function($) {
 
-	var header = $('header'),
-		mainNav = $('.header-nav'),
-		mainNavParentLinks = mainNav.find('.nav-item__parent'),
-		mainNavBackLinks = mainNav.find('.nav-item__back'),
-		mainNavBurger = $('.header-nav__burger'),
-		mainNavLists = mainNav.find('.nav-list, .nav-submenu__menus, .nav-submenu__menus li ul'),
+	var $header = $('header'),
+		$mainNav = $('.header-nav'),
+		$mainNavParentLinks = $mainNav.find('.nav-item__parent'),
+		$mainNavBackLinks = $mainNav.find('.nav-item__back'),
+		$mainNavBurger = $('.header-nav__burger'),
+		$mainNavLists = $mainNav.find('.nav-list, .nav-submenu__menus, .nav-submenu__menus li ul'),
 		headerHeight,
 		parentLinkHandlerEnabled = false,
 		initializedMobileDefaultHandlers = false,
@@ -14,37 +14,37 @@ var App_nav = (function($) {
 
 
 	function setNavListHeight(){		
-		mainNavLists.css('height', WINDOW_HEIGHT - headerHeight);
+		$mainNavLists.css('height', WINDOW_HEIGHT - headerHeight);
 	}
 	function removeNavListHeight(){
-		mainNavLists.css('height', 'auto');
+		$mainNavLists.css('height', 'auto');
 	}
 	
 	function takeHeaderHeight(){
-		headerHeight = header.height();
+		headerHeight = $header.height();
 	}
 
 	function addBurgerHandler(){
-		mainNavBurger.on('click', function(){
+		$mainNavBurger.on('click', function(){
 			$(this).hasClass('active') ? closeMainNav($(this)) : openMainNav($(this));
 		});
 	}
 
 	function closeMainNav(btn){		
 		btn.removeClass('active');
-		mainNav.find('.show').removeClass('show');
-		mainNav.removeClass('open');
+		$mainNav.find('.show').removeClass('show');
+		$mainNav.removeClass('open');
 	}
 
 	function openMainNav(btn){
 		btn.addClass('active')
-		mainNav.addClass('open');
+		$mainNav.addClass('open');
 	}
 
 	function addParentLinksHandler(){
 		if ( !parentLinkHandlerEnabled ) {
 			parentLinkHandlerEnabled = true;
-			mainNavParentLinks.on('click', function(e){
+			$mainNavParentLinks.on('click', function(e){
 				e.preventDefault();
 				var self = $(this);
 
@@ -72,12 +72,12 @@ var App_nav = (function($) {
 	function removeParentLinksHandler(){
 		if ( parentLinkHandlerEnabled ) {
 			parentLinkHandlerEnabled = false;
-			mainNavParentLinks.off('click');
+			$mainNavParentLinks.off('click');
 		}
 	}
 
 	function addBackLinkHandler(){	
-		mainNavBackLinks.on('click', function(e){
+		$mainNavBackLinks.on('click', function(e){
 			e.stopPropagation();
 			if ( e.target != $(this).find('a').get(0) ) {
 				$(this).closest('.show').removeClass('show');
@@ -107,7 +107,7 @@ var App_nav = (function($) {
 	function resizePcFunctions() {		
 		removeNavListHeight();
 		removeParentLinksHandler();
-		if ( mainNav.hasClass('open') ) closeMainNav(mainNavBurger);
+		if ( $mainNav.hasClass('open') ) closeMainNav($mainNavBurger);
 	}
 	
 	function resizeMobileFunctions() {
