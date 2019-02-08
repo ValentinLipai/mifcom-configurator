@@ -6,6 +6,7 @@
 
 var WINDOW_WIDTH = window.innerWidth;
 var WINDOW_HEIGHT = window.innerHeight;
+var Body = $('body');
 
 function retakeWinWidthHeight(){
 	WINDOW_WIDTH = window.innerWidth;
@@ -15,15 +16,18 @@ function retakeWinWidthHeight(){
 function bodyToggleScrollClass()
 {
 	$(window).scrollTop() > 10 ? $('body').addClass('scroll') : $('body').removeClass('scroll');
-}
+};
 
-window.addEventListener('resize', function(event) { 
+function bodyAdaptiveBreakpointsClasses()
+{
+	WINDOW_WIDTH < 992 ? Body.addClass('body-tablet') : Body.removeClass('body-tablet');
+	WINDOW_WIDTH < 768 ? Body.addClass('body-mobile') : Body.removeClass('body-mobile');
+};
+
+$(window).on('resize load', function(){
 	retakeWinWidthHeight();
-})
-
-window.addEventListener('load', function(event) { 
-	bodyToggleScrollClass();
-})
+	bodyAdaptiveBreakpointsClasses();
+});
 
 window.addEventListener('scroll', function(event) { 
 	bodyToggleScrollClass();

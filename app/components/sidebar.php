@@ -25,26 +25,26 @@
 											</span>
 										</a>
 									</div>
-									<div class="configurator-sidebar__info-wrapper">
+									<div class="sidebar__info-wrapper">
 										<div class="sidebar-panel">
 											<ul class="sidebar-panel__list">
 												<li class="sidebar-panel-item w55p">
 													<button class="sidebar-panel-btn sidebar-panel-btn-save"
-													 data-fancybox="" data-src="#modal__speichern-mailen" data-modal="false">
+													 data-fancybox="" data-src="#modal-speichern-mailen" data-modal="false">
 														<span class="sidebar-panel-btn__icon sidebar-panel-btn__icon--save f_iconm"></span>
 														<span class="sidebar-panel-btn__text">Speichern /mailen</span>
 													</button>
 												</li>
 												<li class="sidebar-panel-item w45p">
 													<button class="sidebar-panel-btn sidebar-panel-btn--load"
-													 data-fancybox="" data-src="#modal__load" data-modal="false">
+													 data-fancybox="" data-src="#modal-load" data-modal="false">
 														<span class="sidebar-panel-btn__icon sidebar-panel-btn__icon--load f_iconm"></span>
 														<span class="sidebar-panel-btn__text">Laden</span>
 													</button>
 												</li>
 												<li class="sidebar-panel-item w100p">
 													<button class="sidebar-panel-btn sidebar-panel-btn--support"
-													 data-fancybox="" data-src="#modal__frege-support" data-modal="false">
+													 data-fancybox="" data-src="#modal-frege-support" data-modal="false">
 														<span class="sidebar-panel-btn__icon sidebar-panel-btn__icon--support f_iconm"></span>
 														<span class="sidebar-panel-btn__text">Frage / Support</span>
 													</button>
@@ -57,7 +57,7 @@
 												</li>
 												<li class="sidebar-panel-item w45p">
 													<button class="sidebar-panel-btn sidebar-panel-btn--share"
-													 data-fancybox="" data-src="#modal__share" data-modal="false">
+													 data-fancybox="" data-src="#modal-share" data-modal="false">
 														<span class="sidebar-panel-btn__icon sidebar-panel-btn__icon--share f_iconm"></span>
 														<span class="sidebar-panel-btn__text">Teilen</span>
 													</button>
@@ -98,7 +98,7 @@
 									</ul>
 								</div>
 								<div class="sidebar-config-btn__wrapper">
-									<button class="sidebar-config-btn" title="Meine konfiguration" data-fancybox="" data-src="#modal__configurator-summary"
+									<button class="sidebar-config-btn" title="Meine konfiguration" data-fancybox="" data-src="#modal-configurator-summary"
 									 data-modal="false">
 										<span class="sidebar-config-btn__text">Meine konfiguration</span>
 									</button>

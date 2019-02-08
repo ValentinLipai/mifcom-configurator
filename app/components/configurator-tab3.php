@@ -16,7 +16,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/keyboard_icon_30x23_1.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -33,7 +34,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -97,8 +99,10 @@
 																							 data-product-name="Corsair - K66 | MX-Red" data-product-id="8171" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771949">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/k/6/k66_1.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/k/6/k66_1.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/k/6/k66_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Corsair - K66 | MX-Red" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -111,7 +115,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8171">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8171">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -148,8 +152,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-9863249">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="img/customizer-items/thumbs/c_users_k.mallas_appdata_local_packages_microsoft.skypeapp_kzf8qxf38zg5c_localstate_b027a376-fa58-4b5f-93c0-73858db531dd_2.jpg"
-																									 src="img/customizer-items/thumbs/c_users_k.mallas_appdata_local_packages_microsoft.skypeapp_kzf8qxf38zg5c_localstate_b027a376-fa58-4b5f-93c0-73858db531dd_2.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/c_users_k.mallas_appdata_local_packages_microsoft.skypeapp_kzf8qxf38zg5c_localstate_b027a376-fa58-4b5f-93c0-73858db531dd_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="MSI - Vigor GK70 RGB &amp; MSI GM60 RGB + Sistorm Mauspad" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -162,7 +168,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9263">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9263">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -182,7 +188,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -201,8 +208,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-9864100">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="img/customizer-items/thumbs/c_users_k.mallas_appdata_local_packages_microsoft.skypeapp_kzf8qxf38zg5c_localstate_cf404ea5-8640-4e0d-b059-e08c586a1283_1_1_1.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/c_userimg/customizer-items/thumbs/small_image.jpg"
 																									 src="img/customizer-items/thumbs/c_users_k.mallas_appdata_local_packages_microsoft.skypeapp_kzf8qxf38zg5c_localstate_cf404ea5-8640-4e0d-b059-e08c586a1283_1_1_1.jpg"
+																									 
 																									 alt="MSI - Vigor GK80 RGB &amp; MSI GM70 RGB + Sistorm Mauspad" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -215,7 +224,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9264">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9264">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -235,7 +244,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -266,8 +276,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771929">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/k/5/k501.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/k/5/k501.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/k/5/k501.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Corsair - Gaming K55 RGB | Rubber Dome, RGB-Beleuchtung" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -280,7 +292,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6151">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6151">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -300,7 +312,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -318,8 +331,10 @@
 																							 data-product-name="Corsair - Gaming K68 | LED Rot, MX-RED" data-product-id="7569" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771935">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1713803-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1713803-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1713803-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Corsair - Gaming K68 | LED Rot, MX-RED" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -332,7 +347,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7569">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7569">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -369,8 +384,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771928">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="img/customizer-items/thumbs/1_11_23.jpg"
-																									 src="img/customizer-items/thumbs/1_11_23.jpg" alt="Corsair - Gaming K70 LUX | Red LED, MX-Red"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_11_23.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming K70 LUX | Red LED, MX-Red"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -381,7 +398,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2705">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2705">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -418,8 +435,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771952">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1832402-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1832402-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1832402-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Corsair - Gaming K70 RGB MK2 Rapidfire | MX-Speed-Silver" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -432,7 +451,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8413">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8413">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -452,7 +471,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -470,8 +490,10 @@
 																							 data-product-name="Corsair - Gaming K70 RGB MK2 | MX-Red" data-product-id="8416" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771953">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1832402-n0_1_2.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1832402-n0_1_2.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1832402-n0_1_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Corsair - Gaming K70 RGB MK2 | MX-Red" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -484,7 +506,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8416">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8416">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -504,7 +526,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -522,8 +545,10 @@
 																							 data-product-name="Corsair - Strafe MK2 | RGB, MX-Silent" data-product-id="8251" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771950">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/t/strafe.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/t/strafe.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/t/strafe.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Corsair - Strafe MK2 | RGB, MX-Silent" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -534,7 +559,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8251">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8251">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -554,7 +579,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -573,8 +599,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771932">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_gaming_k95_rgb_platinum.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_gaming_k95_rgb_platinum.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_gaming_k95_rgb_platinum.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Corsair - Gaming K95 RGB Platinum | MX-Speed-Silver" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -585,7 +613,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6988">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6988">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -605,7 +633,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -634,8 +663,10 @@
 																							 data-product-name="ASUS - ROG Claymore Core | MX-RGB-Red" data-product-id="9640" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-10927604">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1536139-n4_1.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1536139-n4_1.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1536139-n4_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="ASUS - ROG Claymore Core | MX-RGB-Red" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -648,7 +679,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9640">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9640">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -668,7 +699,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -687,8 +719,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-10920718">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/9/1909403-n0_1.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/9/1909403-n0_1.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/9/1909403-n0_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="ASUS - ROG Strix Flare - Call of Duty | MX-RGB-Brown" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -701,7 +735,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9638">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9638">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -721,7 +755,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -739,8 +774,10 @@
 																							 data-product-name="ASUS - ROG Strix Flare RGB-LED | MX-Red" data-product-id="7746" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771941">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/s/asus_rog_strix_flare.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/s/asus_rog_strix_flare.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/s/asus_rog_strix_flare.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="ASUS - ROG Strix Flare RGB-LED | MX-Red" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -751,7 +788,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7746">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7746">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -771,7 +808,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -801,8 +839,10 @@
 																							 data-product-name="MSI - Vigor GK40 RGB-LED | Rubber Dome" data-product-id="7665" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771940">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_vigor_gk40.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_vigor_gk40.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_vigor_gk40.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="MSI - Vigor GK40 RGB-LED | Rubber Dome" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -813,7 +853,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7665">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7665">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -827,7 +867,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -845,8 +886,10 @@
 																							 data-product-name="MSI - GK-701 Red LEDs | MX-Brown" data-product-id="9644" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-10909319">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/0/2019_01_09_15-49-28-hby3fql1.nzi.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/0/2019_01_09_15-49-28-hby3fql1.nzi.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/0/2019_01_09_15-49-28-hby3fql1.nzi.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="MSI - GK-701 Red LEDs | MX-Brown" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -859,7 +902,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9644">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9644">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -889,8 +932,10 @@
 																							 data-product-name="MSI - Vigor GK70 RGB-LED | MX-Red" data-product-id="7662" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771938">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_vigor_gk70.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_vigor_gk70.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_vigor_gk70.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="MSI - Vigor GK70 RGB-LED | MX-Red" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -901,7 +946,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7662">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7662">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -915,7 +960,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -933,8 +979,10 @@
 																							 data-product-name="MSI - Vigor GK80 RGB-LED | MX-Red" data-product-id="7663" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771939">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_vigor_gk80_red.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_vigor_gk80_red.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_vigor_gk80_red.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="MSI - Vigor GK80 RGB-LED | MX-Red" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -945,7 +993,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7663">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7663">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -959,7 +1007,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -978,8 +1027,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-10908238">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_vigor_gk80_red_3.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_vigor_gk80_red_3.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_vigor_gk80_red_3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="MSI - Vigor GK80 Silver RGB | MX-Speed-RGB-Silver" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -992,7 +1043,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9642">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9642">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1006,7 +1057,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -1036,8 +1088,10 @@
 																							 data-product-name="CHERRY MX Board 3.0 | MX-Black, USB" data-product-id="8776" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771955">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="img/customizer-items/thumbs/1_51_8.jpg"
-																									 src="img/customizer-items/thumbs/1_51_8.jpg" alt="CHERRY MX Board 3.0 | MX-Black, USB" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_51_8.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="CHERRY MX Board 3.0 | MX-Black, USB" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1048,7 +1102,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8776">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8776">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1079,8 +1133,10 @@
 																							 data-product-id="9646" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-11125124">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/0/2019_01_09_16-22-06-cengjeee.jem.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/0/2019_01_09_16-22-06-cengjeee.jem.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/0/2019_01_09_16-22-06-cengjeee.jem.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="CHERRY MX Board 1.0 | MX-Silent-Red, USB | inkl. Handballenauflage " width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1093,7 +1149,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9646">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9646">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1124,8 +1180,10 @@
 																							 data-product-id="8817" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771957">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/0/1063889-n7_2.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/0/1063889-n7_2.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/0/1063889-n7_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="CHERRY MX Board 3.0 | MX-Black, USB | inkl. Handballenauflage " width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1136,7 +1194,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8817">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8817">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1167,8 +1225,10 @@
 																							 data-product-id="9645" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-10909860">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1678744-n0_2.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1678744-n0_2.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1678744-n0_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="CHERRY MX Board 5.0 | MX-Silent-Red, USB | inkl. Handballenauflage " width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1181,7 +1241,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9645">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9645">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1224,8 +1284,10 @@
 																							 data-product-name="Logitech - Desktop MK120 | Rubber Dome" data-product-id="7936" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771947">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/k/mk120.png"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/k/mk120.png"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/k/mk120.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Logitech - Desktop MK120 | Rubber Dome" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1236,7 +1298,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7936">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7936">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1266,8 +1328,10 @@
 																							 data-product-name="Logitech - K280e | Rubber Dome" data-product-id="7831" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771946">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/k/2/k280e.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/k/2/k280e.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/k/2/k280e.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Logitech - K280e | Rubber Dome" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1278,7 +1342,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7831">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7831">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1308,8 +1372,10 @@
 																							 data-product-name="Logitech - Desktop MK270 | kabellos" data-product-id="7783" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771943">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/1/1187_3_2_1.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/1/1187_3_2_1.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/1/1187_3_2_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Logitech - Desktop MK270 | kabellos" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1320,7 +1386,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7783">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7783">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1351,8 +1417,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771945">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/l/o/logitech_mk5402.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/l/o/logitech_mk5402.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/l/o/logitech_mk5402.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Logitech - Desktop MK540 Advanced | kabellos" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1363,7 +1431,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7786">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7786">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1393,8 +1461,10 @@
 																							 data-product-name="Logitech - Desktop MK710 | kabellos" data-product-id="7785" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771944">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/9/0/907_3_2_1.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/9/0/907_3_2_1.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/9/0/907_3_2_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Logitech - Desktop MK710 | kabellos" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1405,7 +1475,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7785">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7785">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1435,8 +1505,10 @@
 																							 data-product-name="Logitech - MK850 Performance" data-product-id="6524" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771930">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1569762-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1569762-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1569762-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Logitech - MK850 Performance" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1447,7 +1519,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6524">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6524">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1490,8 +1562,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771961">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1752851-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1752851-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1752851-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Razer - Cynosa Chroma USB | Mecha-Membrane " width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1504,7 +1578,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8953">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8953">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1518,7 +1592,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -1548,8 +1623,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-10974351">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1493283-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1493283-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1493283-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Sharkoon Skiller Mech SGK1 LEDs weiß | Kailh Red" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1562,7 +1639,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9647">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9647">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1593,8 +1670,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-10974883">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1718775-n1_1_1.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1718775-n1_1_1.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1718775-n1_1_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Sharkoon Skiller Mech SGK3 RGB | Kailh Red" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1607,7 +1686,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9649">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9649">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1621,7 +1700,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -1650,8 +1730,10 @@
 																							 data-product-name="Gigabyte Force K83 USB | MX-Red" data-product-id="8906" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83873-8771958">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1406503-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1406503-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1406503-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Gigabyte Force K83 USB | MX-Red" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1662,7 +1744,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8906">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8906">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1708,7 +1790,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/mouse_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -1725,7 +1808,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -1788,8 +1872,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8838767">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="img/customizer-items/thumbs/1_11_22_3_5.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - M65 Pro | RGB, 12000DPI, 8 Tasten, Refurbished"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_11_22_3_5.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg" 
+																									 alt="Corsair - M65 Pro | RGB, 12000DPI, 8 Tasten, Refurbished"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1802,7 +1888,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9045">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9045">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1856,8 +1942,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771996">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/a/sabre2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair -Gaming Sabre | RGB, 10000DPI, 8 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/a/sabre2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair -Gaming Sabre | RGB, 10000DPI, 8 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1870,7 +1958,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8386">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8386">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1913,8 +2001,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771986">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="img/customizer-items/thumbs/1_11_22_3.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - M65 Pro | RGB, 12000DPI, 8 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_11_22_3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - M65 Pro | RGB, 12000DPI, 8 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1927,7 +2017,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7274">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7274">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1970,8 +2060,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771979">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_glaive_rgb_schwarz.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - Gaming Glaive | RGB, 16000DPI, 6 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_glaive_rgb_schwarz.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming Glaive | RGB, 16000DPI, 6 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1984,7 +2076,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6948">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6948">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2027,8 +2119,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771981">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/4/_/4_3_14_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - Gaming Scimitar Pro | RGB, 16000DPI, 17 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/4/_/4_3_14_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming Scimitar Pro | RGB, 16000DPI, 17 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2041,7 +2135,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6950">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6950">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2084,8 +2178,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771992">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_dark_core_rgb.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - Gaming Dark Core | RGB, 16000DPI, 9 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_dark_core_rgb.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming Dark Core | RGB, 16000DPI, 9 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2098,7 +2194,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7865">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7865">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2151,8 +2247,10 @@
 																							 data-product-name="ASUS - UX300 | 1600DPI, 7 Tasten" data-product-id="5706" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771976">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/_/2_27_8.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="ASUS - UX300 | 1600DPI, 7 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/_/2_27_8.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="ASUS - UX300 | 1600DPI, 7 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2163,7 +2261,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="5706">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="5706">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2206,8 +2304,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771975">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/_/2_13_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="ASUS - Cerberus | LED Rot, 2500DPI, 6 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/_/2_13_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="ASUS - Cerberus | LED Rot, 2500DPI, 6 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2218,7 +2318,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2710">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2710">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2261,8 +2361,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771991">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/s/asus_cerberus_fortus.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="ASUS - Cerberus Fortus | RGB, 4000 DPI, 6 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/s/asus_cerberus_fortus.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="ASUS - Cerberus Fortus | RGB, 4000 DPI, 6 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2273,7 +2375,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7789">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7789">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2310,8 +2412,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771994">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/u/pugio.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="ASUS - ROG Pugio | RGB, 7200DPI, 12 Tasten "
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/u/pugio.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="ASUS - ROG Pugio | RGB, 7200DPI, 12 Tasten "
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2322,7 +2426,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8381">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8381">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2365,8 +2469,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771993">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/l/gladius2.jpeg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="ASUS - ROG Gladius II Origin | RGB, 12000DPI, 6 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/l/gladius2.jpeg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="ASUS - ROG Gladius II Origin | RGB, 12000DPI, 6 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2377,7 +2483,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7906">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7906">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2420,8 +2526,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771977">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/l/gladius21.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="ASUS - ROG Gladius II | RGB, 12000DPI, 7 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/l/gladius21.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="ASUS - ROG Gladius II | RGB, 12000DPI, 7 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2432,7 +2540,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="5707">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="5707">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2486,8 +2594,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771983">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_clutch_gm10.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="MSI - GM10 Gaming Mouse | LED rot, 2400DPI, 4 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_clutch_gm10.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="MSI - GM10 Gaming Mouse | LED rot, 2400DPI, 4 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2498,7 +2608,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6994">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6994">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2535,8 +2645,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771988">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/s/ds100_1.jpeg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="MSI - Interceptor DS100 | RGB, 3500DPI, 7 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/s/ds100_1.jpeg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="MSI - Interceptor DS100 | RGB, 3500DPI, 7 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2547,7 +2659,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7342">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7342">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2584,8 +2696,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771985">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/1/s12-0401340-d22.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="MSI - Clutch GM40 | LED Rot, 5000DPI, 8 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/1/s12-0401340-d22.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="MSI - Clutch GM40 | LED Rot, 5000DPI, 8 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2596,7 +2710,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7078">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7078">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2633,8 +2747,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771989">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_interceptor_ds300.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="MSI Interceptor DS300 | RGB, 8200DPI, 6 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/s/msi_interceptor_ds300.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="MSI Interceptor DS300 | RGB, 8200DPI, 6 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2645,7 +2761,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7343">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7343">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2688,8 +2804,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771984">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/m/gm60.jpeg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="MSI - Clutch GM60 | RGB, 10800DPI, 8 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/m/gm60.jpeg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="MSI - Clutch GM60 | RGB, 10800DPI, 8 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2702,7 +2820,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7061">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7061">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2739,8 +2857,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771982">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/m/gm70_1.jpeg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="MSI - Clutch GM70 | RGB, 18000DPI, 8 Tasten, Wireless"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/m/gm70_1.jpeg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="MSI - Clutch GM70 | RGB, 18000DPI, 8 Tasten, Wireless"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2751,7 +2871,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6993">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6993">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2800,8 +2920,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771987">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/4/8/489_4_2_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Logitech - B100 Business | 2 Tasten, 800 DPI"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/4/8/489_4_2_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Logitech - B100 Business | 2 Tasten, 800 DPI"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2812,7 +2934,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7275">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7275">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2849,8 +2971,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771995">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/7/m720.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Logitech - M720 Triathlon | 1000DPI, 7 Tasten, Wireless"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/7/m720.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Logitech - M720 Triathlon | 1000DPI, 7 Tasten, Wireless"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2861,7 +2985,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8385">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8385">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2898,8 +3022,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771997">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/3/1377097-n4.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Logitech - G502 Proteus Spectrum | 10 Tasten, 12000 DPI"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/3/1377097-n4.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Logitech - G502 Proteus Spectrum | 10 Tasten, 12000 DPI"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2910,7 +3036,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8788">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8788">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2947,8 +3073,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8771990">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/l/o/logitech_mx_anywhere3.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Logitech - MX Anywhere 2 | 8 Tasten, 1600 DPI"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/l/o/logitech_mx_anywhere3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Logitech - MX Anywhere 2 | 8 Tasten, 1600 DPI"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2959,7 +3087,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7787">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7787">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3007,8 +3135,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8772000">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/1/1156801-n2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="EVGA - TorQ X10 Carbon | RGB, 8200DPI, 9 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/1/1156801-n2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="EVGA - TorQ X10 Carbon | RGB, 8200DPI, 9 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3019,7 +3149,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8915">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8915">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3074,8 +3204,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8772001">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/a/gamo-743_gamo_743_03_285x255.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Microsoft - Classic IntelliMouse USB | 3200dpi"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/a/gamo-743_gamo_743_03_285x255.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Microsoft - Classic IntelliMouse USB | 3200dpi"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3086,7 +3218,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8948">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8948">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3135,8 +3267,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8772002">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1685902-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Razer - Basilisk USB | RGB, 16000DPI, 8 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1685902-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Razer - Basilisk USB | RGB, 16000DPI, 8 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3149,7 +3283,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8950">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8950">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3186,8 +3320,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83876-8772003">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1515583-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Razer - DeathAdder Elite USB | RGB, 16000DPI, 7 Tasten"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1515583-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Razer - DeathAdder Elite USB | RGB, 16000DPI, 7 Tasten"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3200,7 +3336,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8952">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8952">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3246,7 +3382,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/mousepad_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -3263,7 +3400,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -3302,8 +3440,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-8839341">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/3/1357038-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - Gaming MM300 Extended | Refurbished"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/3/1357038-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming MM300 Extended | Refurbished"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3314,7 +3454,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9046">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9046">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3368,8 +3508,10 @@
 																							 data-product-name="Corsair - MM100" data-product-id="7643" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-8772053">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/r/orsair_gaming_mm100_mauspad_2_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - MM100" width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/r/orsair_gaming_mm100_mauspad_2_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - MM100" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -3379,7 +3521,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7643">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7643">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3415,8 +3557,10 @@
 																							 data-product-name="Corsair - Gaming MM300 | Small Edition" data-product-id="2732" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-8772048">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/h/ch-9000105-ww.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - Gaming MM300 | Small Edition"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/h/ch-9000105-ww.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming MM300 | Small Edition"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3429,7 +3573,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2732">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2732">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3465,8 +3609,10 @@
 																							 data-product-name="Corsair - MM200" data-product-id="7646" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-8772054">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_gaming_mm2002.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - MM200" width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_gaming_mm2002.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - MM200" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -3476,7 +3622,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7646">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7646">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3512,8 +3658,10 @@
 																							 data-product-name="Corsair - Gaming MM300 | Medium Edition" data-product-id="7921" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-8772056">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_gaming_mm300_anti-fray_2_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - Gaming MM300 | Medium Edition"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_gaming_mm300_anti-fray_2_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming MM300 | Medium Edition"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3524,7 +3672,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7921">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7921">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3560,8 +3708,10 @@
 																							 data-product-name="Corsair - Gaming MM800 RGB Polaris" data-product-id="7063" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-8772051">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_gaming_mm800_rgb_polaris2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - Gaming MM800 RGB Polaris"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_gaming_mm800_rgb_polaris2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming MM800 RGB Polaris"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3572,7 +3722,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7063">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7063">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3614,8 +3764,10 @@
 																							 data-product-name="Corsair - MM1000 Qi" data-product-id="7573" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-8772052">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1751780-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - MM1000 Qi" width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1751780-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - MM1000 Qi" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -3625,7 +3777,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7573">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7573">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3678,8 +3830,10 @@
 																							 data-product-name="ASUS - ROG GM50" data-product-id="5851" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-8772049">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/1/1147098.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="ASUS - ROG GM50" width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/1/1147098.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="ASUS - ROG GM50" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -3689,7 +3843,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="5851">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="5851">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3731,8 +3885,10 @@
 																							 data-product-name="ASUS - ROG Strix Edge" data-product-id="8081" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-8772057">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1681225-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="ASUS - ROG Strix Edge" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1681225-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="ASUS - ROG Strix Edge" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3745,7 +3901,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8081">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8081">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3787,8 +3943,10 @@
 																							 data-product-name="ASUS - ROG Sheath" data-product-id="5852" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-8772050">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1434428.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="ASUS - ROG Sheath" width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1434428.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="ASUS - ROG Sheath" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -3798,7 +3956,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="5852">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="5852">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3840,8 +3998,10 @@
 																							 data-product-name=" ASUS - ROG Scabbard" data-product-id="8084" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-8772058">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1681265-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt=" ASUS - ROG Scabbard" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1681265-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt=" ASUS - ROG Scabbard" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3852,7 +4012,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8084">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8084">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3905,8 +4065,10 @@
 																							 data-product-name="Sharkoon Skiller SGP1 Mousepad M " data-product-id="9680" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-11060147">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1543946-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sharkoon Skiller SGP1 Mousepad M "
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1543946-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sharkoon Skiller SGP1 Mousepad M "
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3919,7 +4081,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9680">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9680">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3955,8 +4117,10 @@
 																							 data-product-name="Sharkoon Skiller SGP1 Mousepad L" data-product-id="9681" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-11061216">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1543946-n0_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sharkoon Skiller SGP1 Mousepad L"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1543946-n0_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sharkoon Skiller SGP1 Mousepad L"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3969,7 +4133,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9681">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9681">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4005,8 +4169,10 @@
 																							 data-product-name="Sharkoon Skiller SGP1 Mousepad XL" data-product-id="9682" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-11061794">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1543946-n0_1_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sharkoon Skiller SGP1 Mousepad XL"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1543946-n0_1_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sharkoon Skiller SGP1 Mousepad XL"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -4019,7 +4185,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9682">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9682">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4055,8 +4221,10 @@
 																							 data-product-name="Sharkoon Skiller SGP1 Mousepad XXL" data-product-id="9683" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-11062346">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1543952-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sharkoon Skiller SGP1 Mousepad XXL"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1543952-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sharkoon Skiller SGP1 Mousepad XXL"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -4069,7 +4237,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9683">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9683">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4105,8 +4273,10 @@
 																							 data-product-name="Sharkoon - 1337 RGB" data-product-id="9672" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-11068064">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1777768-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sharkoon - 1337 RGB" width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1777768-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sharkoon - 1337 RGB" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -4118,7 +4288,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9672">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9672">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4154,8 +4324,10 @@
 																							 data-product-name="Sharkoon - 1337 RGB XL" data-product-id="9677" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-11059043">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1777768-n0_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sharkoon - 1337 RGB XL" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1777768-n0_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sharkoon - 1337 RGB XL" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -4168,7 +4340,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9677">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9677">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4204,8 +4376,10 @@
 																							 data-product-name="Sharkoon - 1337 RGB XXL" data-product-id="9679" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83882-11059595">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/9/1930751-n6.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sharkoon - 1337 RGB XXL" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/9/1930751-n6.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sharkoon - 1337 RGB XXL" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -4218,7 +4392,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9679">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9679">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4264,7 +4438,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/gamepad_icon_icon.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -4281,7 +4456,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -4290,7 +4466,8 @@
 																		<div class="configurator-catalog grid-view">
 																			<div class="configurator-articles__banner">
 																				<a href="#" class="configurator-articles__banner-link">
-																					<img src="img/customizer-items/thumbs/Xbox-One.jpg" alt="" class="configurator-articles__banner-img">
+																					<img src="img/customizer-items/thumbs/Xbox-One.jpg" 
+																					alt="" class="configurator-articles__banner-img">
 																				</a>
 																			</div>
 																			<div class="configurator-catalog__tools">
@@ -4324,8 +4501,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83888-10176674">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1649167-n0_3.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Microsoft - Xbox One Controller | inkl. USB-Kabel"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1649167-n0_3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Microsoft - Xbox One Controller | inkl. USB-Kabel"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -4336,7 +4515,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8833">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8833">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4373,8 +4552,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83888-9393677">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/2/1282350-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Microsoft - Xbox One Elite Controller | inkl. USB-Kabel"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/2/1282350-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Microsoft - Xbox One Elite Controller | inkl. USB-Kabel"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -4387,7 +4568,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8834">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8834">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4424,8 +4605,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83888-8772145">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1688674-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Razer - Wolverine Ultimate Controller | inkl. USB-Kabel "
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1688674-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Razer - Wolverine Ultimate Controller | inkl. USB-Kabel "
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -4438,7 +4621,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8927">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8927">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4484,7 +4667,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/interface_card_icon_30x23_3.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -4501,7 +4685,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -4539,8 +4724,10 @@
 																							 data-product-name="Elgato Cam Link" data-product-id="8321" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83900-10176699">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1713015-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Elgato Cam Link" width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1713015-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Elgato Cam Link" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -4552,7 +4739,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8321">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8321">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4580,8 +4767,10 @@
 																							 data-product-name="Elgato Stream Deck" data-product-id="8313" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83900-8772400">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/t/streamdeck.jpeg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Elgato Stream Deck" width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/t/streamdeck.jpeg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Elgato Stream Deck" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -4593,7 +4782,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8313">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8313">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4607,7 +4796,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -4642,7 +4832,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/monitor_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -4659,7 +4850,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -4734,8 +4926,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772239">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/v/g/vg245he1_3.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='24" asus vg245he | fhd, 75hz, 1ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/v/g/vg245he1_3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='24" asus vg245he | fhd, 75hz, 1ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -4747,7 +4941,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8726">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8726">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4784,8 +4978,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772242">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1831967-n0_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='31,5" aoc q3279v | wqhd, 75hz, 5ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1831967-n0_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='31,5" aoc q3279v | wqhd, 75hz, 5ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -4797,7 +4993,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8790">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8790">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4834,8 +5030,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772200">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='28" samsung u28e590d | 4k, 60hz, 1ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='28" samsung u28e590d | 4k, 60hz, 1ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -4847,7 +5045,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="5038">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="5038">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4884,8 +5082,10 @@
 																							 data-product-id="9329" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10071045">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/9/1915717-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='24" msi optix mag24cr | fhd, 144hz, 1ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/9/1915717-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='24" msi optix mag24cr | fhd, 144hz, 1ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -4897,7 +5097,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9329">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9329">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4946,8 +5146,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772240">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/v/g/vg255h_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='24,5" asus vg255h | fhd, 75hz, 1ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/v/g/vg255h_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='24,5" asus vg255h | fhd, 75hz, 1ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -4957,7 +5159,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8727">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8727">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -4994,8 +5196,10 @@
 																							 data-product-id="7733" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10751662">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/o/aoc.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='24,5" aoc g2590px | 24,5" fhd, 144hz, 1ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/o/aoc.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='24,5" aoc g2590px | 24,5" fhd, 144hz, 1ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5005,7 +5209,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7733">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7733">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5019,7 +5223,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -5043,8 +5248,10 @@
 																							 data-product-id="9335" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10751673">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1847097-n0_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" aoc c27g1 (fhd | va 144hz freesync)' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1847097-n0_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" aoc c27g1 (fhd | va 144hz freesync)' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5056,7 +5263,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9335">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9335">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5093,8 +5300,10 @@
 																							 data-product-id="7923" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-11093155">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/2/g24c_1_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='24" msi optix g24c | 24" fhd, 144hz, 1ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/2/g24c_1_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='24" msi optix g24c | 24" fhd, 144hz, 1ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5106,7 +5315,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7923">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7923">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5143,8 +5352,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772238">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/v/g/vg278q_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" asus vg278q | fhd, 144hz, 1ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/v/g/vg278q_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" asus vg278q | fhd, 144hz, 1ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5154,7 +5365,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8725">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8725">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5197,8 +5408,10 @@
 																							 data-product-id="9327" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10070165">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/9/1915621-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" msi optix mag271c | fhd, 144hz, 1ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/9/1915621-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" msi optix mag271c | fhd, 144hz, 1ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5210,7 +5423,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9327">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9327">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5253,8 +5466,10 @@
 																							 9686" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-11060695">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/h/ahr0cdovl2ltywdlcy5py2vjyxquyml6l2ltzy9nywxszxj5lzmzmji0nzuxxzkwntc2otq1njyuanbn_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='23.8" aoc agon ag241qx | wqhd, 144hz, 1ms' width=" 133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/h/ahr0cdimg/customizer-items/thumbs/small_image.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg" 
+																									 alt='23.8" aoc agon ag241qx | wqhd, 144hz, 1ms' width=" 133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5266,7 +5481,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id=" 9686">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id=" 9686">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5280,7 +5495,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -5304,8 +5520,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772230">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1755660-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" lg 27gk750f-b | fhd, 1ms, 240hz' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1755660-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" lg 27gk750f-b | fhd, 1ms, 240hz' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5315,7 +5533,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8401">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8401">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5329,7 +5547,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -5353,8 +5572,10 @@
 																							 data-product-id="9353" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10120734">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/h/ahr0cdovl2ltywdlcy5py2vjyxquyml6l2ltzy9nywxszxj5lzmymdq0odc5xzk5njixmty0njmuanbn_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" aoc agon ag271qx (wqhd | tn 144hz freesync)' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/h/ahr0cdimg/customizer-items/thumbs/small_image.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg" 
+																									 alt='27" aoc agon ag271qx (wqhd | tn 144hz freesync)' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5366,7 +5587,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9353">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9353">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5380,7 +5601,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -5404,8 +5626,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772204">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/t/httpsaocpims3amazonawscomag241qgfhinfojpgw_1000_fl_attachment_2.jpeg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='24" aoc ag241qg | wqhd, 144hz, 1ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/t/httpsaimg/customizer-items/thumbs/small_image.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg" 
+																									 alt='24" aoc ag241qg | wqhd, 144hz, 1ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5415,7 +5639,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7260">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7260">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5429,7 +5653,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -5453,8 +5678,10 @@
 																							 freesync 2 hdr)' data-product-id="9354" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10751675">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1806560-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='31,5" aoc agon ag322qc4 (wqhd | va (mva) 144hz
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1806560-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='31,5" aoc agon ag322qc4 (wqhd | va (mva) 144hz
 																							 freesync 2 hdr)' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -5467,7 +5694,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9354">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9354">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5481,7 +5708,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -5505,8 +5733,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772208">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1472102-n8.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" aoc ag271qg | wqhd, 165hz, 4ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1472102-n8.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" aoc ag271qg | wqhd, 165hz, 4ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5516,7 +5746,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7304">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7304">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5530,7 +5760,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -5554,8 +5785,10 @@
 																							 data-product-id="9657" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10975954">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="img/customizer-items/thumbs/c_users_k.mallas_appdata_local_packages_microsoft.skypeapp_kzf8qxf38zg5c_localstate_c0e49a42-2642-4b85-afcc-74341c8fb7ac.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" aoc ag271qg | wqhd, 165hz, 4ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/c_users_k.mallas_appdata_local_packages_microsoft.skypeapp_kzf8qxf38zg5c_localstate_c0e49a42-2642-4b85-afcc-74341c8fb7ac.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" aoc ag271qg | wqhd, 165hz, 4ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5567,7 +5800,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9657">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9657">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5604,8 +5837,10 @@
 																							 data-product-id="9362" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10142361">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/e/i/eizo.png"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" eizo foris fs2735 (wqhd | 144hz ips freesync)' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/e/i/eizo.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" eizo foris fs2735 (wqhd | 144hz ips freesync)' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5617,7 +5852,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9362">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9362">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5631,7 +5866,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -5666,8 +5902,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772216">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/4/34um69g-b_3.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='34" lg 34um69g-b | uw-uxga, 5ms, 75hz' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/4/34um69g-b_3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='34" lg 34um69g-b | uw-uxga, 5ms, 75hz' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5677,7 +5915,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7829">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7829">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5691,7 +5929,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -5715,8 +5954,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772229">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/h/ahr0cdovl2ltywdlcy5py2vjyxquyml6l2ltzy9nywxszxj5lzmzmju4otcyxzg3ntk1nzexndmuanbn.jpeg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='34" lg 34uc79g-b | uw-uxga, 5ms, 144hz' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/h/ahr0cdimg/customizer-items/thumbs/small_image.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg" 
+																									 alt='34" lg 34uc79g-b | uw-uxga, 5ms, 144hz' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5728,7 +5969,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8400">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8400">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5742,7 +5983,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -5766,8 +6008,10 @@
 																							 data-product-id="7635" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772210">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/t/httpsaocpims3amazonawscomag352qcxinfopngw_1000_fl_attachment_1.jpeg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='35" aoc agon ag352qcx | uw-uxga, 200hz, 4ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/t/httpsaimg/customizer-items/thumbs/small_image.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg" 
+																									 alt='35" aoc agon ag352qcx | uw-uxga, 200hz, 4ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5777,7 +6021,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7635">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7635">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5791,7 +6035,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -5815,8 +6060,10 @@
 																							 g-sync)' data-product-id="9337" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10751674">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1774789-n7.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='35" aoc agon ag352qcx | uw-uxga, 200hz, 4ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1774789-n7.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='35" aoc agon ag352qcx | uw-uxga, 200hz, 4ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5828,7 +6075,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9337">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9337">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5864,8 +6111,10 @@
 																							 data-product-name='49" samsung c49hg90 (4k | va 144hz freesync 2 hdr)' data-product-id=" 8836" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772243">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1640134-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='49" samsung c49hg90 (4k | va 144hz freesync 2 hdr)' width=" 133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1640134-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='49" samsung c49hg90 (4k | va 144hz freesync 2 hdr)' width=" 133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5875,7 +6124,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id=" 8836">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id=" 8836">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5923,8 +6172,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10908787">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/_/p_setting_fff_1_90_end_500.png"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='24" asus vp248qg | fhd, 75hz, 1ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/_/p_setting_fff_1_90_end_500.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='24" asus vp248qg | fhd, 75hz, 1ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5936,7 +6187,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9643">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9643">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -5973,8 +6224,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772227">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/4/24b1h.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='24" aoc 24b1h | fhd, 60hz, 8ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/4/24b1h.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='24" aoc 24b1h | fhd, 60hz, 8ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -5986,7 +6239,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8274">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8274">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6023,8 +6276,10 @@
 																							 data-product-id="6378" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772201">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1610401-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='24" philips v-line 243v7qdsb | fhd, 60hz, 5ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1610401-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='24" philips v-line 243v7qdsb | fhd, 60hz, 5ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6036,7 +6291,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6378">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6378">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6073,8 +6328,10 @@
 																							 9338" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10112628">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1617657-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='21,5" philips s-line 223s7ehmb | (fhd ips 60hz)' width=" 133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1617657-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='21,5" philips s-line 223s7ehmb | (fhd ips 60hz)' width=" 133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6084,7 +6341,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id=" 9338">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id=" 9338">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6121,8 +6378,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772228">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/7/27b1h.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" aoc 27b1h | fhd, 60hz, 8ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/7/27b1h.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" aoc 27b1h | fhd, 60hz, 8ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6132,7 +6391,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8275">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8275">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6169,8 +6428,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772244">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1621089-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='23,8" lg 24bk550y-b | fhd, 5ms, 60hz' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1621089-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='23,8" lg 24bk550y-b | fhd, 5ms, 60hz' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6180,7 +6441,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8883">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8883">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6217,8 +6478,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772207">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/o/aoc_i2490pxqu.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='23,8" aoc i2490pxqu | fhd, 60hz, 4ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/o/aoc_i2490pxqu.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='23,8" aoc i2490pxqu | fhd, 60hz, 4ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6228,7 +6491,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7266">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7266">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6242,7 +6505,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -6266,8 +6530,10 @@
 																							 data-product-id="7703" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772214">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/7/273v7qjab.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" philips v-line 273v7qjab | fhd, 60hz, 5ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/7/273v7qjab.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" philips v-line 273v7qjab | fhd, 60hz, 5ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6277,7 +6543,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7703">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7703">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6314,8 +6580,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772206">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/o/aoc_i2790pqu.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" aoc i2790pqu | fhd, 60hz, 4ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/o/aoc_i2790pqu.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" aoc i2790pqu | fhd, 60hz, 4ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6327,7 +6595,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7265">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7265">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6341,7 +6609,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -6365,8 +6634,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772232">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1849338-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" dell p2719h | fhd, 5ms, 60hz' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1849338-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" dell p2719h | fhd, 5ms, 60hz' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6376,7 +6647,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8448">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8448">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6390,7 +6661,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -6414,8 +6686,10 @@
 																							 data-product-id="9339" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10113191">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1802403-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" philips b-line 272b8qjeb (wqhd | ips 60hz)' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1802403-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" philips b-line 272b8qjeb (wqhd | ips 60hz)' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6425,7 +6699,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9339">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9339">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6439,7 +6713,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -6463,8 +6738,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772245">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/l/global_22mb65py_2017_gallery_zoom00_170919_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='24" lg 24bk55wv | fhd, 5ms, 60hz' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/l/globalimg/customizer-items/thumbs/small_image.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg" 
+																									 alt='24" lg 24bk55wv | fhd, 5ms, 60hz' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6474,7 +6751,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8884">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8884">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6511,8 +6788,10 @@
 																							 data-product-id="9352" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10120171">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/a/sasdasd.png"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='31,5" aoc u3277pwqu (uhd | va (mva)| 60hz)' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/a/sasdasd.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='31,5" aoc u3277pwqu (uhd | va (mva)| 60hz)' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6522,7 +6801,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9352">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9352">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6536,7 +6815,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -6560,8 +6840,10 @@
 																							 data-product-id="9348" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10118685">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1501724-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='40" philips bdm4037uw (uhd | va 60hz freesync)' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1501724-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='40" philips bdm4037uw (uhd | va 60hz freesync)' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6571,7 +6853,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9348">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9348">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6585,7 +6867,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -6609,8 +6892,10 @@
 																							 data-product-id="9476" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10604689">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1555984-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" asus designo mx27uc | 4k, 60hz, 5ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1555984-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" asus designo mx27uc | 4k, 60hz, 5ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6620,7 +6905,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9476">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9476">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6668,8 +6953,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772237">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/9/29ub67-b6.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='29" lg 29ub67-b | uw-uxga, 60hz, 5ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/9/29ub67-b6.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='29" lg 29ub67-b | uw-uxga, 60hz, 5ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6679,7 +6966,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8718">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8718">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6693,7 +6980,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -6717,8 +7005,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772234">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/4/34ub67-b6.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='34" lg 34ub67-b | uw-uxga, 60hz, 5ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/4/34ub67-b6.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='34" lg 34ub67-b | uw-uxga, 60hz, 5ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6728,7 +7018,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8715">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8715">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6742,7 +7032,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -6766,8 +7057,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772236">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/4/34ub88-b.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='34" lg 34ub88-b | uw-qhd, 60hz, 5ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/4/34ub88-b.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='34" lg 34ub88-b | uw-qhd, 60hz, 5ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6777,7 +7070,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8717">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8717">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6791,7 +7084,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -6814,8 +7108,10 @@
 																							 data-product-name='34" asus designo curve mx34vq | uw-uxga, va, 100hz, freesync' data-product-id="9703" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-11091232">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1565011-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='34" asus designo curve mx34vq | uw-uxga, va, 100hz, freesync' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1565011-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='34" asus designo curve mx34vq | uw-uxga, va, 100hz, freesync' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6827,7 +7123,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9703">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9703">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6864,8 +7160,10 @@
 																							 data-product-id="9345" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10751680">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1829233-n12.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='34" philips 349p7fubeb (uw-qhd | va 100hz)' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1829233-n12.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='34" philips 349p7fubeb (uw-qhd | va 100hz)' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6875,7 +7173,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9345">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9345">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6889,7 +7187,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -6913,8 +7212,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772222">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/8/38wk95c-w.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='38" lg 38wk95c | uwqhd+, 5ms, 75hz' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/8/38wk95c-w.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='38" lg 38wk95c | uwqhd+, 5ms, 75hz' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6926,7 +7227,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7945">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7945">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6940,7 +7241,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -6974,8 +7276,10 @@
 																							 data-product-name='31,5" philips p-line 328p6aubreb (wqhd | ips| hdr10 60hz)' data-product-id="9344" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-10115358">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/2/328p6aubreb_00-_fp-global-001.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='31,5" philips p-line 328p6aubreb (wqhd | ips| hdr10 60hz)' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/2/328p6aubreb_00-_fp-global-001.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='31,5" philips p-line 328p6aubreb (wqhd | ips| hdr10 60hz)' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -6985,7 +7289,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9344">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9344">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -6999,7 +7303,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -7023,8 +7328,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772223">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/7/27uk850-w.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" lg 27uk850-w | uhd, 5ms, 60hz' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/2/7/27uk850-w.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" lg 27uk850-w | uhd, 5ms, 60hz' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -7034,7 +7341,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7951">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7951">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7048,7 +7355,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -7072,8 +7380,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772235">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/4/34cb88-b7.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='34" lg 34cb88-b | uw-qhd, 60hz, 5ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/4/34cb88-b7.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='34" lg 34cb88-b | uw-qhd, 60hz, 5ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -7083,7 +7393,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8716">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8716">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7097,7 +7407,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -7121,8 +7432,10 @@
 																							 data-product-id="7863" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772218">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/r/proart_pa27ac.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='27" asus proart pa27ac | qhd, 60hz, 5ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/r/proart_pa27ac.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='27" asus proart pa27ac | qhd, 60hz, 5ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -7132,7 +7445,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7863">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7863">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7146,7 +7459,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -7170,8 +7484,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772224">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/2/32ud99-w.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='31,5" lg 32ud99-w | uhd, 5ms, 60hz' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/3/2/32ud99-w.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='31,5" lg 32ud99-w | uhd, 5ms, 60hz' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -7181,7 +7497,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7953">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7953">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7195,7 +7511,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -7219,8 +7536,10 @@
 																							 data-product-id="7864" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83891-8772219">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/s/asus_proart_pa32uc-k.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt='32" asus proart pa32uc-k | uhd, 60hz, 5ms' width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/s/asus_proart_pa32uc-k.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt='32" asus proart pa32uc-k | uhd, 60hz, 5ms' width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -7232,7 +7551,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7864">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7864">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7246,7 +7565,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -7279,7 +7599,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/ico_monitor_tischhalterung.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -7296,7 +7617,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -7334,8 +7656,10 @@
 																							 data-product-name="Arctic Z3 Pro Monitor Halterung" data-product-id="7508" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83896-8772388">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/z/3/z3_pro.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Arctic Z3 Pro Monitor Halterung" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/z/3/z3_pro.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Arctic Z3 Pro Monitor Halterung" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -7346,7 +7670,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7508">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7508">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7360,7 +7684,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																								</ul>
 
@@ -7388,8 +7713,10 @@
 																							 data-product-name="Arctic Z1-3D Monitor Halterung" data-product-id="7472" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83896-8772385">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/r/arctic_z1-3d_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Arctic Z1-3D Monitor Halterung" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/r/arctic_z1-3d_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Arctic Z1-3D Monitor Halterung" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -7400,7 +7727,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7472">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7472">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7414,7 +7741,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" alt="USB 3.0" title="USB 3.0">
+																										<img src="https://www.mifcom.de/media/Icon_USB_3.0.png" 
+																										alt="USB 3.0" title="USB 3.0">
 																									</li>
 																								</ul>
 
@@ -7443,8 +7771,10 @@
 																							 data-product-name="Arctic LH1 Notebook Halterung" data-product-id="7509" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83896-8772389">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/l/h/lh1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Arctic LH1 Notebook Halterung" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/l/h/lh1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Arctic LH1 Notebook Halterung" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -7455,7 +7785,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7509">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7509">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7501,7 +7831,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/monitoranschlusskabel_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -7518,7 +7849,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -7558,8 +7890,10 @@
 																							 disabled="disabled">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772317">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/d/adapter_hdmi_auf_dvi_0.2_m.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HDMI-A auf DVI-I Kabel | 0,2 m" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/d/adapter_hdmi_auf_dvi_0.2_m.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HDMI-A auf DVI-I Kabel | 0,2 m" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -7570,7 +7904,7 @@
 																								</span>
 																								<span class="out-of-stock">Nicht verfügbar</span>
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6819">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6819">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7613,8 +7947,10 @@
 																							 disabled="disabled">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772284">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1647_3_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DVI-D auf HDMI-A Kabel | 5m" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1647_3_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DVI-D auf HDMI-A Kabel | 5m" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -7625,7 +7961,7 @@
 																								</span>
 																								<span class="out-of-stock">Nicht verfügbar</span>
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="479">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="479">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7668,8 +8004,10 @@
 																							 disabled="disabled">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772285">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1650_3_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DVI-D Kabel | 3m, Dual-Link" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1650_3_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DVI-D Kabel | 3m, Dual-Link" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -7680,7 +8018,7 @@
 																								</span>
 																								<span class="out-of-stock">Nicht verfügbar</span>
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="482">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="482">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7723,8 +8061,10 @@
 																							 disabled="disabled">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772289">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1647_3_2_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DVI-D auf HDMI Kabel | 10m" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1647_3_2_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DVI-D auf HDMI Kabel | 10m" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -7735,7 +8075,7 @@
 																								</span>
 																								<span class="out-of-stock">Nicht verfügbar</span>
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6279">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6279">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7778,8 +8118,10 @@
 																							 autocomplete="off" disabled="disabled">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772286">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1651_3_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Mini-DisplayPort auf DisplayPort Kabel | 3m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1651_3_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Mini-DisplayPort auf DisplayPort Kabel | 3m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -7790,7 +8132,7 @@
 																								</span>
 																								<span class="out-of-stock">Nicht verfügbar</span>
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="483">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="483">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7844,8 +8186,10 @@
 																							 data-product-name="DisplayPort auf DisplayPort Kabel | 1 m" data-product-id="6799" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772299">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/i/displayport_auf_displayport_1_3.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DisplayPort auf DisplayPort Kabel | 1 m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/i/displayport_auf_displayport_1_3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DisplayPort auf DisplayPort Kabel | 1 m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -7856,7 +8200,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6799">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6799">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7892,8 +8236,10 @@
 																							 data-product-name="DisplayPort auf DisplayPort Kabel | 2 m" data-product-id="6800" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772300">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/i/displayport_auf_displayport_1_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DisplayPort auf DisplayPort Kabel | 2 m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/i/displayport_auf_displayport_1_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DisplayPort auf DisplayPort Kabel | 2 m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -7906,7 +8252,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6800">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6800">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -7942,8 +8288,10 @@
 																							 data-product-name="DisplayPort auf DisplayPort Kabel | 3 m" data-product-id="6801" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772301">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/i/displayport_auf_displayport_1_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DisplayPort auf DisplayPort Kabel | 3 m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/i/displayport_auf_displayport_1_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DisplayPort auf DisplayPort Kabel | 3 m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -7954,7 +8302,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6801">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6801">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8002,8 +8350,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772302">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/mini-displayport_auf_displayport_8.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Mini-DisplayPort auf DisplayPort Kabel | 1 m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/mini-displayport_auf_displayport_8.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Mini-DisplayPort auf DisplayPort Kabel | 1 m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8014,7 +8364,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6802">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6802">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8057,8 +8407,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772304">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/mini-displayport_auf_displayport_6.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Mini-DisplayPort auf DisplayPort Kabel | 3 m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/mini-displayport_auf_displayport_6.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Mini-DisplayPort auf DisplayPort Kabel | 3 m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8069,7 +8421,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6804">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6804">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8122,8 +8474,10 @@
 																							 data-product-name="DisplayPort auf HDMI-A Kabel | 1 m" data-product-id="6805" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772305">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/8/5/85316_1_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DisplayPort auf HDMI-A Kabel | 1 m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/8/5/85316_1_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DisplayPort auf HDMI-A Kabel | 1 m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8134,7 +8488,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6805">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6805">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8170,8 +8524,10 @@
 																							 data-product-name="DisplayPort auf HDMI-A Kabel | 2 m" data-product-id="8021" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772320">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/8/5/85316_1_1_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DisplayPort auf HDMI-A Kabel | 2 m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/8/5/85316_1_1_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DisplayPort auf HDMI-A Kabel | 2 m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8182,7 +8538,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8021">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8021">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8229,8 +8585,10 @@
 																							 data-product-name="HDMI-A auf HDMI-A Kabel | 1 m" data-product-id="6790" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772298">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-a_auf_hdmi-a_6.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HDMI-A auf HDMI-A Kabel | 1 m" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-a_auf_hdmi-a_6.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HDMI-A auf HDMI-A Kabel | 1 m" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8241,7 +8599,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6790">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6790">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8277,8 +8635,10 @@
 																							 data-product-name="HDMI-A auf HDMI-A Kabel | 2 m" data-product-id="6777" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772290">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-a_auf_hdmi-a_8.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HDMI-A auf HDMI-A Kabel | 2 m" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-a_auf_hdmi-a_8.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HDMI-A auf HDMI-A Kabel | 2 m" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8291,7 +8651,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6777">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6777">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8327,8 +8687,10 @@
 																							 data-product-name="HDMI-A auf HDMI-A Kabel | 3 m" data-product-id="6778" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772291">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-a_auf_hdmi-a_7.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HDMI-A auf HDMI-A Kabel | 3 m" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-a_auf_hdmi-a_7.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HDMI-A auf HDMI-A Kabel | 3 m" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8339,7 +8701,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6778">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6778">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8387,8 +8749,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772292">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-c_auf_hdmi-a_8.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HDMI-C (Mini-HDMI) auf HDMI-A Kabel | 1 m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-c_auf_hdmi-a_8.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HDMI-C (Mini-HDMI) auf HDMI-A Kabel | 1 m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8399,7 +8763,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6780">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6780">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8442,8 +8806,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772293">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-c_auf_hdmi-a_7.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HDMI-C (Mini-HDMI) auf HDMI-A Kabel | 2 m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-c_auf_hdmi-a_7.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HDMI-C (Mini-HDMI) auf HDMI-A Kabel | 2 m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8454,7 +8820,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6781">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6781">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8497,8 +8863,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772294">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-c_auf_hdmi-a_6.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HDMI-C (Mini-HDMI) auf HDMI-A Kabel | 3 m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-c_auf_hdmi-a_6.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HDMI-C (Mini-HDMI) auf HDMI-A Kabel | 3 m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8509,7 +8877,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6782">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6782">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8563,8 +8931,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772295">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-d_auf_hdmi-a_8.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HDMI-D (Micro-HDMI) auf HDMI-A Kabel | 1 m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-d_auf_hdmi-a_8.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HDMI-D (Micro-HDMI) auf HDMI-A Kabel | 1 m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8575,7 +8945,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6785">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6785">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8618,8 +8988,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772296">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-d_auf_hdmi-a_7.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HDMI-D (Micro-HDMI) auf HDMI-A Kabel | 2 m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-d_auf_hdmi-a_7.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HDMI-D (Micro-HDMI) auf HDMI-A Kabel | 2 m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8630,7 +9002,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6786">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6786">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8673,8 +9045,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772297">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-d_auf_hdmi-a_6.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HDMI-D (Micro-HDMI) auf HDMI-A Kabel | 3 m"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-d_auf_hdmi-a_6.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HDMI-D (Micro-HDMI) auf HDMI-A Kabel | 3 m"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8685,7 +9059,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6787">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6787">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8738,8 +9112,10 @@
 																							 data-product-name="DVI-I auf DVI-I Dual Link Kabel | 1 m " data-product-id="6808" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772307">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/v/dvi-i_auf_dvi-i_9.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DVI-I auf DVI-I Dual Link Kabel | 1 m "
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/v/dvi-i_auf_dvi-i_9.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DVI-I auf DVI-I Dual Link Kabel | 1 m "
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8750,7 +9126,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6808">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6808">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8792,8 +9168,10 @@
 																							 data-product-name="DVI-I auf DVI-I Dual Link Kabel | 3 m " data-product-id="6810" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772309">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/v/dvi-i_auf_dvi-i_7.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DVI-I auf DVI-I Dual Link Kabel | 3 m "
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/v/dvi-i_auf_dvi-i_7.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DVI-I auf DVI-I Dual Link Kabel | 3 m "
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8804,7 +9182,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6810">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6810">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8857,8 +9235,10 @@
 																							 data-product-name="DVI-D auf DVI-D Dual Link Kabel | 2 m " data-product-id="6812" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772311">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/v/dvi-d_auf_dvi-d_4.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DVI-D auf DVI-D Dual Link Kabel | 2 m "
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/v/dvi-d_auf_dvi-d_4.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DVI-D auf DVI-D Dual Link Kabel | 2 m "
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8869,7 +9249,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6812">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6812">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8911,8 +9291,10 @@
 																							 data-product-name="DVI-D auf DVI-D Dual Link Kabel | 3 m " data-product-id="6813" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772312">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/v/dvi-d_auf_dvi-d_3.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DVI-D auf DVI-D Dual Link Kabel | 3 m "
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/v/dvi-d_auf_dvi-d_3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DVI-D auf DVI-D Dual Link Kabel | 3 m "
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8923,7 +9305,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6813">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6813">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -8976,8 +9358,10 @@
 																							 data-product-name="DVI-D auf HDMI-A Kabel | 3 m " data-product-id="6818" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83893-8772316">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/v/dvi-d_auf_hdmi-a_4.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DVI-D auf HDMI-A Kabel | 3 m " width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/d/v/dvi-d_auf_hdmi-a_4.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DVI-D auf HDMI-A Kabel | 3 m " width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -8988,7 +9372,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6818">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6818">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9040,7 +9424,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/interface_card_icon_30x23_2.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -9057,7 +9442,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -9097,8 +9483,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83898-8772396">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/5/0/5099206064027.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Logitech - BC925e Pro Stream | FHD-30FPS, AF"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/5/0/5099206064027.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Logitech - BC925e Pro Stream | FHD-30FPS, AF"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9109,7 +9497,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8460">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8460">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9138,8 +9526,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83898-8772394">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/9/c922_pro_stream2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Logitech - BC922 Pro Stream | FHD-30FPS, AF"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/9/c922_pro_stream2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Logitech - BC922 Pro Stream | FHD-30FPS, AF"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9150,7 +9540,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8310">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8310">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9178,8 +9568,10 @@
 																							 data-product-name="Creative - BlasterX Senz3D | FHD-30FPS" data-product-id="8311" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83898-8772395">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/r/creative_blasterx_senz3d2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Creative - BlasterX Senz3D | FHD-30FPS"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/r/creative_blasterx_senz3d2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Creative - BlasterX Senz3D | FHD-30FPS"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9190,7 +9582,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8311">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8311">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9235,7 +9627,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/headset_icon_30x23_1.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -9252,7 +9645,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -9306,8 +9700,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8838200">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/a/ca-9011154-eu_5.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - Gaming VOID Pro | 7.1 Surround, USB, Refurbished"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/a/ca-9011154-eu_5.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming VOID Pro | 7.1 Surround, USB, Refurbished"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9320,7 +9716,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9044">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9044">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9366,8 +9762,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772082">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/s/gsp300.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sennheiser - GSP 300 schwarz/blau | Stereo, Klinke"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/s/gsp300.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sennheiser - GSP 300 schwarz/blau | Stereo, Klinke"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9378,7 +9776,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7317">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7317">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9406,8 +9804,10 @@
 																							 data-product-name="Sennheiser - GSP 500 | Stereo, Klinke" data-product-id="7747" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772090">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/s/gsp_500.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sennheiser - GSP 500 | Stereo, Klinke"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/s/gsp_500.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sennheiser - GSP 500 | Stereo, Klinke"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9418,7 +9818,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7747">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7747">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9446,8 +9846,10 @@
 																							 data-product-name="Sennheiser - GSP 600 | Stereo, Klinke" data-product-id="7510" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772087">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/s/gsp_600.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sennheiser - GSP 600 | Stereo, Klinke"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/s/gsp_600.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sennheiser - GSP 600 | Stereo, Klinke"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9460,7 +9862,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7510">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7510">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9499,8 +9901,10 @@
 																							 data-product-name="Sennheiser - PC 2 Chat | Klinke" data-product-id="7319" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772083">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/c/pc_2_chat.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sennheiser - PC 2 Chat | Klinke" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/c/pc_2_chat.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sennheiser - PC 2 Chat | Klinke" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9511,7 +9915,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7319">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7319">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9539,8 +9943,10 @@
 																							 data-product-name="Sennheiser - PC 3 Chat | Klinke" data-product-id="7320" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772084">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/c/pc_3_chat.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sennheiser - PC 3 Chat | Klinke" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/c/pc_3_chat.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sennheiser - PC 3 Chat | Klinke" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9551,7 +9957,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7320">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7320">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9579,8 +9985,10 @@
 																							 data-product-name="Sennheiser - PC 7 | USB" data-product-id="7321" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772085">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/c/pc_7.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sennheiser - PC 7 | USB" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/c/pc_7.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sennheiser - PC 7 | USB" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9591,7 +9999,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7321">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7321">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9625,8 +10033,10 @@
 																							 data-product-name="Sennheiser - PC 8 | USB" data-product-id="7322" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772086">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/c/pc_8.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sennheiser - PC 8 | USB" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/c/pc_8.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sennheiser - PC 8 | USB" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9637,7 +10047,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7322">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7322">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9676,8 +10086,10 @@
 																							 data-product-name="Sennheiser - HD 569 | Stereo, Klinke" data-product-id="8714" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772100">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hd569.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sennheiser - HD 569 | Stereo, Klinke"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hd569.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sennheiser - HD 569 | Stereo, Klinke"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9688,7 +10100,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8714">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8714">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9722,8 +10134,10 @@
 																							 data-product-name="Sennheiser - HD 25 | Stereo, Klinke" data-product-id="8318" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772096">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hd25.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Sennheiser - HD 25 | Stereo, Klinke"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/d/hd25.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Sennheiser - HD 25 | Stereo, Klinke"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9734,7 +10148,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8318">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8318">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9774,8 +10188,10 @@
 																							 data-product-name="Corsair - Gaming HS-50 | Stereo, Klinke" data-product-id="7554" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772088">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_gaming_hs-50_schwarz.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - Gaming HS-50 | Stereo, Klinke"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_gaming_hs-50_schwarz.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming HS-50 | Stereo, Klinke"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9786,7 +10202,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7554">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7554">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9821,8 +10237,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772089">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_gaming_hs-60.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - Gaming HS-60 | 7.1 Surround, USB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/o/corsair_gaming_hs-60.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming HS-60 | 7.1 Surround, USB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9833,7 +10251,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7641">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7641">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9868,8 +10286,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772079">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/a/ca-9011156-eu.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - Gaming VOID Pro | 7.1 Surround, USB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/a/ca-9011156-eu.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming VOID Pro | 7.1 Surround, USB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9882,7 +10302,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6946">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6946">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9917,8 +10337,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772078">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/a/ca-9011154-eu.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - Gaming VOID Pro | 7.1 Surround, USB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/a/ca-9011154-eu.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming VOID Pro | 7.1 Surround, USB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9931,7 +10353,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6945">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6945">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -9966,8 +10388,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772080">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/a/ca-9011152-eu.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - Gaming VOID Pro | 7.1 Surround, Wireless"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/a/ca-9011152-eu.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - Gaming VOID Pro | 7.1 Surround, Wireless"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -9978,7 +10402,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6947">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6947">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10012,8 +10436,10 @@
 																							 data-product-name="Corsair - HS70 | 7.1 Surround, Wireless" data-product-id="8458" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772098">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1825710-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair - HS70 | 7.1 Surround, Wireless"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1825710-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair - HS70 | 7.1 Surround, Wireless"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10026,7 +10452,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8458">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8458">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10072,8 +10498,10 @@
 																							 data-product-name="ASUS - Strix 2.0 | Stereo, Klinke" data-product-id="2699" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772075">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="img/customizer-items/thumbs/1_8_33.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="ASUS - Strix 2.0 | Stereo, Klinke"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_8_33.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="ASUS - Strix 2.0 | Stereo, Klinke"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10084,7 +10512,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2699">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2699">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10119,8 +10547,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772091">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/s/asus_rog_strix_fusion_5004.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="ASUS - ROG Strix Fusion 500 | 7.1 Surround, USB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/a/s/asus_rog_strix_fusion_5004.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="ASUS - ROG Strix Fusion 500 | 7.1 Surround, USB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10133,7 +10563,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7779">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7779">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10168,8 +10598,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772077">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="img/customizer-items/thumbs/1_36_39.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="ASUS - Strix 7.1 Gaming Headset | 7.1 Surround, USB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_36_39.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="ASUS - Strix 7.1 Gaming Headset | 7.1 Surround, USB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10180,7 +10612,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="5703">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="5703">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10225,8 +10657,10 @@
 																							 data-product-name=" MSI - Immerse GH60 | Klinke" data-product-id="7847" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772094">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/h/gh60.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt=" MSI - Immerse GH60 | Klinke" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/h/gh60.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt=" MSI - Immerse GH60 | Klinke" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10237,7 +10671,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7847">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7847">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10282,8 +10716,10 @@
 																							 data-product-name="Logitech - G430 schwarz-blau | USB" data-product-id="8865" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83885-8772101">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/9/4/945985-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Logitech - G430 schwarz-blau | USB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/9/4/945985-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Logitech - G430 schwarz-blau | USB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10294,7 +10730,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8865">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8865">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10339,7 +10775,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/C_Users_k.mallas_AppData_Local_Packages_Microsoft.SkypeApp_kzf8qxf38zg5c_LocalState_b9ccbe3e-1fed-4a7f-927e-e72a8f4fa368.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -10356,7 +10793,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -10403,8 +10841,10 @@
 																							 data-product-name="HTC - Vive VR Headset " data-product-id="9099" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-84941-9014122">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/t/htc_99haln002_00_vive_vr_system_1337110.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HTC - Vive VR Headset " width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/t/htc_99haln002_00_vive_vr_system_1337110.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HTC - Vive VR Headset " width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10415,7 +10855,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9099">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9099">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10451,8 +10891,10 @@
 																							 data-product-name="HTC - Vive VR Pro Headset (nur Brille)" data-product-id="9107" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-84941-9014078">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/2/1239184-n0_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HTC - Vive VR Pro Headset (nur Brille)"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/2/1239184-n0_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HTC - Vive VR Pro Headset (nur Brille)"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10463,7 +10905,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9107">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9107">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10500,8 +10942,10 @@
 																							 disabled="disabled">
 																							<label class="configurator-article__label" for="bundle-option-84941-8999501">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/t/htc-vive-pro-full-kit.png"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HTC - Vive Pro Complete Edition" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/t/htc-vive-pro-full-kit.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HTC - Vive Pro Complete Edition" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10512,7 +10956,7 @@
 																								</span>
 																								<span class="out-of-stock">Nicht verfügbar</span>
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9114">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9114">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10559,8 +11003,10 @@
 																							 data-product-name="Oculus - Rift Touch Bundle" data-product-id="9131" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-84941-9117730">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/2/123123123123123.png"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Oculus - Rift Touch Bundle" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/2/123123123123123.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Oculus - Rift Touch Bundle" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10571,7 +11017,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9131">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9131">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10617,7 +11063,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/C_Users_k.mallas_AppData_Local_Packages_Microsoft.SkypeApp_kzf8qxf38zg5c_LocalState_fabc7e7d-61df-4d89-b968-1be6443fdd27.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -10634,7 +11081,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -10672,8 +11120,10 @@
 																							 data-product-name="HTC - Anschlussbox für Vive" data-product-id="9178" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-85972-9357911">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1546274-n0_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HTC - Anschlussbox für Vive" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1546274-n0_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HTC - Anschlussbox für Vive" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10684,7 +11134,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9178">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9178">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10720,8 +11170,10 @@
 																							 data-product-name="HTC - 3-in-1-Kabel für Vive" data-product-id="9177" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-85972-9357910">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1546279-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HTC - 3-in-1-Kabel für Vive" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1546279-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HTC - 3-in-1-Kabel für Vive" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10732,7 +11184,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9177">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9177">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10768,8 +11220,10 @@
 																							 data-product-name="HTC - Vive Deluxe Audio Strap" data-product-id="9180" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-85972-9357913">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1584720-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HTC - Vive Deluxe Audio Strap" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1584720-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HTC - Vive Deluxe Audio Strap" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10780,7 +11234,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9180">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9180">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10816,8 +11270,10 @@
 																							 data-product-name="HTC - Vive Tracker" data-product-id="9181" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-85972-9357914">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1614862-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HTC - Vive Tracker" width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1614862-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HTC - Vive Tracker" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -10827,7 +11283,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9181">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9181">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10864,8 +11320,10 @@
 																							 disabled="disabled">
 																							<label class="configurator-article__label" for="bundle-option-85972-9357909">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1546269-n0_1_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HTC - Basisstation für Vive" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/5/1546269-n0_1_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HTC - Basisstation für Vive" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10876,7 +11334,7 @@
 																								</span>
 																								<span class="out-of-stock">Nicht verfügbar</span>
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9164">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9164">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10913,8 +11371,10 @@
 																							 disabled="disabled">
 																							<label class="configurator-article__label" for="bundle-option-85972-9357915">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1751362-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="HTC - Vive Wireless Adapter" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1751362-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="HTC - Vive Wireless Adapter" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -10925,7 +11385,7 @@
 																								</span>
 																								<span class="out-of-stock">Nicht verfügbar</span>
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9182">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9182">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -10978,7 +11438,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/gaming_stuehle_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -10995,7 +11456,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -11034,8 +11496,10 @@
 																							 data-product-name="Corsair T2 Road Warrior | schwarz" data-product-id="8158" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83904-10751961">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/t/2/t23.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair T2 Road Warrior | schwarz"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/t/2/t23.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair T2 Road Warrior | schwarz"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11046,7 +11510,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8158">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8158">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11080,8 +11544,10 @@
 																							 data-product-name="Corsair T2 Road Warrior | schwarz/weiß" data-product-id="8162" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83904-8772418">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/t/2/t23_4.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair T2 Road Warrior | schwarz/weiß"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/t/2/t23_4.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair T2 Road Warrior | schwarz/weiß"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11092,7 +11558,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8162">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8162">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11126,8 +11592,10 @@
 																							 data-product-name="Corsair T2 Road Warrior | schwarz/rot" data-product-id="8160" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83904-10751962">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/t/2/t23_3.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair T2 Road Warrior | schwarz/rot"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/t/2/t23_3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair T2 Road Warrior | schwarz/rot"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11138,7 +11606,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8160">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8160">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11177,8 +11645,10 @@
 																							 data-product-name="Nitro Concepts E220 | schwarz/rot" data-product-id="7842" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83904-8772414">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/e/2/e220_evo_gaming_stuhl_-_schwarz-rot10.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Nitro Concepts E220 | schwarz/rot"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/e/2/e220_evo_gaming_stuhl_-_schwarz-rot10.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Nitro Concepts E220 | schwarz/rot"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11189,7 +11659,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7842">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7842">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11217,8 +11687,10 @@
 																							 data-product-name="Nitro Concepts S300 | schwarz/weiß" data-product-id="7885" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83904-8772416">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/3/s3004.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Nitro Concepts S300 | schwarz/weiß"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/3/s3004.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Nitro Concepts S300 | schwarz/weiß"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11229,7 +11701,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7885">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7885">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11269,8 +11741,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83904-8772422">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/h/ohfd01ng.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DXRacer Formula F01 Gamingstuhl |  schwarz/grau"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/h/ohfd01ng.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DXRacer Formula F01 Gamingstuhl |  schwarz/grau"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11281,7 +11755,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8875">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8875">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11310,8 +11784,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83904-8772421">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/h/ohfd01nr-i.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DXRacer Formula F01 Gamingstuhl |  schwarz/rot"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/h/ohfd01nr-i.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DXRacer Formula F01 Gamingstuhl |  schwarz/rot"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11322,7 +11798,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8874">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8874">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11351,8 +11827,10 @@
 																							 autocomplete="off" disabled="disabled">
 																							<label class="configurator-article__label" for="bundle-option-83904-8772419">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/h/ohfe08nr-a.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DXRacer Formula F08 Gamingstuhl |  schwarz/rot"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/h/ohfe08nr-a.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DXRacer Formula F08 Gamingstuhl |  schwarz/rot"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11363,7 +11841,7 @@
 																								</span>
 																								<span class="out-of-stock">Nicht verfügbar</span>
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8870">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8870">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11392,8 +11870,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83904-8772420">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/h/ohfe08nw-c.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DXRacer Formula F08 Gamingstuhl |  schwarz/weiß"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/h/ohfe08nw-c.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DXRacer Formula F08 Gamingstuhl |  schwarz/weiß"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11404,7 +11884,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8873">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8873">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11433,8 +11913,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83904-9340643">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/h/oh-rz101-n-a.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DXRacer Racing FC BAYERN EDITION Gamingstuhl | schwarz"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/h/oh-rz101-n-a.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DXRacer Racing FC BAYERN EDITION Gamingstuhl | schwarz"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11447,7 +11929,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9183">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9183">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11476,8 +11958,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83904-9343046">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/h/oh-ks20-n-a.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="DXRacer King FC BAYERN EDITION Gamingstuhl | schwarz"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/o/h/oh-ks20-n-a.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="DXRacer King FC BAYERN EDITION Gamingstuhl | schwarz"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11490,7 +11974,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9184">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9184">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11528,7 +12012,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/gaming_stuehle_icon_30x23_1.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -11545,7 +12030,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -11584,8 +12070,10 @@
 																							 data-product-name="FlorPad Beast Zone | rot" data-product-id="9254" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-87657-9936775">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/e/beastzone-1-600x600.png"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="FlorPad Beast Zone | rot" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/e/beastzone-1-600x600.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="FlorPad Beast Zone | rot" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11596,7 +12084,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9254">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9254">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11632,8 +12120,10 @@
 																							 data-product-name="FlorPad Chill Zone | blau" data-product-id="9274" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-87657-9936776">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/h/chillzone-600x600.png"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="FlorPad Chill Zone | blau" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/c/h/chillzone-600x600.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="FlorPad Chill Zone | blau" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11644,7 +12134,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9274">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9274">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11680,8 +12170,10 @@
 																							 data-product-name="FlorPad Ninja Zone | schwarz-rot" data-product-id="9277" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-87657-11110969">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/n/i/ninjazone-600x600.png"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="FlorPad Ninja Zone | schwarz-rot"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/n/i/ninjazone-600x600.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="FlorPad Ninja Zone | schwarz-rot"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -11692,7 +12184,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9277">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9277">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -11728,8 +12220,10 @@
 																							 data-product-name="FlorPad HyperBeast" data-product-id="9275" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-87657-9936777">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/y/hyperbeast.png"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="FlorPad HyperBeast" width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/h/y/hyperbeast.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="FlorPad HyperBeast" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -11739,7 +12233,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9275">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9275">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">

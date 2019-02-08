@@ -17,7 +17,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/windows_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -34,7 +35,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product">AeroCool - Aero-500 Black Edition</div>
 																				</div>
@@ -43,7 +45,8 @@
 																		<div class="configurator-catalog grid-view">
 																			<div class="configurator-articles__banner">
 																				<a href="#" class="configurator-articles__banner-link">
-																					<img src="img/customizer-items/thumbs/Aplus_Systemstick_config_banner.jpg" alt="" class="configurator-articles__banner-img">
+																					<img src="img/customizer-items/thumbs/Aplus_Systemstick_config_banner.jpg" 
+																					alt="" class="configurator-articles__banner-img">
 																				</a>
 																			</div>
 																			<div class="configurator-catalog__tools">
@@ -78,8 +81,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83862-8771699">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/i/bild_01.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/i/bild_01.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/i/bild_01.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Windows 10 Home 64 Bit, DE | inkl. A+ Systemstick" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -92,7 +97,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7623">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7623">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -129,8 +134,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83862-8771700">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/i/bild_01_1.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/i/bild_01_1.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/i/bild_01_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Windows 10 Pro 64 Bit, DE | inkl. A+ Systemstick" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -143,7 +150,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7625">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7625">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -192,8 +199,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83862-8771697">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft_windows_10_home_edit_2.png"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft_windows_10_home_edit_2.png"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft_windows_10_home_edit_2.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Windows 10 Home 64 Bit, DE | inkl. A+ UEFI-Installation" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -204,7 +213,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2039">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2039">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -241,8 +250,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83862-8771698">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft_windows_10_pro_edit.png"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft_windows_10_pro_edit.png"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft_windows_10_pro_edit.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Windows 10 Pro 64 Bit, DE | inkl. A+ UEFI-Installation" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -253,7 +264,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2040">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2040">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -299,7 +310,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/antivirus_security_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -316,7 +328,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product">AeroCool - Aero-500 Black Edition</div>
 																				</div>
@@ -355,8 +368,10 @@
 																							 data-product-name="Kaspersky AntiVirus 2019 | 1x PC" data-product-id="8732" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83869-8771805">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1674058-n0_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Kaspersky AntiVirus 2019 | 1x PC"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1674058-n0_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Kaspersky AntiVirus 2019 | 1x PC"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -367,7 +382,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8732">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8732">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -403,8 +418,10 @@
 																							 data-product-name="Kaspersky Internet Security 2019 | 3xPC" data-product-id="8734" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83869-8771807">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/i/n/internet_2018_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Kaspersky Internet Security 2019 | 3xPC"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/i/n/internet_2018_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Kaspersky Internet Security 2019 | 3xPC"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -415,7 +432,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8734">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8734">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -451,8 +468,10 @@
 																							 data-product-name="Kaspersky Total Security 2019 | 1x PC" data-product-id="8733" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83869-8771806">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/t/o/total2018_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Kaspersky Total Security 2019 | 1x PC"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/t/o/total2018_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Kaspersky Total Security 2019 | 1x PC"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -463,7 +482,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8733">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8733">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -509,7 +528,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/office_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -526,7 +546,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product">AeroCool - Aero-500 Black Edition</div>
 																				</div>
@@ -566,8 +587,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83879-8772032">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft_office_home_business_2016_edit.png"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Microsoft Office 2019 Home &amp; Business | 1 User"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft_office_home_business_2016_edit.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Microsoft Office 2019 Home &amp; Business | 1 User"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -578,7 +601,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="691">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="691">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -615,8 +638,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83879-8772031">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft_office_home_student_2016_edit.png"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Microsoft Office 2019 Home &amp; Student | 1 User"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft_office_home_student_2016_edit.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Microsoft Office 2019 Home &amp; Student | 1 User"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -627,7 +652,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="690">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="690">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -675,8 +700,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83879-8772034">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft_office_365_home_edit.png"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Microsoft Office 365 Home | 5 User, 1 Jahr"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/microsoft_office_365_home_edit.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Microsoft Office 365 Home | 5 User, 1 Jahr"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -687,7 +714,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="693">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="693">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -740,7 +767,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/garantie_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -758,7 +786,8 @@
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
 																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/icon_3years_warranty_4.png"
-																					 alt="">
+																					 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product">3 Jahre Garantie | inkl. Pick-Up &amp;
 																						Return</div>
@@ -791,8 +820,10 @@
 																					 autocomplete="off" checked="checked">
 																					<label class="configurator-article__label" for="bundle-option-83863-8771701">
 																						<span class="configurator-article-pic">
-																							<img class="configurator-article-pic__image options-lazy-img" data-original="img/customizer-items/thumbs/icon_3years_warranty_4.png"
-																							 src="img/customizer-items/thumbs/small_image.jpg" alt="3 Jahre Garantie | inkl. Pick-Up &amp; Return"
+																							<img class="configurator-article-pic__image options-lazy-img" 
+																							data-original="img/customizer-items/thumbs/icon_3years_warranty_4.png"
+																							 src="img/customizer-items/thumbs/small_image.jpg" 
+																							 alt="3 Jahre Garantie | inkl. Pick-Up &amp; Return"
 																							 width="133" style="display: block;">
 																						</span>
 																						<span class="configurator-article-title">
@@ -803,7 +834,7 @@
 																						</span>
 
 																					</label>
-																					<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="1181">
+																					<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="1181">
 																						<span>[Details]</span>
 																					</span>
 																					<span class="price-notice">
@@ -836,8 +867,10 @@
 																					 autocomplete="off">
 																					<label class="configurator-article__label" for="bundle-option-83863-8771702">
 																						<span class="configurator-article-pic">
-																							<img class="configurator-article-pic__image options-lazy-img" data-original="img/customizer-items/thumbs/icon_4years_warranty_4.png"
-																							 src="img/customizer-items/thumbs/small_image.jpg" alt="3 Jahre Garantie | inkl. Pick-Up &amp; Return"
+																							<img class="configurator-article-pic__image options-lazy-img" 
+																							data-original="img/customizer-items/thumbs/icon_4years_warranty_4.png"
+																							 src="img/customizer-items/thumbs/small_image.jpg" 
+																							 alt="3 Jahre Garantie | inkl. Pick-Up &amp; Return"
 																							 width="133" style="display: block;">
 																						</span>
 																						<span class="configurator-article-title">
@@ -848,7 +881,7 @@
 																						</span>
 
 																					</label>
-																					<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="1181">
+																					<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="1181">
 																						<span>[Details]</span>
 																					</span>
 																					<span class="price-notice">
@@ -881,8 +914,10 @@
 																					 autocomplete="off">
 																					<label class="configurator-article__label" for="bundle-option-83863-8771703">
 																						<span class="configurator-article-pic">
-																							<img class="configurator-article-pic__image options-lazy-img" data-original="img/customizer-items/thumbs/icon_5years_warranty_3.png"
-																							 src="img/customizer-items/thumbs/small_image.jpg" alt="3 Jahre Garantie | inkl. Pick-Up &amp; Return"
+																							<img class="configurator-article-pic__image options-lazy-img" 
+																							data-original="img/customizer-items/thumbs/icon_5years_warranty_3.png"
+																							 src="img/customizer-items/thumbs/small_image.jpg" 
+																							 alt="3 Jahre Garantie | inkl. Pick-Up &amp; Return"
 																							 width="133" style="display: block;">
 																						</span>
 																						<span class="configurator-article-title">
@@ -893,7 +928,7 @@
 																						</span>
 
 																					</label>
-																					<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="1181">
+																					<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="1181">
 																						<span>[Details]</span>
 																					</span>
 																					<span class="price-notice">

@@ -47,9 +47,7 @@ gulp.task('scripts', function() {
 		'app/js/app_js/App.js',
 		'app/js/app_js/App.main-nav.js',
 		'app/js/app_js/App.configurator.js',
-		'app/js/app_js/App.bundle.description.js',
-		'app/js/app_js/App.customizer.js',
-		'app/js/app_js/App.footer.js',
+		'app/js/app_js/FooterMobileAccordion.js',
 		])
 	.pipe(wait(100))
 	.pipe(concat('scripts.min.js'))

@@ -98,7 +98,7 @@ var App_nav = (function($) {
     function _init() {
 		takeHeaderHeight();
 		
-		if ( WINDOW_WIDTH < 992 )
+		if ( Body.hasClass('body-tablet') )
 		{
 			initMobileDefaultHandlers();
 		}
@@ -117,22 +117,22 @@ var App_nav = (function($) {
 	}
 
 	window.addEventListener('scroll', function(){		
-		if ( WINDOW_WIDTH < 768 ) {
+		if ( Body.hasClass('body-mobile') ) {
 			clearTimeout(resizeTimeOut);
 			resizeTimeOut = setTimeout( resizeMobileFunctions, 100);
 		}
 	});
 
 	window.addEventListener('resize', function(e){
-		if ( WINDOW_WIDTH > 991 )
+		if ( Body.hasClass('body-tablet') )
 		{
 			clearTimeout(resizeTimeOut);
-			resizeTimeOut = setTimeout( resizePcFunctions, 100);
+			resizeTimeOut = setTimeout( resizeMobileFunctions, 100);
 		}
 		else
 		{
 			clearTimeout(resizeTimeOut);
-			resizeTimeOut = setTimeout( resizeMobileFunctions, 100);
+			resizeTimeOut = setTimeout( resizePcFunctions, 100);
 		}
 	});
 

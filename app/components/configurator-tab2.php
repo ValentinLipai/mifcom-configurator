@@ -16,7 +16,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/cpu_fan_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -34,7 +35,8 @@
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
 																					<img class="configurator-sidebar__img" src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/u/n/unbenannt-2_1.jpg"
-																					 alt="">
+																					 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product">Xilence M403 | 92mm PWM-Lüfter,
 																						MIFCOM-Edition</div>
@@ -44,7 +46,8 @@
 																		<div class="configurator-catalog grid-view">
 																			<div class="configurator-articles__banner">
 																				<a href="#" class="configurator-articles__banner-link">
-																					<img src="img/customizer-items/thumbs/be-quiet_-Dark-Rock.jpg" alt="" class="configurator-articles__banner-img">
+																					<img src="img/customizer-items/thumbs/be-quiet_-Dark-Rock.jpg" 
+																					alt="" class="configurator-articles__banner-img">
 																				</a>
 																			</div>
 																			<div class="configurator-catalog__tools">
@@ -92,8 +95,10 @@
 																							 autocomplete="off" checked="checked">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771711">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/u/n/unbenannt-2_1.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/u/n/unbenannt-2_1.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/u/n/unbenannt-2_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Xilence M403 | 92mm PWM-Lüfter, MIFCOM-Edition" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -106,7 +111,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="5370">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="5370">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -137,8 +142,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771704">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/x/i/xilence_i250_3.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/x/i/xilence_i250_3.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/x/i/xilence_i250_3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Xilence I250 | 92mm PWM-Lüfter, MIFCOM-Edition" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -149,7 +156,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="226">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="226">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -182,8 +189,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771710">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="img/customizer-items/thumbs/1_13_22.jpg"
-																									 src="img/customizer-items/thumbs/1_13_22.jpg" alt="be quiet! Pure Rock Slim | 92mm PWM-Lüfter"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_13_22.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="be quiet! Pure Rock Slim | 92mm PWM-Lüfter"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -196,7 +205,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="5356">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="5356">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -210,7 +219,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/option-tag-silent.png" alt="Silent Icon" title="Silent Icon">
+																										<img src="https://www.mifcom.de/media/option-tag-silent.png" 
+																										alt="Silent Icon" title="Silent Icon">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -229,8 +239,10 @@
 																							 data-product-name="Xilence M704 | 120mm PWM-RGB Lüfter" data-product-id="8269" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771728">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/u/n/unbenannt-1.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/u/n/unbenannt-1.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/u/n/unbenannt-1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Xilence M704 | 120mm PWM-RGB Lüfter" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -241,7 +253,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8269">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8269">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -273,8 +285,10 @@
 																							 data-product-name="be quiet! Pure Rock | 120mm PWM-Lüfter" data-product-id="6467" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771715">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="img/customizer-items/thumbs/1_37_15.jpg"
-																									 src="img/customizer-items/thumbs/1_37_15.jpg" alt="be quiet! Pure Rock | 120mm PWM-Lüfter"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_37_15.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="be quiet! Pure Rock | 120mm PWM-Lüfter"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -285,7 +299,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6467">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6467">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -299,7 +313,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/option-tag-silent.png" alt="Silent Icon" title="Silent Icon">
+																										<img src="https://www.mifcom.de/media/option-tag-silent.png" 
+																										alt="Silent Icon" title="Silent Icon">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -319,8 +334,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771727">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/u/n/unbenannt-3.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/u/n/unbenannt-3.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/u/n/unbenannt-3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Arctic Freezer 33 eSports Edition rot | 2x 120mm PWM-Lüfter" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -331,7 +348,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8064">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8064">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -364,8 +381,10 @@
 																							 autocomplete="off" disabled="disabled">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771712">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="img/customizer-items/thumbs/1_13_49.jpg"
-																									 src="img/customizer-items/thumbs/1_13_49.jpg" alt="Scythe Mugen 5 Rev. B | 120mm PWM-Lüfter"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_13_49.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Scythe Mugen 5 Rev. B | 120mm PWM-Lüfter"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -378,7 +397,7 @@
 																								</span>
 																								<span class="out-of-stock">Nicht verfügbar</span>
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="5393">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="5393">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -392,10 +411,12 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/option-tag-silent.png" alt="Silent Icon" title="Silent Icon">
+																										<img src="https://www.mifcom.de/media/option-tag-silent.png" 
+																										alt="Silent Icon" title="Silent Icon">
 																									</li>
 																									<li class="b-tag-postion-2">
-																										<img src="https://www.mifcom.de/media/Icon_OC.png" alt="Für Overclocking geeignet." title="Für Overclocking geeignet.">
+																										<img src="https://www.mifcom.de/media/Icon_OC.png" 
+																										alt="Für Overclocking geeignet." title="Für Overclocking geeignet.">
 																									</li>
 																								</ul>
 
@@ -412,8 +433,10 @@
 																							 data-product-name="Alpenföhn Brocken 3 | 140mm PWM-Lüfter" data-product-id="7883" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771726">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1675194-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1675194-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1675194-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Alpenföhn Brocken 3 | 140mm PWM-Lüfter" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -426,7 +449,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7883">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7883">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -440,7 +463,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/option-tag-silent.png" alt="Silent Icon" title="Silent Icon">
+																										<img src="https://www.mifcom.de/media/option-tag-silent.png" 
+																										alt="Silent Icon" title="Silent Icon">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -459,8 +483,10 @@
 																							 data-product-name="Jonsbo CR-201 RGB | 120mm PWM-Lüfter" data-product-id="7632" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771716">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1720069-n2.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1720069-n2.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1720069-n2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Jonsbo CR-201 RGB | 120mm PWM-Lüfter" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -473,7 +499,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7632">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7632">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -506,8 +532,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771720">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1794867-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1794867-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1794867-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="be quiet! Dark Rock 4 | 135mm PWM-Lüfter" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -518,7 +546,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7872">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7872">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -532,7 +560,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/option-tag-silent.png" alt="Silent Icon" title="Silent Icon">
+																										<img src="https://www.mifcom.de/media/option-tag-silent.png" 
+																										alt="Silent Icon" title="Silent Icon">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -552,8 +581,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771736">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1880475-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1880475-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1880475-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Alpenföhn Brocken 3 Black Edition | 2x140mm PWM-Lüfter" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -566,7 +597,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8939">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8939">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -580,7 +611,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/option-tag-silent.png" alt="Silent Icon" title="Silent Icon">
+																										<img src="https://www.mifcom.de/media/option-tag-silent.png" 
+																										alt="Silent Icon" title="Silent Icon">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -600,8 +632,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771735">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1880505-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1880505-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1880505-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Alpenföhn Brocken 3 White Edition | 2x140mm PWM-Lüfter" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -614,7 +648,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8938">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8938">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -628,7 +662,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/option-tag-silent.png" alt="Silent Icon" title="Silent Icon">
+																										<img src="https://www.mifcom.de/media/option-tag-silent.png" 
+																										alt="Silent Icon" title="Silent Icon">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -648,8 +683,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771721">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1794846-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="be quiet! Dark Rock Pro 4 | 135mm+120mm PWM-Lüfter" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -662,7 +699,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="7873">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="7873">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -676,7 +713,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/option-tag-silent.png" alt="Silent Icon" title="Silent Icon">
+																										<img src="https://www.mifcom.de/media/option-tag-silent.png" 
+																										alt="Silent Icon" title="Silent Icon">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -696,8 +734,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771705">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/u/n/unbenannt-2.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/u/n/unbenannt-2.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/u/n/unbenannt-2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Noctua NH-D15S | 140mm PWM-Lüfter, Dual-Tower" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -710,7 +750,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="282">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="282">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -724,10 +764,12 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/option-tag-silent.png" alt="Silent Icon" title="Silent Icon">
+																										<img src="https://www.mifcom.de/media/option-tag-silent.png" 
+																										alt="Silent Icon" title="Silent Icon">
 																									</li>
 																									<li class="b-tag-postion-2">
-																										<img src="https://www.mifcom.de/media/Icon_OC.png" alt="Für Overclocking geeignet." title="Für Overclocking geeignet.">
+																										<img src="https://www.mifcom.de/media/Icon_OC.png" 
+																										alt="Für Overclocking geeignet." title="Für Overclocking geeignet.">
 																									</li>
 																								</ul>
 
@@ -755,8 +797,10 @@
 																							 data-product-name="Corsair H100x | 240mm" data-product-id="9514" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-10644790">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1798878-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1798878-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1798878-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Corsair H100x | 240mm" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -767,7 +811,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9514">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9514">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -783,7 +827,8 @@
 																									<li class="b-tag-postion-1">
 																									</li>
 																									<li class="b-tag-postion-2">
-																										<img src="https://www.mifcom.de/media/Icon_OC.png" alt="Für Overclocking geeignet." title="Für Overclocking geeignet.">
+																										<img src="https://www.mifcom.de/media/Icon_OC.png" 
+																										alt="Für Overclocking geeignet." title="Für Overclocking geeignet.">
 																									</li>
 																								</ul>
 
@@ -800,8 +845,10 @@
 																							 data-product-name="Corsair H80i v2 | 120mm" data-product-id="8645" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771732">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="img/customizer-items/thumbs/1_40_7.jpg"
-																									 src="img/customizer-items/thumbs/1_40_7.jpg" alt="Corsair H80i v2 | 120mm" width="133" style="display: block;">
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_40_7.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair H80i v2 | 120mm" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
 																									<span class="configurator-article-title__labels configurator-article-title__labels--gallery">
@@ -811,7 +858,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8645">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8645">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -827,7 +874,8 @@
 																									<li class="b-tag-postion-1">
 																									</li>
 																									<li class="b-tag-postion-2">
-																										<img src="https://www.mifcom.de/media/Icon_OC.png" alt="Für Overclocking geeignet." title="Für Overclocking geeignet.">
+																										<img src="https://www.mifcom.de/media/Icon_OC.png" 
+																										alt="Für Overclocking geeignet." title="Für Overclocking geeignet.">
 																									</li>
 																								</ul>
 
@@ -844,8 +892,10 @@
 																							 data-product-name="Corsair H60 Edition 2018 | 120mm" data-product-id="8350" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-8771730">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="img/customizer-items/thumbs/1_41_2.jpg"
-																									 src="img/customizer-items/thumbs/1_41_2.jpg" alt="Corsair H60 Edition 2018 | 120mm" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_41_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair H60 Edition 2018 | 120mm" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -856,7 +906,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8350">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8350">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -895,8 +945,10 @@
 																							 data-product-name="Corsair H60 | 120mm" data-product-id="9511" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-10644080">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1793170-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1793170-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1793170-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Corsair H60 | 120mm" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -907,7 +959,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9511">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9511">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -940,8 +992,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-10648023">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="img/customizer-items/thumbs/1_1_6.png"
-																									 src="img/customizer-items/thumbs/1_1_6.png" alt="Corsair H100 240mm | inkl. 2x Corsair Air SP120 "
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_1_6.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair H100 240mm | inkl. 2x Corsair Air SP120 "
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -952,7 +1006,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8338">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8338">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -995,8 +1049,10 @@
 																							 data-product-name="Corsair H150i Pro RGB | 360mm" data-product-id="9523" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-10647303">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1746871-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1746871-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1746871-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Corsair H150i Pro RGB | 360mm" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1007,7 +1063,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9523">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9523">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1023,7 +1079,8 @@
 																									<li class="b-tag-postion-1">
 																									</li>
 																									<li class="b-tag-postion-2">
-																										<img src="https://www.mifcom.de/media/Icon_OC.png" alt="Für Overclocking geeignet." title="Für Overclocking geeignet.">
+																										<img src="https://www.mifcom.de/media/Icon_OC.png" 
+																										alt="Für Overclocking geeignet." title="Für Overclocking geeignet.">
 																									</li>
 																								</ul>
 
@@ -1040,8 +1097,10 @@
 																							 data-product-name="Corsair Hydro H100i Pro RGB | 240mm" data-product-id="9517" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-10645600">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1853592-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1853592-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1853592-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Corsair Hydro H100i Pro RGB | 240mm" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1052,7 +1111,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9517">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9517">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1084,8 +1143,10 @@
 																							 data-product-name="Corsair Hydro H115i Pro RGB | 280mm" data-product-id="9520" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83864-10646583">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1751364-n0.jpg"
-																									 src="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1751364-n0.jpg"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1751364-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 
 																									 alt="Corsair Hydro H115i Pro RGB | 280mm" width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1096,7 +1157,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9520">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9520">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1112,7 +1173,8 @@
 																									<li class="b-tag-postion-1">
 																									</li>
 																									<li class="b-tag-postion-2">
-																										<img src="https://www.mifcom.de/media/Icon_OC.png" alt="Für Overclocking geeignet." title="Für Overclocking geeignet.">
+																										<img src="https://www.mifcom.de/media/Icon_OC.png" 
+																										alt="Für Overclocking geeignet." title="Für Overclocking geeignet.">
 																									</li>
 																								</ul>
 
@@ -1139,7 +1201,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/silent_case_fan_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -1156,7 +1219,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -1165,7 +1229,8 @@
 																		<div class="configurator-catalog grid-view">
 																			<div class="configurator-articles__banner">
 																				<a href="#" class="configurator-articles__banner-link">
-																					<img src="img/customizer-items/thumbs/mifcom_fans.jpg" alt="" class="configurator-articles__banner-img">
+																					<img src="img/customizer-items/thumbs/mifcom_fans.jpg" 
+																					alt="" class="configurator-articles__banner-img">
 																				</a>
 																			</div>
 																			<div class="configurator-catalog__tools">
@@ -1213,8 +1278,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771909">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/i/silent_wings.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="120mm be quiet! Silent Wings 3 | Schwarz, PWM"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/s/i/silent_wings.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="120mm be quiet! Silent Wings 3 | Schwarz, PWM"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1225,7 +1292,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8829">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8829">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1239,7 +1306,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/option-tag-silent.png" alt="Silent Icon" title="Silent Icon">
+																										<img src="https://www.mifcom.de/media/option-tag-silent.png" 
+																										alt="Silent Icon" title="Silent Icon">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -1259,8 +1327,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771910">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1490388-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="140mm be quiet! Silent Wings 3 | Schwarz, PWM"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1490388-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="140mm be quiet! Silent Wings 3 | Schwarz, PWM"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1271,7 +1341,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8837">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8837">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1285,7 +1355,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/option-tag-silent.png" alt="Silent Icon" title="Silent Icon">
+																										<img src="https://www.mifcom.de/media/option-tag-silent.png" 
+																										alt="Silent Icon" title="Silent Icon">
 																									</li>
 																									<li class="b-tag-postion-2">
 																									</li>
@@ -1315,8 +1386,10 @@
 																							 data-product-name="120mm MIFCOM Premium Fan | Schwarz, PWM" data-product-id="8840" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771913">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/mifcom_schwarz_120mm_x1_4.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="120mm MIFCOM Premium Fan | Schwarz, PWM"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/mifcom_schwarz_120mm_x1_4.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="120mm MIFCOM Premium Fan | Schwarz, PWM"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1327,7 +1400,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8840">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8840">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1360,8 +1433,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771911">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="img/customizer-items/thumbs/1_41_10.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="120mm MIFCOM Premium Fan | Schwarz/Rot, PWM "
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_41_10.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="120mm MIFCOM Premium Fan | Schwarz/Rot, PWM "
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1372,7 +1447,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8838">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8838">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1404,8 +1479,10 @@
 																							 data-product-name="140mm MIFCOM Premium Fan | Schwarz, PWM" data-product-id="8841" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771914">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/mifcom_schwarz_x1_1_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="140mm MIFCOM Premium Fan | Schwarz, PWM"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/mifcom_schwarz_x1_1_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="140mm MIFCOM Premium Fan | Schwarz, PWM"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1416,7 +1493,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8841">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8841">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1449,8 +1526,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771912">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/mifcom_rot_x1_4.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="140mm MIFCOM Premium Fan | Schwarz/Rot, PWM"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/m/i/mifcom_rot_x1_4.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="140mm MIFCOM Premium Fan | Schwarz/Rot, PWM"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1461,7 +1540,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8839">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8839">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1505,8 +1584,10 @@
 																							 data-product-name="120mm Corsair ML120 PRO | Schwarz, PWM" data-product-id="8847" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771920">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1474208-n1_4.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="120mm Corsair ML120 PRO | Schwarz, PWM"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1474208-n1_4.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="120mm Corsair ML120 PRO | Schwarz, PWM"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1517,7 +1598,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8847">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8847">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1549,8 +1630,10 @@
 																							 data-product-name="140mm Corsair ML140 PRO | Schwarz, PWM" data-product-id="8853" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771926">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1474123-n1_4.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="140mm Corsair ML140 PRO | Schwarz, PWM"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1474123-n1_4.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="140mm Corsair ML140 PRO | Schwarz, PWM"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1561,7 +1644,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8853">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8853">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1605,8 +1688,10 @@
 																							 data-product-name="120mm Corsair ML120 PRO LED | Blau, PWM" data-product-id="8849" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771922">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="img/customizer-items/thumbs/1_50_4.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="120mm Corsair ML120 PRO LED | Blau, PWM"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_50_4.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="120mm Corsair ML120 PRO LED | Blau, PWM"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1617,7 +1702,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8849">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8849">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1649,8 +1734,10 @@
 																							 data-product-name="120mm Corsair ML120 PRO LED | Rot, PWM" data-product-id="8848" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771921">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="img/customizer-items/thumbs/1_50_5.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="120mm Corsair ML120 PRO LED | Rot, PWM"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_50_5.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="120mm Corsair ML120 PRO LED | Rot, PWM"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1661,7 +1748,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8848">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8848">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1693,8 +1780,10 @@
 																							 data-product-name="140mm Corsair ML140 PRO LED | Blau, PWM" data-product-id="8851" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771924">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1461448-n2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="140mm Corsair ML140 PRO LED | Blau, PWM"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/4/1461448-n2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="140mm Corsair ML140 PRO LED | Blau, PWM"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1705,7 +1794,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8851">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8851">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1737,8 +1826,10 @@
 																							 data-product-name="140mm Corsair ML140 PRO LED | Rot, PWM" data-product-id="8850" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771923">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="img/customizer-items/thumbs/1_55_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="140mm Corsair ML140 PRO LED | Rot, PWM"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_55_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="140mm Corsair ML140 PRO LED | Rot, PWM"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1749,7 +1840,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8850">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8850">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1792,8 +1883,10 @@
 																							 data-product-name="120mm Corsair Light Loop LL120 RGB" data-product-id="8842" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771915">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1710064-n0_3.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="120mm Corsair Light Loop LL120 RGB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1710064-n0_3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="120mm Corsair Light Loop LL120 RGB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1804,7 +1897,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8842">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8842">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1820,7 +1913,8 @@
 																									<li class="b-tag-postion-1">
 																									</li>
 																									<li class="b-tag-postion-2">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -1838,8 +1932,10 @@
 																							 data-product-name="140mm Corsair Light Loop LL140 RGB" data-product-id="8843" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-8771916">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1710671-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="140mm Corsair Light Loop LL140 RGB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/7/1710671-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="140mm Corsair Light Loop LL140 RGB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1850,7 +1946,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8843">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8843">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1866,7 +1962,8 @@
 																									<li class="b-tag-postion-1">
 																									</li>
 																									<li class="b-tag-postion-2">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -1896,8 +1993,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-9309787">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/r/premium.png"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="120mm Thermaltake Riing Plus RGB Premium Edition"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/p/r/premium.png"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="120mm Thermaltake Riing Plus RGB Premium Edition"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1908,7 +2007,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9159">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9159">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1924,7 +2023,8 @@
 																									<li class="b-tag-postion-1">
 																									</li>
 																									<li class="b-tag-postion-2">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -1953,8 +2053,10 @@
 																							 data-product-name="3x 120mm Lamptron Nasa RGB" data-product-id="9524" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83871-10648754">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1881586-n0.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="3x 120mm Lamptron Nasa RGB" width="133"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/8/1881586-n0.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="3x 120mm Lamptron Nasa RGB" width="133"
 																									 style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -1967,7 +2069,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9524">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9524">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -1983,7 +2085,8 @@
 																									<li class="b-tag-postion-1">
 																									</li>
 																									<li class="b-tag-postion-2">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -2011,7 +2114,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/fan_control_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -2028,7 +2132,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -2067,8 +2172,10 @@
 																							 data-product-name="Thermaltake Commander FT | 5-Kanal" data-product-id="4848" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83875-8771974">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="img/customizer-items/thumbs/1_10_14.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Thermaltake Commander FT | 5-Kanal"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="img/customizer-items/thumbs/1_10_14.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Thermaltake Commander FT | 5-Kanal"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2081,7 +2188,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="4848">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="4848">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2134,7 +2241,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/system_case_led_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -2151,7 +2259,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -2160,7 +2269,8 @@
 																		<div class="configurator-catalog grid-view">
 																			<div class="configurator-articles__banner">
 																				<a href="#" class="configurator-articles__banner-link">
-																					<img src="img/customizer-items/thumbs/led_stripes_konfig.jpg" alt="" class="configurator-articles__banner-img">
+																					<img src="img/customizer-items/thumbs/led_stripes_konfig.jpg" 
+																					alt="" class="configurator-articles__banner-img">
 																				</a>
 																			</div>
 																			<div class="configurator-catalog__tools">
@@ -2195,8 +2305,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83861-8771693">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/l/blau.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="LED Lights für Systembeleuchtung | 30cm, blau"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/l/blau.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="LED Lights für Systembeleuchtung | 30cm, blau"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2207,7 +2319,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8863">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8863">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2238,8 +2350,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83861-8771691">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/r/gr_n.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="LED Lights für Systembeleuchtung | 30cm, grün"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/r/gr_n.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="LED Lights für Systembeleuchtung | 30cm, grün"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2250,7 +2364,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8861">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8861">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2288,8 +2402,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83861-8771692">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/w/e/wei_.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="LED Lights für Systembeleuchtung | 30cm, weiß"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/w/e/wei_.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="LED Lights für Systembeleuchtung | 30cm, weiß"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2300,7 +2416,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="8862">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="8862">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2343,8 +2459,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83861-8771688">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb_x1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="LED Lights für Systembeleuchtung 30cm | RGB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb_x1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="LED Lights für Systembeleuchtung 30cm | RGB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2355,7 +2473,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6001">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6001">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2369,7 +2487,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -2388,8 +2507,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83861-8771689">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb_x2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="<b>2x</b> LED Lights für Systembeleuchtung 30cm | RGB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb_x2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="<b>2x</b> LED Lights für Systembeleuchtung 30cm | RGB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2400,7 +2521,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6003">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6003">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2414,7 +2535,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -2433,8 +2555,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83861-8771690">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb_x3.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="<b>3x</b> LED Lights für Systembeleuchtung 30cm | RGB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb_x3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="<b>3x</b> LED Lights für Systembeleuchtung 30cm | RGB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2445,7 +2569,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="6004">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="6004">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2459,7 +2583,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -2490,8 +2615,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83861-8771683">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="<b>2x</b> LED Lights mit Fernbedienung 30cm | RGB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="<b>2x</b> LED Lights mit Fernbedienung 30cm | RGB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2504,7 +2631,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="663">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="663">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2518,7 +2645,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -2537,8 +2665,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83861-8771684">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb_3.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="<b>3x</b> LED Lights mit Fernbedienung 30cm | RGB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb_3.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="<b>3x</b> LED Lights mit Fernbedienung 30cm | RGB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2551,7 +2681,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="1478">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="1478">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2565,7 +2695,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -2594,8 +2725,10 @@
 																							 data-product-name="Corsair RGB LED Lighting Pro | RGB" data-product-id="9005" autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83861-10651222">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1669221-n1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Corsair RGB LED Lighting Pro | RGB"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/1/6/1669221-n1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Corsair RGB LED Lighting Pro | RGB"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2608,7 +2741,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="9005">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="9005">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2622,7 +2755,8 @@
 
 																								<ul class="b-tags">
 																									<li class="b-tag-postion-1">
-																										<img src="https://www.mifcom.de/media/Icon_RGB.png" alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
+																										<img src="https://www.mifcom.de/media/Icon_RGB.png" 
+																										alt="Dieses Produkt ist mit RGB-LEDs ausgestattet"
 																										 title="Dieses Produkt ist mit RGB-LEDs ausgestattet">
 																									</li>
 																								</ul>
@@ -2650,7 +2784,8 @@
 																		<span class="accordion-title-info">
 																			<span class="accordion-title-info__img-wrapper">
 																				<img class="accordion-title-info__img" src="https://www.mifcom.de/media/catalog/frontendcategory/30x/sleeve_icon_30x23.png"
-																				 alt="">
+																				 
+																				alt="">
 																			</span>
 																			<span class="accordion-title-info__text">
 
@@ -2667,7 +2802,8 @@
 																					<div class="configurator-sidebar__title">Noch nicht ausgewählt</div>
 																				</div>
 																				<div class="configurator-sidebar__selected selected--true">
-																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" alt="">
+																					<img class="configurator-sidebar__img" src="img/customizer-items/thumbs/1322149-n0.jpg" 
+																					alt="">
 																					<div class="configurator-sidebar__title">Deine Wahl</div>
 																					<div class="configurator-sidebar__title--product"></div>
 																				</div>
@@ -2676,7 +2812,8 @@
 																		<div class="configurator-catalog grid-view">
 																			<div class="configurator-articles__banner">
 																				<a href="#" class="configurator-articles__banner-link">
-																					<img src="img/customizer-items/thumbs/sleeves_konfig.jpg" alt="" class="configurator-articles__banner-img">
+																					<img src="img/customizer-items/thumbs/sleeves_konfig.jpg" 
+																					alt="" class="configurator-articles__banner-img">
 																				</a>
 																			</div>
 																			<div class="configurator-catalog__tools">
@@ -2710,8 +2847,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83868-8771797">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/w/h/white_1_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Kabel Sleeves Komplett-Set | Single-Grafikkarte | Weiß"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/w/h/white_1_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Kabel Sleeves Komplett-Set | Single-Grafikkarte | Weiß"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2722,7 +2861,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2301">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2301">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2759,8 +2898,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83868-8771803">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/l/blue_1_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Kabel Sleeves Komplett-Set | Single-Grafikkarte | Blau"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/l/blue_1_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Kabel Sleeves Komplett-Set | Single-Grafikkarte | Blau"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2771,7 +2912,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2310">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2310">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2808,8 +2949,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83868-8771795">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/l/black_1_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Kabel Sleeves Komplett-Set | Single-Grafikkarte | Schwarz"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/l/black_1_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Kabel Sleeves Komplett-Set | Single-Grafikkarte | Schwarz"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2820,7 +2963,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2298">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2298">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2857,8 +3000,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83868-8771801">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/r/green_1_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Kabel Sleeves Komplett-Set | Single-Grafikkarte | Grün"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/r/green_1_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Kabel Sleeves Komplett-Set | Single-Grafikkarte | Grün"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2869,7 +3014,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2307">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2307">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2906,8 +3051,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83868-8771799">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/e/red_1_2.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Kabel Sleeves Komplett-Set | Single-Grafikkarte | Rot"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/e/red_1_2.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Kabel Sleeves Komplett-Set | Single-Grafikkarte | Rot"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2918,7 +3065,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2304">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2304">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -2966,8 +3113,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83868-8771798">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/w/h/white_1_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Kabel Sleeves Komplett-Set | Dual-Grafikkarten | Weiß"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/w/h/white_1_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Kabel Sleeves Komplett-Set | Dual-Grafikkarten | Weiß"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -2978,7 +3127,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2302">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2302">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3015,8 +3164,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83868-8771804">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/l/blue_1_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Kabel Sleeves Komplett-Set | Dual-Grafikkarten | Blau"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/l/blue_1_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Kabel Sleeves Komplett-Set | Dual-Grafikkarten | Blau"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3027,7 +3178,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2311">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2311">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3064,8 +3215,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83868-8771796">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/l/black_1_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Kabel Sleeves Komplett-Set | Dual-Grafikkarten | Schwarz"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/b/l/black_1_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Kabel Sleeves Komplett-Set | Dual-Grafikkarten | Schwarz"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3076,7 +3229,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2299">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2299">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3113,8 +3266,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83868-8771802">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/r/green_1_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Kabel Sleeves Komplett-Set | Dual-Grafikkarten | Grün"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/g/r/green_1_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Kabel Sleeves Komplett-Set | Dual-Grafikkarten | Grün"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3125,7 +3280,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2308">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2308">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">
@@ -3162,8 +3317,10 @@
 																							 autocomplete="off">
 																							<label class="configurator-article__label" for="bundle-option-83868-8771800">
 																								<span class="configurator-article-pic">
-																									<img class="configurator-article-pic__image options-lazy-img" data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/e/red_1_1.jpg"
-																									 src="img/customizer-items/thumbs/small_image.jpg" alt="Kabel Sleeves Komplett-Set | Dual-Grafikkarten | Rot"
+																									<img class="configurator-article-pic__image options-lazy-img" 
+																									data-original="https://www.mifcom.de/media/catalog/product/cache/1/small_image/140x140/9df78eab33525d08d6e5fb8d27136e95/r/e/red_1_1.jpg"
+																									 src="img/customizer-items/thumbs/small_image.jpg"
+																									 alt="Kabel Sleeves Komplett-Set | Dual-Grafikkarten | Rot"
 																									 width="133" style="display: block;">
 																								</span>
 																								<span class="configurator-article-title">
@@ -3174,7 +3331,7 @@
 																								</span>
 
 																							</label>
-																							<span class="b-details js-product-details" data-src="#modal__detail" data-modal="false" data-product-id="2305">
+																							<span class="b-details js-product-details" data-src="#modal-detail" data-modal="false" data-product-id="2305">
 																								<span>[Details]</span>
 																							</span>
 																							<span class="price-notice">

@@ -55,64 +55,57 @@
 	<!-- /.footer -->
 
 	<div class="modals-main__wrapper">
-		<div id="modal__configurator-summary" class="modal__configurator-summary__wrapper fancybox-content" style="display: none; max-width: 900px; width: 96%; height: 440px; max-height: 90vh;">
-			<div class="modal__configurator-summary">
-				<div class="modal__configurator-summary__sidebar">
+		<div id="modal-configurator-summary" class="modal-configurator-summary modal fancybox-content">
+			<div class="modal-configurator-summary__content">
+				<div class="modal-configurator-summary__sidebar">
 					<img src="https://www.mifcom.de/media/catalog/product/cache/1/image/140x/9df78eab33525d08d6e5fb8d27136e95/g/a/gaming_coffeelak_refresh.jpg"
-					 alt="" class="modal__configurator-summary__product-img">
-					<div class="modal__configurator-summary__status-wrapper">
-						<div class="modal__configurator-summary__status valid">
-							<span class="modal__configurator-summary__status-icon"></span>
-						</div>
+					 alt="" class="modal-configurator-summary__product-img">
+					<div class="modal-configurator-summary-status valid">
+						<span class="modal-configurator-summary-status__icon"></span>
 					</div>
 				</div>
-				<div id="modal__configurator-summary__table" class="modal__configurator-summary__table">
+				<div id="modal-configurator-summary__table" class="modal-configurator-summary__table">
 
 				</div>
 			</div>
 		</div>
-		<div id="modal__frege-support" class="modal__frege-support__wrapper fancybox-content" style="display: none; max-width: 570px; width: 96%; max-height: 90vh;">
-			<div class="modal__frege-support">
-				<ul class="modal__frege-support__list">
-					<li class="modal__frege-support__item">
-						<div class="modal__frege-support__item-icon-wrapper">
-							<div class="modal__frege-support__item-icon chat">
+
+		<div id="modal-frege-support" class="modal-frege-support modal fancybox-content">
+			<div class="modal-frege-support__content">
+				<ul class="modal-frege-support__list">
+					<li class="modal-frege-support__item">
+						<div class="modal-frege-support-icon__wrapper">
+							<div class="modal-frege-support-icon chat">
 
 							</div>
 							<span class="chat-status offline">offline</span>
 						</div>
-						<div class="modal__frege-support__item-content-wrapper">
-							<div class="modal__frege-support__item-content">
-								<div class="modal__frege-support__item-content__heading">LIVE CHAT</div>
-								<p class="modal__frege-support__item-content__text">Unsere Mitarbeiter unterstützen Dich gerne bei der Wahl der
-									richtigen Komponenten.</p>
-								<a href="#" class="modal__frege-support__item-content__link"><span>Live Chat starten</span></a>
-							</div>
+						<div class="modal-frege-support-info">
+							<div class="modal-frege-support-info__heading">LIVE CHAT</div>
+							<p class="modal-frege-support-info__text">Unsere Mitarbeiter unterstützen Dich gerne bei der Wahl der
+								richtigen Komponenten.</p>
+							<a href="#" class="modal-frege-support-info__link"><span>Live Chat starten</span></a>
 						</div>
 					</li>
-					<li class="modal__frege-support__item">
-						<div class="modal__frege-support__item-icon-wrapper">
-							<div class="modal__frege-support__item-icon phone"></div>
+					<li class="modal-frege-support__item">
+						<div class="modal-frege-support-icon__wrapper">
+							<div class="modal-frege-support-icon phone"></div>
 						</div>
-						<div class="modal__frege-support__item-content-wrapper">
-							<div class="modal__frege-support__item-content">
-								<div class="modal__frege-support__item-content__heading">Rückruf</div>
-								<p class="modal__frege-support__item-content__text">Gerne rufen wir Dich zu einem gewünschten Zeitpunkt zurück.</p>
-								<a href="#" class="modal__frege-support__item-content__link"><span>Termin für Rückruf vereinbaren</span></a>
-							</div>
+						<div class="modal-frege-support-info">
+							<div class="modal-frege-support-info__heading">Rückruf</div>
+							<p class="modal-frege-support-info__text">Gerne rufen wir Dich zu einem gewünschten Zeitpunkt zurück.</p>
+							<a href="#" class="modal-frege-support-info__link"><span>Termin für Rückruf vereinbaren</span></a>
 						</div>
 					</li>
-					<li class="modal__frege-support__item">
-						<div class="modal__frege-support__item-icon-wrapper">
-							<div class="modal__frege-support__item-icon mail"></div>
+					<li class="modal-frege-support__item">
+						<div class="modal-frege-support-icon__wrapper">
+							<div class="modal-frege-support-icon mail"></div>
 						</div>
-						<div class="modal__frege-support__item-content-wrapper">
-							<div class="modal__frege-support__item-content">
-								<div class="modal__frege-support__item-content__heading">PER MAIL</div>
-								<p class="modal__frege-support__item-content__text">Gerne kannst Du uns auch alle Deine Fragen per Mail
-									zusenden. Wir melden uns dann zeitnah bei Dir.</p>
-								<a href="#" class="modal__frege-support__item-content__link"><span>Jetzt Mail an uns senden</span></a>
-							</div>
+						<div class="modal-frege-support-info">
+							<div class="modal-frege-support-info__heading">PER MAIL</div>
+							<p class="modal-frege-support-info__text">Gerne kannst Du uns auch alle Deine Fragen per Mail
+								zusenden. Wir melden uns dann zeitnah bei Dir.</p>
+							<a href="#" class="modal-frege-support-info__link"><span>Jetzt Mail an uns senden</span></a>
 						</div>
 					</li>
 				</ul>
@@ -120,22 +113,22 @@
 		</div>
 
 
-		<div id="modal__share" class="modal__share__wrapper fancybox-content" style="display: none; max-width: 420px; width: 96%; max-height: 90vh;">
-			<div class="modal__share">
-				<div class="modal__share-text">Teile Deine Konfiguration und frage deine Freunde nach Ihrer Meinung</div>
-				<div class="modal__share-btn__list">
-					<a href="#" class="modal__share-btn fb">Teilen auf Facebook</a>
-					<a href="#" class="modal__share-btn tw">Teilen auf Twitter</a>
+		<div id="modal-share" class="modal-share modal fancybox-content">
+			<div class="modal-share__content">
+				<div class="modal-share__text">Teile Deine Konfiguration und frage deine Freunde nach Ihrer Meinung</div>
+				<div class="modal-share-btn__list">
+					<a href="#" class="modal-share-btn fb">Teilen auf Facebook</a>
+					<a href="#" class="modal-share-btn tw">Teilen auf Twitter</a>
 				</div>
 			</div>
 		</div>
 
 
-		<div id="modal__load" class="modal__load__wrapper fancybox-content" style="display: none; max-width: 587px; width: 96%; max-height: 90vh;">
-			<div class="modal__load">
-				<label for="bundle-config-load" class="modal__load-heading">Hier kannst du deine Konfiguration laden:</label>
-				<ul class="modal__load-version__list">
-					<li class="modal__load-version__list-item">
+		<div id="modal-load" class="modal-load modal fancybox-content">
+			<div class="modal-load__content">
+				<label for="bundle-config-load" class="modal-load__heading">Hier kannst du deine Konfiguration laden:</label>
+				<ul class="modal-load-version__list">
+					<li class="modal-load-version__item">
 						<div class="version">01.</div>
 						<div class="info">
 							<div class="line title">Anfrage per Kontaktformular gestellt</div>
@@ -149,7 +142,8 @@
 				<div class="form-field-inline">
 					<div class="input-box">
 						<input id="bundle-config-load" type="text" class="input-text input-text-big" placeholder="Konfigurations-ID">
-						<div class="validation-advice" style="display: none;">
+						<div class="validation-advice" 
+						style="display: none;">
 							Entschuldigung, aber Ihre Konfiguration war nicht gefunden. Bitte, überprüfen Sie wieder Ihren Code.
 						</div>
 					</div>
@@ -160,9 +154,9 @@
 			</div>
 		</div>
 
-		<div id="modal__speichern-mailen" class="modal__speichern-mailen__wrapper fancybox-content" style="display: none; max-width: 587px; width: 96%; max-height: 90vh;">
-			<div class="modal__speichern-mailen">
-				<label for="bundle_config_id" class="modal__speichern-mailen-heading">TRAGE DEN NAMEN DEINER KONFIGURATION EIN:</label>
+		<div id="modal-speichern-mailen" class="modal-speichern-mailen modal fancybox-content">
+			<div class="modal-speichern-mailen__content">
+				<label for="bundle_config_id" class="modal-speichern-mailen__heading">TRAGE DEN NAMEN DEINER KONFIGURATION EIN:</label>
 
 				<div class="form-field-inline">
 					<div class="input-box">
@@ -181,43 +175,43 @@
 			</div>
 		</div>
 
-		<div id="modal__detail" class="modal__detail__wrapper fancybox-content" style="display: none; max-width: 800px; width: 96%; max-height: 90vh;">
-			<div class="modal__detail">
-				<div class="modal__detail-article">
-					<button id="modal__detail-article__nav--prev" class="modal__detail-article__nav modal__detail-article__nav--prev"></button>
-					<div id="modal__detail-article__title" class="modal__detail-article__title"></div>
-					<button id="modal__detail-article__nav--next" class="modal__detail-article__nav modal__detail-article__nav--next"></button>
+		<div id="modal-detail" class="modal-detail modal fancybox-content">
+			<div class="modal-detail__content">
+				<div class="modal-detail-article">
+					<button class="modal-detail-article__nav-btn modal-detail-article__nav-btn--prev"></button>
+					<div class="modal-detail-article__title"></div>
+					<button class="modal-detail-article__nav-btn modal-detail-article__nav-btn--next"></button>
 				</div>
-				<div class="modal__detail-tabs__nav">
-					<button class="modal__detail-tabs__nav-btn active">Bilder</button>
-					<button class="modal__detail-tabs__nav-btn">Specs</button>
+				<div class="modal-detail-tabs-nav">
+					<button class="modal-detail-tabs-nav__btn active">Bilder</button>
+					<button class="modal-detail-tabs-nav__btn">Specs</button>
 				</div>
-				<div class="modal__detail-tabs modal__detail-tabs--content">
-					<div class="modal__detail-gallery modal__detail-tabs__tab active">
-						<div class="modal__detail-gallery__slider-top__wrapper">
-							<button id="modal__detail-gallery__slider-top__arrow--prev" class="modal__detail-gallery__slider-top__arrow modal__detail-gallery__slider-top__arrow--prev"></button>
-							<div id="modal__detail-gallery__slider-top" class="modal__detail-gallery__slider-top">
+				<div class="modal-detail-tabs__content">
+					<div class="modal-detail-tab active">
+						<div class="modal-detail-slider-big__wrapper">
+							<button class="modal-detail-slider-big__arrow modal-detail-slider-big__arrow--prev"></button>
+							<div class="modal-detail-slider-big">
 							</div>
-							<button id="modal__detail-gallery__slider-top__arrow--next" class="modal__detail-gallery__slider-top__arrow modal__detail-gallery__slider-top__arrow--next"></button>
-							<div class="modal__detail-info">
-								<div id="modal__detail-price" class="modal__detail-price">
+							<button class="modal-detail-slider-big__arrow modal-detail-slider-big__arrow--next"></button>
+							<div class="modal-detail-info">
+								<div class="modal-detail-price">
 									<span class="price-notice">
 										<span class="price">+50,<span class="cents">00</span><span class="currency">€</span></span>
 										<span class="currency" style="display: none;">€</span>
 									</span>
 								</div>
-								<label id="modal__detail-choose" class="modal__detail-choose" for="bundle-option-83864-8771735">Auswählen</label>
+								<label class="modal-detail-choose" for="bundle-option-83864-8771735">Auswählen</label>
 							</div>
 						</div>
-						<div class="modal__detail-gallery__slider-bottom__wrapper">
-							<div id="modal__detail-gallery__slider-bottom" class="modal__detail-gallery__slider-bottom">
+						<div class="modal-detail-slider-thumbs__wrapper">
+							<div class="modal-detail-slider-thumbs">
 							</div>
 						</div>
 					</div>
-					<div class="modal__detail-main-info modal__detail-tabs__tab">
-						<div class="modal__detail-main-info__table-wrapper">
-							<div id="modal__detail-main-info__table-text" class="modal__detail-main-info__table-text"></div>
-							<ul id="modal__detail-main-info__table" class="modal__detail-main-info__table">
+					<div class="modal-detail-tab">
+						<div class="modal-detail-info-table__wrapper">
+							<div class="modal-detail-info-table__text"></div>
+							<ul class="modal-detail-info-table">
 							</ul>
 						</div>
 					</div>

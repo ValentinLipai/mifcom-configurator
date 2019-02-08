@@ -28,17 +28,22 @@
 			.footer-support
 				&__status
 					color: $green
-	&-nav-links
-		&__list
+
+	&-nav
+		&-list
 			list-style-type: none
 			&.open
 				.footer-nav-links__list-heading
 					color: $light-gray
 					&:after
 						transform: rotate(-90deg)
-			&-item
-				display: none
-			&-heading
+			&__mobile-toggle-link
+				position: absolute
+				top: 0
+				left: 0
+				width: 100%
+				height: 100%
+			&__heading
 				position: relative
 				color: $text-white
 				font-size: $fz_1_8
@@ -55,7 +60,9 @@
 					margin-top: -8px
 					transform: rotate(90deg)
 					transition: transform 0.25s
-			&-link
+			&__item
+				display: none
+			&__link
 				display: block
 				color: $text-white
 				font-family: $f_arial
@@ -64,6 +71,7 @@
 				text-transform: uppercase
 				padding: 16px 0 16px 20px
 				text-decoration: none
+		
 	&-social
 		display: flex
 		align-items: center
@@ -71,7 +79,7 @@
 		padding: 20px 20px
 		margin: 30px 0 0
 		border-bottom: 1px solid $brand-quaternary
-		&__icon
+		&__link
 			position: relative
 			display: inline-block
 			width: 29px
@@ -88,91 +96,36 @@
 			&.youtube
 				background-image: url(../img/icons-sprite.png)
 				background-position: -738px -139px
-	&-static
-		&__left
-			&-top
-				margin-bottom: 20px
-		&__right
-			display: flex
-			align-items: center
-			justify-content: space-between
-			margin-top: 25px
-		&__flags
-			&-list
-				list-style-type: none
-				&__heading
-					position: relative
-					display: inline-block
-					color: $light-gray
-					font-family: $f_arial
-					font-size: $fz_1_2
-					line-height: 16px
-					margin-right: 10px
-				&__item
-					position: relative	
-					display: inline-block
-					font-family: $f_arial
-					font-size: $fz_1_2
-					text-transform: uppercase
-					line-height: 18px
-					&.icon-flag
-						padding: 0 0 0 27px
-						margin-right: 3px
-						&:last-of-type
-							margin-right: 0
-						&:before
-							content: ''
-							position: absolute
-							left: 0
-							top: 0
-							display: inline-block
-							vertical-align: middle
-							margin-right: 2px
-							background-image: url(../img/icons-sprite.png)
-							width: 21px
-							height: 15px
-						&-de3
-							&:before
-								background-position: -627px -615px
-						&-at3
-							&:before
-								background-position: -669px -615px
-						&-ch3
-							&:before
-								background-position: -606px -615px
-						&-eu3
-							&:before
-								background-position: -648px -615px
-						
-		&__payment
-			&-list
-				margin-top: 20px
-			&-item
-				display: inline-block
-				vertical-align: top
-				height: 17px
-				margin-right: 10px
-				margin-bottom: 5px
-				vertical-align: top
-				background-image: url(../img/icons-sprite.png)
-				&.paypal
-					width: 53px
-					background-position: -349px -640px
-				&.visa
-					width: 69px
-					background-position: -468px -615px
-				&.commerz-finance
-					background-image: url(../img/consors_finanz_logo_mobile_footer.png)
-					width: 61px
-					background-position: 0px 0px
-				&.sofort
-					width: 55px
-					background-position: -632px -581px
-		&__bord
-			&-list
+	&-payment
+		margin-bottom: 20px
+		&__list
+			margin-top: 20px
+		&__item
+			display: inline-block
+			vertical-align: top
+			height: 17px
+			margin-right: 10px
+			margin-bottom: 5px
+			vertical-align: top
+			background-image: url(../img/icons-sprite.png)
+			&.paypal
+				width: 53px
+				background-position: -349px -640px
+			&.visa
+				width: 69px
+				background-position: -468px -615px
+			&.commerz-finance
+				background-image: url(../img/consors_finanz_logo_mobile_footer.png)
+				width: 61px
+				background-position: 0px 0px
+			&.sofort
+				width: 55px
+				background-position: -632px -581px
+		&-bord
+			&__list
 				list-style-type: none
 				margin-top: 16px
-			&-item
+			&__item
 				display: inline-block
 				font-family: $f_arial
 				font-size: $fz_1_2
@@ -185,26 +138,79 @@
 					padding-right: 0
 					margin-right: 0
 					border-right: none
-		&__medals
-			&-list
-				list-style-type: none
-				display: inline-block
-			&-item
-				display: inline-block
-				vertical-align: top
-				background-position: 0px 0px
-				width: 36px
-				height: 36px
-				margin-right: 7px
-				background-image: url(../img/icons-sprite.png)
+	&-flags
+		&__list
+			list-style-type: none
+		&__heading
+			position: relative
+			display: inline-block
+			color: $light-gray
+			font-family: $f_arial
+			font-size: $fz_1_2
+			line-height: 16px
+			margin-right: 10px
+		&__item
+			position: relative	
+			display: inline-block
+			font-family: $f_arial
+			font-size: $fz_1_2
+			text-transform: uppercase
+			line-height: 18px
+			&.icon-flag
+				padding: 0 0 0 27px
+				margin-right: 3px
 				&:last-of-type
 					margin-right: 0
-				&.ecomi
-					background-image: url(../img/ekomi-mobile-footer.png)
-				&.trusted
-					background-position: -688px -566px
-				&.garantie
-					background-position: -738px 0px
+				&:before
+					content: ''
+					position: absolute
+					left: 0
+					top: 0
+					display: inline-block
+					vertical-align: middle
+					margin-right: 2px
+					background-image: url(../img/icons-sprite.png)
+					width: 21px
+					height: 15px
+				&-de3
+					&:before
+						background-position: -627px -615px
+				&-at3
+					&:before
+						background-position: -669px -615px
+				&-ch3
+					&:before
+						background-position: -606px -615px
+				&-eu3
+					&:before
+						background-position: -648px -615px
+	&-medals
+		&__list
+			list-style-type: none
+			display: inline-block
+		&__item
+			display: inline-block
+			vertical-align: top
+			background-position: 0px 0px
+			width: 36px
+			height: 36px
+			margin-right: 7px
+			background-image: url(../img/icons-sprite.png)
+			&:last-of-type
+				margin-right: 0
+			&.ecomi
+				background-image: url(../img/ekomi-mobile-footer.png)
+			&.trusted
+				background-position: -688px -566px
+			&.garantie
+				background-position: -738px 0px				
+	&-info
+		&__right
+			display: flex
+			align-items: center
+			justify-content: space-between
+			margin-top: 25px
+		
 	&-contact
 		position: relative
 		color: $text-white
@@ -239,39 +245,31 @@
 @media screen and (min-width: 768px)
 	
 	.footer
-		&-static
-			&__flags
-				&-list
-					&__item
-						&.icon-flag
-							margin-right: 10px
+		&-flags
+			&__item
+				&.icon-flag
+					margin-right: 10px
 
 @media screen and (min-width: 992px)
 	.footer
 		padding-bottom: 0
 		&-support
 			display: none
-		&-right
-			&-links
-				&-wrapper
-					display: flex
-		&-nav-links
-			&--left
+		&-main
+			.container
+				display: flex
+				justify-content: space-between
+				padding: 0
+			&__left
 				width: 13%
-			&--right
+			&__right
 				width: 87%
-			&__group
-				position: relative
-				flex-grow: 1
-				padding-left: 30px
+		&-nav
+			&-list
 				border-right: 1px solid #353535
-				&:last-of-type
-					border-right: none
-				.footer-nav-links__list
-					border-right: none
-			&__list
-				border-right: 1px solid #353535
-				&-heading
+				&__mobile-toggle-link
+					display: none
+				&__heading
 					margin: 0
 					padding: 16px 0 5px
 					color: $text-white
@@ -279,9 +277,9 @@
 					border-bottom: none
 					&:after
 						display: none
-				&-item
+				&__item
 					display: block
-				&-link
+				&__link
 					border-bottom: none
 					font-size: $fz_1_2
 					line-height: 18px
@@ -290,10 +288,17 @@
 					padding: 0
 					&:hover
 						text-decoration: underline
-			&__wrapper
-				display: flex
-				justify-content: space-between
-				padding: 0
+			&-group
+				position: relative
+				flex-grow: 1
+				padding-left: 30px
+				border-right: 1px solid #353535
+				&:last-of-type
+					border-right: none
+				.footer-nav-list
+					border-right: none
+				&__list
+					display: flex
 		&-social
 			position: absolute
 			left: 30px
@@ -303,7 +308,17 @@
 			padding-left: 0
 			padding-right: 0
 			padding-bottom: 0
-		&-static
+		&-payment
+			margin-bottom: 13px
+			&__list
+				margin-top: 0
+			&-bord
+				&__list
+					margin-top: 5px
+		&-medals
+			&__list
+				margin-bottom: 13px
+		&-info
 			display: flex
 			align-items: flex-start
 			padding-top: 20px
@@ -316,18 +331,6 @@
 				flex-direction: column
 				align-items: flex-end
 				margin-top: 0
-			&__left
-				&-top
-					margin-bottom: 13px
-			&__payment
-				&-list
-					margin-top: 0
-			&__medals
-				&-list
-					margin-bottom: 13px
-			&__bord
-				&-list
-					margin-top: 5px
 		&-company-info
 			margin: 7px 4px 0
 			padding-top: 0
@@ -338,18 +341,38 @@
 
 @media screen and (min-width: 1200px)
 	.footer
-		&-nav-links
-			&__group
-				padding-left: 30px
+		&-na-group
+			padding-left: 30px
 		&-social
 			left: 50px
-		&-static
-			padding-left: 10px
-			margin: 20px 0 0 20px
+		&-payment
+			width: 100%
 			&__lists
 				display: flex
 				align-items: flex-start
 				justify-content: flex-start
+			&__item
+				margin-bottom: 0
+			&-bord
+				&__list
+					margin-top: 0
+		&-flags
+			text-align: right
+		&-medals
+			&__item
+				width: 49px
+				height: 49px
+				&.ecomi
+					background-image: url(../img/ekomi.png)
+				&.trusted
+					background-position: -688px -199px
+				&.garantie
+					background-position: -119px -615px
+			&__list
+				margin-bottom: 0
+		&-info
+			padding-left: 10px
+			margin: 20px 0 0 20px
 			&__right
 				width: 42%
 				justify-content: space-between
@@ -358,28 +381,7 @@
 			&__left
 				display: flex
 				flex-direction: column
-				&-bottom
-					text-align: right
-				&-top
-					width: 100%
-			&__payment
-				&-item
-					margin-bottom: 0
-			&__medals
-				&-item
-					width: 49px
-					height: 49px
-					&.ecomi
-						background-image: url(../img/ekomi.png)
-					&.trusted
-						background-position: -688px -199px
-					&.garantie
-						background-position: -119px -615px
-				&-list
-					margin-bottom: 0
-			&__bord
-				&-list
-					margin-top: 0
+			
 		&-company-info
 			margin: 7px 4px 0
 			padding-top: 0
