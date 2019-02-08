@@ -2,10 +2,10 @@
 var App_nav = (function($) {
 
 	var header = $('header'),
-		mainNav = $('#header-nav'),
+		mainNav = $('.header-nav'),
 		mainNavParentLinks = mainNav.find('.nav-item__parent'),
 		mainNavBackLinks = mainNav.find('.nav-item__back'),
-		mainNavBurger = $('#header-nav__burger'),
+		mainNavBurger = $('.header-nav__burger'),
 		mainNavLists = mainNav.find('.nav-list, .nav-submenu__menus, .nav-submenu__menus li ul'),
 		headerHeight,
 		parentLinkHandlerEnabled = false,

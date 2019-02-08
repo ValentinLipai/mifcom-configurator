@@ -39,8 +39,8 @@ var configuratorPageScripts = (function($){
 		{
 			productGalleryThumbsSliderInitialized = true;
 
-			var prevArrow = productGalleryThumbsSlider.siblings('#more-views__arrow--prev'),
-				nextArrow = productGalleryThumbsSlider.siblings('#more-views__arrow--next');
+			var prevArrow = productGalleryThumbsSlider.siblings('.more-views__arrow--prev'),
+				nextArrow = productGalleryThumbsSlider.siblings('.more-views__arrow--next');
 			
 				productGalleryThumbsSlider.slick({
 				slidesToShow: 4,
@@ -771,7 +771,7 @@ var configuratorPageScripts = (function($){
 	function copySummaryToModal()
 	{
 		var cummaryContent = $('.configurator-summary-categories__list').clone(true);
-		$('#modal-configurator-summary__table').append(cummaryContent);
+		$('.modal-configurator-summary__table').append(cummaryContent);
 	}
 
 
@@ -1307,25 +1307,30 @@ var configuratorPageScripts = (function($){
 		initFixConfiguratorSidebar();
 		initStepTabs();
 		initMobileStepTabsSwitcher();
-		accordionNavLinksHandler();
 		initFixTabsNav();
 		initFixPreviewSidebar();
-		initCustomizerAccordionHandler();
-		initGridSwitcherHandler();
-		initFilterBtnsHandler();
 		toggleFiltersList();
-		componentClickHandler();
 		prepareSelectedComponents();
-		summaryAddLinksHandler();
 		checkEmptySummaryGroups();
 		switchVisibilityEmptyComponentsInSummary();
 		addAccordionItemsToSidebar();
-		sidebarProductPreviewLinkHandler();
 		copySummaryToModal();
 	};
-    
+	
+	function _initHandlers()
+	{
+		accordionNavLinksHandler();
+		initCustomizerAccordionHandler();
+		initGridSwitcherHandler();
+		initFilterBtnsHandler();
+		componentClickHandler();
+		summaryAddLinksHandler();
+		sidebarProductPreviewLinkHandler();
+	}
+
     return {
-        init: _init
+		init: _init,
+		initHandlers: _initHandlers
     };
 
 }(jQuery));
@@ -1363,5 +1368,6 @@ function dropdownTooltip()
 
 jQuery(function () {
 	configuratorPageScripts.init();
+	configuratorPageScripts.initHandlers();
 	dropdownTooltip();
 });
